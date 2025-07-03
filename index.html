@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>랜덤 퀴즈</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 30px;
+      margin: 0;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 30px;
+    }
+    .menu, .quiz-screen {
+      display: none;
+    }
+    .active {
+      display: block;
+    }
+    .button-grid {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .level-btn {
+      width: 200px;
+      height: 200px;
+      font-size: 1.2em;
+      background-color: #e0e0e0;
+      border: none;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    .level-btn:hover {
+      background-color: #d0d0d0;
+    }
+    .back-btn {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      padding: 10px 15px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    #quiz-box {
+      margin: 20px auto;
+      padding: 20px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      max-width: 500px;
+      background-color: #f9f9f9;
+    }
+    button {
+      margin: 5px;
+    }
+    .feedback {
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    .correct {
+      color: green;
+    }
+    .incorrect {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>오늘의 퀴즈</h1>
+
+  <div id="main-menu" class="menu active">
+    <div class="button-grid">
+      <button class="level-btn" onclick="startQuiz('elementary')">초등학생</button>
+      <button class="level-btn" onclick="startQuiz('middle')">중학생</button>
+      <button class="level-btn" onclick="startQuiz('high')">고등학생</button>
+    </div>
+  </div>
+
+  <div id="quiz-screen" class="quiz-screen">
+    <button class="back-btn" onclick="goBack()">← 뒤로가기</button>
+    <div id="quiz-box"></div>
+    <button onclick="showRandomQuiz()">다른 문제 보기</button>
+  </div>
+
+  <script src="quizzes.js"></script>
+  <script>
+    let currentLevel = '';
+    let currentAnswer = '';
+
+    function speak(text) {
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = 'en-US';
+      speechSynthesis.speak(utterance);
+    }
+
+    function startQuiz(level) {
+      currentLevel = level;
+      document.getElementById('main-menu').classList.remove('active');
+      document.getElementById('quiz-screen').classList.add('active');
+      showRandomQuiz();
+    }
+
+    function goBack() {
+      document.getElementById('quiz-screen').classList.remove('active');
+      document.getElementById('main-menu').classList.add('active');
+      document.getElementById('quiz-box').innerHTML = '';
+    }
+
+    function showRandomQuiz() {
+      const list = quizzes[currentLevel];
+      const i = Math.floor(Math.random() * list.length);
+      const quiz = list[i];
+      const word = quiz.question.match(/'(.*?)'/)[1];
+      currentAnswer = quiz.answer.trim().toLowerCase();
+      document.getElementById("quiz-box").innerHTML = `
+        <p><strong>${quiz.question}</strong></p>
+        <button onclick="speak('${word}')">🔊 발음 듣기</button><br><br>
+        <input type="text" id="user-answer" placeholder="뜻을 입력하세요" />
+        <button onclick="checkAnswer()">제출</button>
+        <div id="feedback" class="feedback"></div>
+        <details><summary>정답 보기</summary><p>${quiz.answer}</p></details>
+      `;
+    }
+
+    function checkAnswer() {
+      const userInput = document.getElementById("user-answer").value.trim().toLowerCase();
+      const feedback = document.getElementById("feedback");
+      if (userInput === currentAnswer) {
+        feedback.textContent = "정답입니다! 🎉";
+        feedback.className = "feedback correct";
+      } else {
+        feedback.textContent = "오답입니다. 다시 시도해보세요.";
+        feedback.className = "feedback incorrect";
+      }
+    }
+  </script>
+</body>
+</html>
