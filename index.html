@@ -102,8 +102,24 @@
     <div id="feedback"></div>
   </div>
 
-  <script src="quizzes.js"></script>
-  <script>
+  
+  
+
+  <audio id="correct-audio" src="정답.mp3"></audio>
+  <audio id="wrong-audio" src="오답.mp3"></audio>
+
+<script src="quizzes.js">
+function speak(word) {
+  const audioId = "audio-" + word.toLowerCase();
+  const audio = document.getElementById(audioId);
+  if (audio) {
+    audio.currentTime = 0;
+    audio.play();
+  }
+}
+
+</script>
+<script>
     let currentLevel = '';
     let quizQueue = [];
     let currentIndex = 0;
@@ -146,27 +162,26 @@
       box.innerHTML = `
         <p><strong>${quiz.question}</strong></p>
         <button onclick="speak('${word}')">🔊 발음 듣기</button>
+        <audio id="audio-${word.toLowerCase()}" src="tts/${word.toLowerCase()}.mp3"></audio>
         ${buttonsHTML}
       `;
     }
 
-    function speak(text) {
-      const utter = new SpeechSynthesisUtterance(text);
-      utter.lang = 'en-US';
-      speechSynthesis.speak(utter);
-    }
+    
 
     function checkAnswer(button, correctAnswer) {
       const userChoice = button.textContent.trim();
       const buttons = document.querySelectorAll(".choice-btn");
 
       if (userChoice === correctAnswer) {
+      document.getElementById("correct-audio").play();
         button.classList.add("correct");
         buttons.forEach(btn => btn.disabled = true);
         document.getElementById("feedback").textContent = "정답입니다!";
         document.getElementById("feedback").style.color = "green";
         setTimeout(showNextQuiz, 2000);
       } else {
+      document.getElementById("wrong-audio").play();
         button.classList.add("incorrect");
         buttons.forEach(btn => {
           if (btn.textContent.trim() === correctAnswer) {
@@ -179,6 +194,16 @@
         setTimeout(showNextQuiz, 2000);
       }
     }
-  </script>
+  
+function speak(word) {
+  const audioId = "audio-" + word.toLowerCase();
+  const audio = document.getElementById(audioId);
+  if (audio) {
+    audio.currentTime = 0;
+    audio.play();
+  }
+}
+
+</script>
 </body>
 </html>
