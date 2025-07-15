@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>영어문장 퀴즈</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 40px; }
+    #sentence { font-size: 28px; margin: 30px 0; }
+    button { font-size: 18px; padding: 10px 20px; margin: 10px; }
+    #modal {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.6);
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+    #modal-content {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      text-align: center;
+      max-width: 400px;
+      margin: auto;
+    }
+    #modal-content p { margin: 15px 0; font-size: 20px; }
+    #countdown { font-size: 16px; color: #555; }
+    #next-btn { margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>영어문장 퀴즈</h1>
+  <div id="sentence">문장이 여기에 표시됩니다.</div>
+  <button onclick="speakSentence()">🔊 문장 듣기</button>
+  <button onclick="startSTT()">🎤 해석 말하기</button>
+
+  <div id="modal">
+    <div id="modal-content">
+      <p id="modal-result"></p>
+      <p id="modal-answer"></p>
+      <p id="countdown"></p>
+      <button id="next-btn" onclick="loadNextQuestion()">다음 문제</button>
+    </div>
+  </div>
+
+<script>
+const quizData = [
+  { sentence: "She is drinking water.", answer: "그녀는 물을 마시고 있습니다" },
+  { sentence: "I go to school every morning.", answer: "나는 매일 아침 학교에 갑니다" },
+  { sentence: "He plays soccer on weekends.", answer: "그는 주말마다 축구를 합니다" },
+];
+
+let current = 0;
+let timer;
+let countdown = 10;
+
+function loadNextQuestion() {
+  document.getElementById("modal").style.display = "none";
+  document.getElementById("countdown").innerText = "";
+  document.getElementById("modal-result").innerText = "";
+  document.getElementById("modal-answer").innerText = "";
+
+  if (current >= quizData.length) {
+    document.getElementById("sentence").innerText = "퀴즈가 완료되었습니다!";
+    return;
+  }
+
+  const q = quizData[current];
+  document.getElementById("sentence").innerText = q.sentence;
+  speakSentence();
+}
+
+function speakSentence() {
+  const sentence = quizData[current]?.sentence || "";
+  const utter = new SpeechSynthesisUtterance(sentence);
+  utter.lang = "en-US";
+  speechSynthesis.speak(utter);
+}
+
+function startSTT() {
+  const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+  recognition.lang = "ko-KR";
+  recognition.start();
+
+  recognition.onresult = (event) => {
+    const userSpeech = event.results[0][0].transcript.trim();
+    const correctAnswer = quizData[current].answer;
+    const similarity = getSimilarity(correctAnswer, userSpeech);
+
+    document.getElementById("modal").style.display = "flex";
+    if (similarity >= 0.7) {
+      document.getElementById("modal-result").innerText = "✅ 정답입니다!";
+    } else {
+      document.getElementById("modal-result").innerText = "❌ 오답입니다.";
+    }
+    document.getElementById("modal-answer").innerText = "정답 예시: " + correctAnswer;
+
+    startCountdownModal(() => {
+      current++;
+      loadNextQuestion();
+    });
+  };
+}
+
+function getSimilarity(a, b) {
+  const longer = a.length > b.length ? a : b;
+  const shorter = a.length > b.length ? b : a;
+  const longerLength = longer.length;
+  if (longerLength === 0) return 1.0;
+  const editDist = levenshtein(longer, shorter);
+  return (longerLength - editDist) / parseFloat(longerLength);
+}
+
+function levenshtein(a, b) {
+  const matrix = Array.from({ length: b.length + 1 }, (_, i) =>
+    Array.from({ length: a.length + 1 }, (_, j) => j === 0 ? i : j === 0 ? j : 0)
+  );
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      matrix[i][j] = b[i - 1] === a[j - 1]
+        ? matrix[i - 1][j - 1]
+        : Math.min(matrix[i - 1][j] + 1, matrix[i][j - 1] + 1, matrix[i - 1][j - 1] + 1);
+    }
+  }
+  return matrix[b.length][a.length];
+}
+
+function startCountdownModal(callback) {
+  countdown = 10;
+  document.getElementById("countdown").innerText = `자동으로 다음 문제까지 ${countdown}초`;
+
+  clearInterval(timer);
+  timer = setInterval(() => {
+    countdown--;
+    if (countdown <= 0) {
+      clearInterval(timer);
+      callback();
+    } else {
+      document.getElementById("countdown").innerText = `자동으로 다음 문제까지 ${countdown}초`;
+    }
+  }, 1000);
+}
+
+window.onload = loadNextQuestion;
+</script>
+</body>
+</html>
