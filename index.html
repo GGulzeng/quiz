@@ -6,13 +6,18 @@
   <title>영어 문장 퀴즈</title>
   <style>
     body { font-family: sans-serif; padding: 2rem; background: #f4f4f4; }
-    h1 { color: #333; }
+    h1 { color: #333;  font-size: 2.4rem; }
     .level-buttons { margin-bottom: 1.5rem; }
-    .level-buttons button {
-      padding: 0.6rem 1.2rem; margin-right: 1rem;
-      font-size: 1rem; border: none;
-      background-color: #007bff; color: white;
-      border-radius: 6px; cursor: pointer;
+    .level-buttons button,
+    button {
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      border-radius: 8px;
+      border: none;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      margin-right: 1rem;
     }
     .quiz-box { background: white; padding: 1rem; margin-bottom: 2rem; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
     .kor-question { font-size: 1.2rem; margin-bottom: 1rem; }
@@ -52,6 +57,8 @@
     </div>
   </div>
 
+  <audio id="ttsPlayer" src="" preload="auto"></audio>
+
   <script>
     let quizzes = [];
     let levelQuizzes = [];
@@ -72,7 +79,6 @@
       }
       console.log("선택된 레벨:", level);
       levelQuizzes = quizzes.filter(q => q.level === level).sort(() => Math.random() - 0.5);
-      console.log("해당 레벨 퀴즈 수:", levelQuizzes.length);
       current = 0;
       renderQuiz();
     }
@@ -126,7 +132,7 @@
     function playTTS() {
       const q = levelQuizzes[current];
       const audio = document.getElementById("ttsPlayer");
-      audio.src = "tts_mp3/sentence_" + (current + 1) + ".mp3";
+      audio.src = "tts_mp3/sentence_" + q.id + ".mp3";
       audio.play();
     }
 
@@ -159,6 +165,5 @@
       }, 1000);
     }
   </script>
-<audio id="ttsPlayer" src="" preload="auto"></audio>
 </body>
 </html>
