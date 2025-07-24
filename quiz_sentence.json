@@ -4022,29 +4022,35 @@
       "It's",
       "time",
       "for",
-      "P.E.",
+      "P",
+      ".E",
+      ".",
       "class",
       "."
     ],
     "choices": [
       "therefore",
+      ".E",
       "class",
-      "P.E.",
+      "P",
+      ".",
       "does",
       "time",
       "for",
       "do",
-      "go",
       "It's",
       "then",
       "had"
     ],
     "tts": "It's time for P.E. class.",
     "hint": [
+      "____",
       "It's",
       "____",
       "for",
-      "P.E.",
+      "P",
+      ".E",
+      ".",
       "____",
       "."
     ],
@@ -4473,7 +4479,7 @@
       "my",
       "house",
       "at",
-      "4:30",
+      ":30",
       "."
     ],
     "choices": [
@@ -4489,7 +4495,7 @@
       "my",
       "are",
       "I",
-      "4:30",
+      ":30",
       "at"
     ],
     "tts": "You can come to my house at 4:30.",
@@ -4645,14 +4651,14 @@
       "dance",
       "class",
       "at",
-      "7:30",
+      ":30",
       "."
     ],
     "choices": [
       "He",
       "isn’t",
       "They’re",
-      "7:30",
+      ":30",
       "have",
       "do",
       "does",
@@ -4686,7 +4692,6 @@
       "and",
       "shoes",
       "at",
-      "4",
       "."
     ],
     "choices": [
@@ -4703,8 +4708,7 @@
       "He",
       "T-shirt",
       "and",
-      "at",
-      "4"
+      "at"
     ],
     "tts": "I wash my T-shirt and shoes at 4.",
     "hint": [
@@ -4987,7 +4991,6 @@
       "come",
       "here",
       "at",
-      "8",
       "and",
       "check",
       "on",
@@ -5002,7 +5005,6 @@
       "became",
       "at",
       "I",
-      "8",
       "come",
       "here",
       "does",
