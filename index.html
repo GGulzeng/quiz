@@ -171,6 +171,11 @@
       audio.src = "tts_mp3/sentence_" + q.id + ".mp3";
       audio.play();
     }
+    
+    function removeLastWord() {
+  assembledWords.pop();
+  document.getElementById('assembled').innerText = assembledWords.join(" ");
+    }
 
     function nextQuestion() {
       clearInterval(countdownInterval);
@@ -200,11 +205,7 @@
         }
       }, 1000);
     }
-  
-function removeLastWord() {
-  assembledWords.pop();
-  document.getElementById('assembled').innerText = assembledWords.join(" ");
-}
+
 </script>
 <audio id="wrongSound" preload="auto" src="오답.mp3"></audio>
 </body>
