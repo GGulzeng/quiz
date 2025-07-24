@@ -120,6 +120,7 @@
         <div style="display: flex; justify-content: space-between; margin-top: 2rem;">
           <div>
             <button onclick="checkAnswer()">제출</button>
+            <button onclick="removeLastWord()" style="margin-left: 1rem;">지우기</button>
             <button onclick="resetAssembled()" style="margin-left: 1rem;">초기화</button>
           </div>
           <div>
@@ -176,10 +177,10 @@
       document.getElementById('modal-correct').style.display = 'none';
       document.getElementById('modal-wrong').style.display = 'none';
       current++;
-      if (current < 5) {
+      if (current < levelQuizzes.length) {
         renderQuiz();
       } else {
-        document.getElementById("modal-finish").style.display = "flex";
+        alert("퀴즈가 끝났어요!");
       }
     }
 
@@ -204,19 +205,7 @@ function removeLastWord() {
   assembledWords.pop();
   document.getElementById('assembled').innerText = assembledWords.join(" ");
 }
-
-function restartQuiz() {
-  document.getElementById("modal-finish").style.display = "none";
-  startQuiz(levelQuizzes[0].level);
-}
 </script>
 <audio id="wrongSound" preload="auto" src="오답.mp3"></audio>
-<div class="modal" id="modal-finish">
-<div class="modal-content">
-<h2>🎉 수고했어요!</h2>
-<p>실력이 쑥쑥 늘고 있어요! 계속 도전해봐요!</p>
-<button onclick="restartQuiz()">다시 풀기</button>
-</div>
-</div>
 </body>
 </html>
