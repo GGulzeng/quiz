@@ -21,7 +21,7 @@
     "tts": "How are you?",
     "hint": [
       "How",
-      "are",
+      "____",
       "you",
       "?"
     ],
@@ -101,7 +101,7 @@
     "tts": "Not so good.",
     "hint": [
       "Not",
-      "so",
+      "____",
       "good",
       "."
     ],
@@ -155,7 +155,7 @@
     "tts": "Coco is sick.",
     "hint": [
       "Coco",
-      "is",
+      "____",
       "sick",
       "."
     ],
@@ -213,9 +213,9 @@
     "tts": "We have a new friend.",
     "hint": [
       "We",
-      "have",
-      "a",
-      "new",
+      "____",
+      "____",
+      "____",
       "friend",
       "."
     ],
@@ -246,8 +246,8 @@
     "tts": "I'm your English teacher.",
     "hint": [
       "I'm",
-      "your",
-      "English",
+      "____",
+      "____",
       "teacher",
       "."
     ],
@@ -279,9 +279,9 @@
     "tts": "This is my friend, Jina.",
     "hint": [
       "This",
-      "is",
-      "my",
-      "friend,",
+      "____",
+      "____",
+      "____",
       "Jina",
       "."
     ],
@@ -309,7 +309,7 @@
     "tts": "The curry is ready!",
     "hint": [
       "The",
-      "curry",
+      "____",
       "is",
       "ready!"
     ],
@@ -340,8 +340,8 @@
     "tts": "This is my grandmother.",
     "hint": [
       "This",
-      "is",
-      "my",
+      "____",
+      "____",
       "grandmother",
       "."
     ],
@@ -370,7 +370,7 @@
     "tts": "What's your name?",
     "hint": [
       "What's",
-      "your",
+      "____",
       "name",
       "?"
     ],
@@ -401,8 +401,8 @@
     "tts": "My name is Lisa.",
     "hint": [
       "My",
-      "name",
-      "is",
+      "____",
+      "____",
       "Lisa",
       "."
     ],
@@ -485,8 +485,8 @@
     "tts": "I like your name.",
     "hint": [
       "I",
-      "like",
-      "your",
+      "____",
+      "____",
       "name",
       "."
     ],
@@ -517,8 +517,8 @@
     "tts": "Let's meet at twelve.",
     "hint": [
       "Let's",
-      "meet",
-      "at",
+      "____",
+      "____",
       "twelve",
       "."
     ],
@@ -547,7 +547,7 @@
     "tts": "See you later.",
     "hint": [
       "See",
-      "you",
+      "____",
       "later",
       "."
     ],
@@ -575,7 +575,7 @@
     "tts": "You are smart.",
     "hint": [
       "You",
-      "are",
+      "____",
       "smart",
       "."
     ],
@@ -629,7 +629,7 @@
     "tts": "Are you happy?",
     "hint": [
       "Are",
-      "you",
+      "____",
       "happy",
       "?"
     ],
@@ -658,7 +658,7 @@
     "tts": "Are you angry?",
     "hint": [
       "Are",
-      "you",
+      "____",
       "angry",
       "?"
     ],
@@ -686,7 +686,7 @@
     "tts": "Are you hungry?",
     "hint": [
       "Are",
-      "you",
+      "____",
       "hungry",
       "?"
     ],
@@ -743,8 +743,8 @@
     "tts": "Let's have some snacks.",
     "hint": [
       "Let's",
-      "have",
-      "some",
+      "____",
+      "____",
       "snacks",
       "."
     ],
@@ -799,7 +799,7 @@
     "tts": "Are you thirsty?",
     "hint": [
       "Are",
-      "you",
+      "____",
       "thirsty",
       "?"
     ],
@@ -828,7 +828,7 @@
     "tts": "Some water, please.",
     "hint": [
       "Some",
-      "water,",
+      "____",
       "please",
       "."
     ],
@@ -863,10 +863,10 @@
     "tts": "Do you want some fruit salad?",
     "hint": [
       "Do",
-      "you",
-      "want",
-      "some",
-      "fruit",
+      "____",
+      "____",
+      "____",
+      "____",
       "salad",
       "?"
     ],
@@ -924,9 +924,9 @@
     "tts": "No, thanks. I'm full.",
     "hint": [
       "No,",
-      "thanks",
-      ".",
-      "I'm",
+      "____",
+      "____",
+      "____",
       "full",
       "."
     ],
@@ -982,8 +982,8 @@
     "tts": "I see many stars.",
     "hint": [
       "I",
-      "see",
-      "many",
+      "____",
+      "____",
       "stars",
       "."
     ],
@@ -1014,8 +1014,8 @@
     "tts": "It’s a smart mirror.",
     "hint": [
       "It's",
-      "a",
-      "smart",
+      "____",
+      "____",
       "mirror",
       "."
     ],
@@ -1044,7 +1044,7 @@
     "tts": "Who is he?",
     "hint": [
       "Who",
-      "is",
+      "____",
       "he",
       "?"
     ],
@@ -1075,8 +1075,8 @@
     "tts": "He is my uncle.",
     "hint": [
       "He",
-      "is",
-      "my",
+      "____",
+      "____",
       "uncle",
       "."
     ],
@@ -1106,8 +1106,8 @@
     "tts": "He is a firefighter.",
     "hint": [
       "He",
-      "is",
-      "a",
+      "____",
+      "____",
       "firefighter",
       "."
     ],
@@ -1136,7 +1136,7 @@
     "tts": "Who is she?",
     "hint": [
       "Who",
-      "is",
+      "____",
       "she",
       "?"
     ],
@@ -1167,8 +1167,8 @@
     "tts": "She is my sister.",
     "hint": [
       "She",
-      "is",
-      "my",
+      "____",
+      "____",
       "sister",
       "."
     ],
@@ -1197,7 +1197,7 @@
     "tts": "She is dancer.",
     "hint": [
       "She",
-      "is",
+      "____",
       "dancer",
       "."
     ],
@@ -1227,8 +1227,8 @@
     "tts": "What day is it?",
     "hint": [
       "What",
-      "day",
-      "is",
+      "____",
+      "____",
       "it",
       "?"
     ],
@@ -1285,8 +1285,8 @@
     "tts": "Today is Mom's birthday.",
     "hint": [
       "Today",
-      "is",
-      "Mom's",
+      "____",
+      "____",
       "birthday",
       "."
     ],
@@ -1315,7 +1315,7 @@
     "tts": "Today is Wednesday.",
     "hint": [
       "Today",
-      "is",
+      "____",
       "Wednesday",
       "."
     ],
@@ -1348,9 +1348,9 @@
     "tts": "What time is it now?",
     "hint": [
       "What",
-      "time",
-      "is",
-      "it",
+      "____",
+      "____",
+      "____",
       "now",
       "?"
     ],
@@ -1379,7 +1379,7 @@
     "tts": "It’s three o’clock.",
     "hint": [
       "It's",
-      "three",
+      "____",
       "o'clock",
       "."
     ],
@@ -1408,7 +1408,7 @@
     "tts": "It’s ten thirty.",
     "hint": [
       "It's",
-      "ten",
+      "____",
       "thirty",
       "."
     ],
@@ -1462,8 +1462,8 @@
     "tts": "It's time for school.",
     "hint": [
       "It's",
-      "time",
-      "for",
+      "____",
+      "____",
       "school",
       "."
     ],
@@ -1494,8 +1494,8 @@
     "tts": "It's time for homework.",
     "hint": [
       "It's",
-      "time",
-      "for",
+      "____",
+      "____",
       "homework",
       "."
     ],
@@ -1526,8 +1526,8 @@
     "tts": "It's time for lunch.",
     "hint": [
       "It's",
-      "time",
-      "for",
+      "____",
+      "____",
       "lunch",
       "."
     ],
@@ -1558,8 +1558,8 @@
     "tts": "It’s time for the play!",
     "hint": [
       "It's",
-      "time",
-      "for",
+      "____",
+      "____",
       "the",
       "play!"
     ],
@@ -1590,8 +1590,8 @@
     "tts": "It's time for bed.",
     "hint": [
       "It's",
-      "time",
-      "for",
+      "____",
+      "____",
       "bed",
       "."
     ],
@@ -1622,8 +1622,8 @@
     "tts": "We have cooking class.",
     "hint": [
       "We",
-      "have",
-      "cooking",
+      "____",
+      "____",
       "class",
       "."
     ],
@@ -1656,9 +1656,9 @@
     "tts": "We can make rice cake.",
     "hint": [
       "We",
-      "can",
-      "make",
-      "rice",
+      "____",
+      "____",
+      "____",
       "cake",
       "."
     ],
@@ -1689,8 +1689,8 @@
     "tts": "Where is my shoe?",
     "hint": [
       "Where",
-      "is",
-      "my",
+      "____",
+      "____",
       "shoe",
       "?"
     ],
@@ -1721,8 +1721,8 @@
     "tts": "It's on the desk.",
     "hint": [
       "It's",
-      "on",
-      "the",
+      "____",
+      "____",
       "desk",
       "."
     ],
@@ -1751,7 +1751,7 @@
     "tts": "It's not here.",
     "hint": [
       "It's",
-      "not",
+      "____",
       "here",
       "."
     ],
@@ -1782,8 +1782,8 @@
     "tts": "It's in the box.",
     "hint": [
       "It's",
-      "in",
-      "the",
+      "____",
+      "____",
       "box",
       "."
     ],
@@ -1813,7 +1813,7 @@
     "tts": "I don't know.",
     "hint": [
       "I",
-      "don't",
+      "____",
       "know",
       "."
     ],
@@ -1841,7 +1841,7 @@
     "tts": "It's over there.",
     "hint": [
       "It's",
-      "over",
+      "____",
       "there",
       "."
     ],
@@ -1872,8 +1872,8 @@
     "tts": "Is this your cap?",
     "hint": [
       "Is",
-      "this",
-      "your",
+      "____",
+      "____",
       "cap",
       "?"
     ],
@@ -1930,8 +1930,8 @@
     "tts": "It's under the chair.",
     "hint": [
       "It's",
-      "under",
-      "the",
+      "____",
+      "____",
       "chair",
       "."
     ],
@@ -1965,9 +1965,9 @@
     "tts": "I can’t find my glue.",
     "hint": [
       "I",
-      "can't",
-      "find",
-      "my",
+      "____",
+      "____",
+      "____",
       "glue",
       "."
     ],
@@ -1996,7 +1996,7 @@
     "tts": "Let's play baseball.",
     "hint": [
       "Let's",
-      "play",
+      "____",
       "baseball",
       "."
     ],
@@ -2080,8 +2080,8 @@
     "tts": "Can I try it?",
     "hint": [
       "Can",
-      "I",
-      "try",
+      "____",
+      "____",
       "it",
       "?"
     ],
@@ -2112,8 +2112,8 @@
     "tts": "Can I use it?",
     "hint": [
       "Can",
-      "I",
-      "use",
+      "____",
+      "____",
       "it",
       "?"
     ],
@@ -2170,8 +2170,8 @@
     "tts": "Can you help me?",
     "hint": [
       "Can",
-      "you",
-      "help",
+      "____",
+      "____",
       "me",
       "?"
     ],
@@ -2276,8 +2276,8 @@
     "tts": "Can you play badminton?",
     "hint": [
       "Can",
-      "you",
-      "play",
+      "____",
+      "____",
       "badminton",
       "?"
     ],
@@ -2309,8 +2309,8 @@
     "tts": "I can play basketball, too!",
     "hint": [
       "I",
-      "can",
-      "play",
+      "____",
+      "____",
       "basketball,",
       "too!"
     ],
@@ -2342,8 +2342,8 @@
     "tts": "Can I come in?",
     "hint": [
       "Can",
-      "I",
-      "come",
+      "____",
+      "____",
       "in",
       "?"
     ],
@@ -2402,9 +2402,9 @@
     "tts": "Take off your socks, please.",
     "hint": [
       "Take",
-      "off",
-      "your",
-      "socks,",
+      "____",
+      "____",
+      "____",
       "please",
       "."
     ],
@@ -2436,9 +2436,9 @@
     "tts": "Put on your gown, please.",
     "hint": [
       "Put",
-      "on",
-      "your",
-      "gown,",
+      "____",
+      "____",
+      "____",
       "please",
       "."
     ],
@@ -2469,8 +2469,8 @@
     "tts": "Put on the scarf.",
     "hint": [
       "Put",
-      "on",
-      "the",
+      "____",
+      "____",
       "scarf",
       "."
     ],
@@ -2501,8 +2501,8 @@
     "tts": "Bring a basket, please.",
     "hint": [
       "Bring",
-      "a",
-      "basket,",
+      "____",
+      "____",
       "please",
       "."
     ],
@@ -2531,7 +2531,7 @@
     "tts": "Line up, please.",
     "hint": [
       "Line",
-      "up,",
+      "____",
       "please",
       "."
     ],
@@ -2559,7 +2559,7 @@
     "tts": "Be quiet, please.",
     "hint": [
       "Be",
-      "quiet,",
+      "____",
       "please",
       "."
     ],
@@ -2588,7 +2588,7 @@
     "tts": "Look at the bird!",
     "hint": [
       "Look",
-      "at",
+      "____",
       "the",
       "bird!"
     ],
@@ -2617,7 +2617,7 @@
     "tts": "Don't touch, please.",
     "hint": [
       "Don't",
-      "touch,",
+      "____",
       "please",
       "."
     ],
@@ -2648,8 +2648,8 @@
     "tts": "Pick up the trash.",
     "hint": [
       "Pick",
-      "up",
-      "the",
+      "____",
+      "____",
       "trash",
       "."
     ],
@@ -2682,9 +2682,9 @@
     "tts": "Please sit and wait here.",
     "hint": [
       "Please",
-      "sit",
-      "and",
-      "wait",
+      "____",
+      "____",
+      "____",
       "here",
       "."
     ],
@@ -2717,9 +2717,9 @@
     "tts": "I want this jump rope.",
     "hint": [
       "I",
-      "want",
-      "this",
-      "jump",
+      "____",
+      "____",
+      "____",
       "rope",
       "."
     ],
@@ -2750,8 +2750,8 @@
     "tts": "How much is it?",
     "hint": [
       "How",
-      "much",
-      "is",
+      "____",
+      "____",
       "it",
       "?"
     ],
@@ -2782,8 +2782,8 @@
     "tts": "It's seven hundred won.",
     "hint": [
       "It's",
-      "seven",
-      "hundred",
+      "____",
+      "____",
       "won",
       "."
     ],
@@ -2840,8 +2840,8 @@
     "tts": "It’s two thousand won.",
     "hint": [
       "It's",
-      "two",
-      "thousand",
+      "____",
+      "____",
       "won",
       "."
     ],
@@ -2872,8 +2872,8 @@
     "tts": "What are you doing?",
     "hint": [
       "What",
-      "are",
-      "you",
+      "____",
+      "____",
       "doing",
       "?"
     ],
@@ -2904,8 +2904,8 @@
     "tts": "I'm washing my hands.",
     "hint": [
       "I'm",
-      "washing",
-      "my",
+      "____",
+      "____",
       "hands",
       "."
     ],
@@ -2936,8 +2936,8 @@
     "tts": "I'm cleaning the room.",
     "hint": [
       "I'm",
-      "cleaning",
-      "the",
+      "____",
+      "____",
       "room",
       "."
     ],
@@ -2994,8 +2994,8 @@
     "tts": "What are you drawing?",
     "hint": [
       "What",
-      "are",
-      "you",
+      "____",
+      "____",
       "drawing",
       "?"
     ],
@@ -3026,8 +3026,8 @@
     "tts": "These are my friends.",
     "hint": [
       "These",
-      "are",
-      "my",
+      "____",
+      "____",
       "friends",
       "."
     ],
@@ -3055,7 +3055,7 @@
     "tts": "I'm new here.",
     "hint": [
       "I'm",
-      "new",
+      "____",
       "here",
       "."
     ],
@@ -3086,8 +3086,8 @@
     "tts": "Where are you from?",
     "hint": [
       "Where",
-      "are",
-      "you",
+      "____",
+      "____",
       "from",
       "?"
     ],
@@ -3117,8 +3117,8 @@
     "tts": "I'm from U.S.",
     "hint": [
       "I'm",
-      "from",
-      "U",
+      "____",
+      "____",
       ".S",
       "."
     ],
@@ -3151,9 +3151,9 @@
     "tts": "Welcome to the World Food Festival!",
     "hint": [
       "Welcome",
-      "to",
-      "the",
-      "World",
+      "____",
+      "____",
+      "____",
       "Food",
       "Festival!"
     ],
@@ -3206,8 +3206,8 @@
     "tts": "Now, it's my turn.",
     "hint": [
       "Now,",
-      "it's",
-      "my",
+      "____",
+      "____",
       "turn",
       "."
     ],
@@ -3235,7 +3235,7 @@
     "tts": "He is coming.",
     "hint": [
       "He",
-      "is",
+      "____",
       "coming",
       "."
     ],
@@ -3266,8 +3266,8 @@
     "tts": "Whose bike is that?",
     "hint": [
       "Whose",
-      "bike",
-      "is",
+      "____",
+      "____",
       "that",
       "?"
     ],
@@ -3296,7 +3296,7 @@
     "tts": "It's your sister's.",
     "hint": [
       "It's",
-      "your",
+      "____",
       "sister's",
       "."
     ],
@@ -3329,9 +3329,9 @@
     "tts": "It's my mom's apple jam.",
     "hint": [
       "It's",
-      "my",
-      "mom's",
-      "apple",
+      "____",
+      "____",
+      "____",
       "jam",
       "."
     ],
@@ -3361,8 +3361,8 @@
     "tts": "My drone is broken.",
     "hint": [
       "My",
-      "drone",
-      "is",
+      "____",
+      "____",
       "broken",
       "."
     ],
@@ -3393,8 +3393,8 @@
     "tts": "Whose textbook is this?",
     "hint": [
       "Whose",
-      "textbook",
-      "is",
+      "____",
+      "____",
       "this",
       "?"
     ],
@@ -3449,7 +3449,7 @@
     "tts": "Are you ready?",
     "hint": [
       "Are",
-      "you",
+      "____",
       "ready",
       "?"
     ],
@@ -3478,7 +3478,7 @@
     "tts": "It's very fast.",
     "hint": [
       "It's",
-      "very",
+      "____",
       "fast",
       "."
     ],
@@ -3511,9 +3511,9 @@
     "tts": "I'm looking for my brush.",
     "hint": [
       "I'm",
-      "looking",
-      "for",
-      "my",
+      "____",
+      "____",
+      "____",
       "brush",
       "."
     ],
@@ -3547,10 +3547,10 @@
     "tts": "Write your name on your notebook.",
     "hint": [
       "Write",
-      "your",
-      "name",
-      "on",
-      "your",
+      "____",
+      "____",
+      "____",
+      "____",
       "notebook",
       "."
     ],
@@ -3579,7 +3579,7 @@
     "tts": "Are you sure?",
     "hint": [
       "Are",
-      "you",
+      "____",
       "sure",
       "?"
     ],
@@ -3610,8 +3610,8 @@
     "tts": "Here is the menu.",
     "hint": [
       "Here",
-      "is",
-      "the",
+      "____",
+      "____",
       "menu",
       "."
     ],
@@ -3642,8 +3642,8 @@
     "tts": "Here are potato sandwiches.",
     "hint": [
       "Here",
-      "are",
-      "potato",
+      "____",
+      "____",
       "sandwiches",
       "."
     ],
@@ -3680,11 +3680,11 @@
     "tts": "Today let's make a snack with eggs.",
     "hint": [
       "Today",
-      "let's",
-      "make",
-      "a",
-      "snack",
-      "with",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "eggs",
       "."
     ],
@@ -3713,7 +3713,7 @@
     "tts": "You're making canapes.",
     "hint": [
       "You're",
-      "making",
+      "____",
       "canapes",
       "."
     ],
@@ -3742,7 +3742,7 @@
     "tts": "Please try some.",
     "hint": [
       "Please",
-      "try",
+      "____",
       "some",
       "."
     ],
@@ -3878,9 +3878,9 @@
     "tts": "Do you want some more?",
     "hint": [
       "Do",
-      "you",
-      "want",
-      "some",
+      "____",
+      "____",
+      "____",
       "more",
       "?"
     ],
@@ -3916,11 +3916,11 @@
     "tts": "It's time for P.E. class.",
     "hint": [
       "It's",
-      "time",
-      "for",
-      "P",
-      ".E",
-      ".",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "class",
       "."
     ],
@@ -3951,8 +3951,8 @@
     "tts": "I don't like science.",
     "hint": [
       "I",
-      "don't",
-      "like",
+      "____",
+      "____",
       "science",
       "."
     ],
@@ -3983,8 +3983,8 @@
     "tts": "What's your favorite subject?",
     "hint": [
       "What's",
-      "your",
-      "favorite",
+      "____",
+      "____",
       "subject",
       "?"
     ],
@@ -4017,9 +4017,9 @@
     "tts": "My favorite subject is art.",
     "hint": [
       "My",
-      "favorite",
-      "subject",
-      "is",
+      "____",
+      "____",
+      "____",
       "art",
       "."
     ],
@@ -4050,8 +4050,8 @@
     "tts": "Who's your favorite musician?",
     "hint": [
       "Who's",
-      "your",
-      "favorite",
+      "____",
+      "____",
       "musician",
       "?"
     ],
@@ -4084,9 +4084,9 @@
     "tts": "My favorite musician is Beethoven.",
     "hint": [
       "My",
-      "favorite",
-      "musician",
-      "is",
+      "____",
+      "____",
+      "____",
       "Beethoven",
       "."
     ],
@@ -4117,8 +4117,8 @@
     "tts": "It's my favorite song.",
     "hint": [
       "It's",
-      "my",
-      "favorite",
+      "____",
+      "____",
       "song",
       "."
     ],
@@ -4149,8 +4149,8 @@
     "tts": "Look at these flowers.",
     "hint": [
       "Look",
-      "at",
-      "these",
+      "____",
+      "____",
       "flowers",
       "."
     ],
@@ -4179,7 +4179,7 @@
     "tts": "They are beautiful.",
     "hint": [
       "They",
-      "are",
+      "____",
       "beautiful",
       "."
     ],
@@ -4212,9 +4212,9 @@
     "tts": "How old is your dog?",
     "hint": [
       "How",
-      "old",
-      "is",
-      "your",
+      "____",
+      "____",
+      "____",
       "dog",
       "?"
     ],
@@ -4247,9 +4247,9 @@
     "tts": "Come and see my dog.",
     "hint": [
       "Come",
-      "and",
-      "see",
-      "my",
+      "____",
+      "____",
+      "____",
       "dog",
       "."
     ],
@@ -4283,10 +4283,10 @@
     "tts": "What time do you get home?",
     "hint": [
       "What",
-      "time",
-      "do",
-      "you",
-      "get",
+      "____",
+      "____",
+      "____",
+      "____",
       "home",
       "?"
     ],
@@ -4320,9 +4320,9 @@
     "tts": "I get home at 4.",
     "hint": [
       "I",
-      "get",
-      "home",
-      "at",
+      "____",
+      "____",
+      "____",
       "4",
       "."
     ],
@@ -4361,12 +4361,12 @@
     "tts": "You can come to my house at 4:30.",
     "hint": [
       "You",
-      "can",
-      "come",
-      "to",
-      "my",
-      "house",
-      "at",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "4:30",
       "."
     ],
@@ -4395,7 +4395,7 @@
     "tts": "Come here, Toto.",
     "hint": [
       "Come",
-      "here,",
+      "____",
       "Toto",
       "."
     ],
@@ -4425,8 +4425,8 @@
     "tts": "I have math homework.",
     "hint": [
       "I",
-      "have",
-      "math",
+      "____",
+      "____",
       "homework",
       "."
     ],
@@ -4461,11 +4461,11 @@
     "tts": "What time do you do your homework?",
     "hint": [
       "What",
-      "time",
-      "do",
-      "you",
-      "do",
-      "your",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "homework",
       "?"
     ],
@@ -4526,10 +4526,10 @@
     "tts": "I have dance class at 7:30.",
     "hint": [
       "I",
-      "have",
-      "dance",
-      "class",
-      "at",
+      "____",
+      "____",
+      "____",
+      "____",
       "7:30",
       "."
     ],
@@ -4568,12 +4568,12 @@
     "tts": "I wash my T-shirt and shoes at 4.",
     "hint": [
       "I",
-      "wash",
-      "my",
-      "T-shirt",
-      "and",
-      "shoes",
-      "at",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "4",
       "."
     ],
@@ -4602,7 +4602,7 @@
     "tts": "Where are you?",
     "hint": [
       "Where",
-      "are",
+      "____",
       "you",
       "?"
     ],
@@ -4637,10 +4637,10 @@
     "tts": "I'm in the International Space Station.",
     "hint": [
       "I'm",
-      "in",
-      "the",
-      "International",
-      "Space",
+      "____",
+      "____",
+      "____",
+      "____",
       "Station",
       "."
     ],
@@ -4674,10 +4674,10 @@
     "tts": "What time do you have lunch?",
     "hint": [
       "What",
-      "time",
-      "do",
-      "you",
-      "have",
+      "____",
+      "____",
+      "____",
+      "____",
       "lunch",
       "?"
     ],
@@ -4705,7 +4705,7 @@
     "tts": "Is it delicious?",
     "hint": [
       "Is",
-      "it",
+      "____",
       "delicious",
       "?"
     ],
@@ -4740,11 +4740,11 @@
     "tts": "What do you do in the afternoon?",
     "hint": [
       "What",
-      "do",
-      "you",
-      "do",
-      "in",
-      "the",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "afternoon",
       "?"
     ],
@@ -4782,11 +4782,11 @@
     "tts": "I study about space and read books.",
     "hint": [
       "I",
-      "study",
-      "about",
-      "space",
-      "and",
-      "read",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "books",
       "."
     ],
@@ -4821,10 +4821,10 @@
     "tts": "Please tell me about your day.",
     "hint": [
       "Please",
-      "tell",
-      "me",
-      "about",
-      "your",
+      "____",
+      "____",
+      "____",
+      "____",
       "day",
       "."
     ],
@@ -4868,14 +4868,14 @@
     "tts": "I come here at 8 and check on the fish.",
     "hint": [
       "I",
-      "come",
-      "here",
-      "at",
-      "8",
-      "and",
-      "check",
-      "on",
-      "the",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "fish",
       "."
     ],
@@ -4908,10 +4908,10 @@
     "tts": "What do you do after that?",
     "hint": [
       "What",
-      "do",
-      "you",
-      "do",
-      "after",
+      "____",
+      "____",
+      "____",
+      "____",
       "that",
       "?"
     ],
@@ -4950,12 +4950,12 @@
     "tts": "I feed the animals and clean the fishtanks.",
     "hint": [
       "I",
-      "feed",
-      "the",
-      "animals",
-      "and",
-      "clean",
-      "the",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "fishtanks",
       "."
     ],
@@ -4992,11 +4992,11 @@
     "tts": "I have a dive show at 2.",
     "hint": [
       "I",
-      "have",
-      "a",
-      "dive",
-      "show",
-      "at",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "2",
       "."
     ],
@@ -5025,7 +5025,7 @@
     "tts": "He's my favorite actor!",
     "hint": [
       "He's",
-      "my",
+      "____",
       "favorite",
       "actor!"
     ],
@@ -5059,9 +5059,9 @@
     "tts": "Can I borrow your pen?",
     "hint": [
       "Can",
-      "I",
-      "borrow",
-      "your",
+      "____",
+      "____",
+      "____",
       "pen",
       "?"
     ],
@@ -5120,9 +5120,9 @@
     "tts": "Can I take a picture?",
     "hint": [
       "Can",
-      "I",
-      "take",
-      "a",
+      "____",
+      "____",
+      "____",
       "picture",
       "?"
     ],
@@ -5155,9 +5155,9 @@
     "tts": "Let's take a picture together.",
     "hint": [
       "Let's",
-      "take",
-      "a",
-      "picture",
+      "____",
+      "____",
+      "____",
       "together",
       "."
     ],
@@ -5193,10 +5193,10 @@
     "tts": "Can I go to the restroom?",
     "hint": [
       "Can",
-      "I",
-      "go",
-      "to",
-      "the",
+      "____",
+      "____",
+      "____",
+      "____",
       "restroom",
       "?"
     ],
@@ -5253,8 +5253,8 @@
     "tts": "Can you help me?",
     "hint": [
       "Can",
-      "you",
-      "help",
+      "____",
+      "____",
       "me",
       "?"
     ],
@@ -5288,9 +5288,9 @@
     "tts": "I can see it well.",
     "hint": [
       "I",
-      "can",
-      "see",
-      "it",
+      "____",
+      "____",
+      "____",
       "well",
       "."
     ],
@@ -5318,7 +5318,7 @@
     "tts": "You look great.",
     "hint": [
       "You",
-      "look",
+      "____",
       "great",
       "."
     ],
@@ -5353,11 +5353,11 @@
     "tts": "What did you do during your vacation?",
     "hint": [
       "What",
-      "did",
-      "you",
-      "do",
-      "during",
-      "your",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "vacation",
       "?"
     ],
@@ -5397,12 +5397,12 @@
     "tts": "I went to the beach with my family.",
     "hint": [
       "I",
-      "went",
-      "to",
-      "the",
-      "beach",
-      "with",
-      "my",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "family",
       "."
     ],
@@ -5454,7 +5454,7 @@
     "tts": "How about you?",
     "hint": [
       "How",
-      "about",
+      "____",
       "you",
       "?"
     ],
@@ -5486,8 +5486,8 @@
     "tts": "I helped my mom.",
     "hint": [
       "I",
-      "helped",
-      "my",
+      "____",
+      "____",
       "mom",
       "."
     ],
@@ -5516,7 +5516,7 @@
     "tts": "Long time no see!",
     "hint": [
       "Long",
-      "time",
+      "____",
       "no",
       "see!"
     ],
@@ -5551,10 +5551,10 @@
     "tts": "I visited my grandparents in Thailand.",
     "hint": [
       "I",
-      "visited",
-      "my",
-      "grandparents",
-      "in",
+      "____",
+      "____",
+      "____",
+      "____",
       "Thailand",
       "."
     ],
@@ -5594,12 +5594,12 @@
     "tts": "I went to the beach with my grandma.",
     "hint": [
       "I",
-      "went",
-      "to",
-      "the",
-      "beach",
-      "with",
-      "my",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "grandma",
       "."
     ],
@@ -5630,8 +5630,8 @@
     "tts": "This is for you.",
     "hint": [
       "This",
-      "is",
-      "for",
+      "____",
+      "____",
       "you",
       "."
     ],
@@ -5660,7 +5660,7 @@
     "tts": "You look tired.",
     "hint": [
       "You",
-      "look",
+      "____",
       "tired",
       "."
     ],
@@ -5694,10 +5694,10 @@
     "tts": "What did you do last weekend?",
     "hint": [
       "What",
-      "did",
-      "you",
-      "do",
-      "last",
+      "____",
+      "____",
+      "____",
+      "____",
       "weekend",
       "?"
     ],
@@ -5735,12 +5735,12 @@
     "tts": "I cleaned my house with my family yesterday.",
     "hint": [
       "I",
-      "cleaned",
-      "my",
-      "house",
-      "with",
-      "my",
-      "family",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "yesterday",
       "."
     ],
@@ -5770,7 +5770,7 @@
     "tts": "Oh, I see.",
     "hint": [
       "Oh,",
-      "I",
+      "____",
       "see",
       "."
     ],
@@ -5799,7 +5799,7 @@
     "tts": "It was interesting.",
     "hint": [
       "It",
-      "was",
+      "____",
       "interesting",
       "."
     ],
@@ -5831,8 +5831,8 @@
     "tts": "Can I sit here?",
     "hint": [
       "Can",
-      "I",
-      "sit",
+      "____",
+      "____",
       "here",
       "?"
     ],
@@ -5860,7 +5860,7 @@
     "tts": "It was boring.",
     "hint": [
       "It",
-      "was",
+      "____",
       "boring",
       "."
     ],
@@ -5890,8 +5890,8 @@
     "tts": "How was your weekend?",
     "hint": [
       "How",
-      "was",
-      "your",
+      "____",
+      "____",
       "weekend",
       "?"
     ],
@@ -5947,8 +5947,8 @@
     "tts": "Let's look for Carol.",
     "hint": [
       "Let's",
-      "look",
-      "for",
+      "____",
+      "____",
       "Carol",
       "."
     ],
@@ -5979,8 +5979,8 @@
     "tts": "She is from Canada.",
     "hint": [
       "She",
-      "is",
-      "from",
+      "____",
+      "____",
       "Canada",
       "."
     ],
@@ -6012,9 +6012,9 @@
     "tts": "What does he look like?",
     "hint": [
       "What",
-      "does",
-      "he",
-      "look",
+      "____",
+      "____",
+      "____",
       "like",
       "?"
     ],
@@ -6053,13 +6053,13 @@
     "tts": "She is tall and she has long curly hair.",
     "hint": [
       "She",
-      "is",
-      "tall",
-      "and",
-      "she",
-      "has",
-      "long",
-      "curly",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "hair",
       "."
     ],
@@ -6091,9 +6091,9 @@
     "tts": "We are in Korea now.",
     "hint": [
       "We",
-      "are",
-      "in",
-      "Korea",
+      "____",
+      "____",
+      "____",
       "now",
       "."
     ],
@@ -6133,13 +6133,13 @@
     "tts": "My friend and her son are waiting for us.",
     "hint": [
       "My",
-      "friend",
-      "and",
-      "her",
-      "son",
-      "are",
-      "waiting",
-      "for",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "us",
       "."
     ],
@@ -6168,7 +6168,7 @@
     "tts": "What's his name?",
     "hint": [
       "What's",
-      "his",
+      "____",
       "name",
       "?"
     ],
@@ -6207,12 +6207,12 @@
     "tts": "He has short straight hair and big eyes.",
     "hint": [
       "He",
-      "has",
-      "short",
-      "straight",
-      "hair",
-      "and",
-      "big",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "eyes",
       "."
     ],
@@ -6244,9 +6244,9 @@
     "tts": "Did you have fun today?",
     "hint": [
       "Did",
-      "you",
-      "have",
-      "fun",
+      "____",
+      "____",
+      "____",
       "today",
       "?"
     ],
@@ -6277,8 +6277,8 @@
     "tts": "What is she wearing?",
     "hint": [
       "What",
-      "is",
-      "she",
+      "____",
+      "____",
       "wearing",
       "?"
     ],
@@ -6317,13 +6317,13 @@
     "tts": "She is wearing a blue shirt and a greenskirt.",
     "hint": [
       "She",
-      "is",
-      "wearing",
-      "a",
-      "blue",
-      "shirt",
-      "and",
-      "a",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "greenskirt",
       "."
     ],
@@ -6360,11 +6360,11 @@
     "tts": "Can you play the piano for us?",
     "hint": [
       "Can",
-      "you",
-      "play",
-      "the",
-      "piano",
-      "for",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "us",
       "?"
     ],
@@ -6396,9 +6396,9 @@
     "tts": "I'm looking for my dad.",
     "hint": [
       "I'm",
-      "looking",
-      "for",
-      "my",
+      "____",
+      "____",
+      "____",
       "dad",
       "."
     ],
@@ -6430,9 +6430,9 @@
     "tts": "Hello. This is Amy.",
     "hint": [
       "Hello",
-      ".",
-      "This",
-      "is",
+      "____",
+      "____",
+      "____",
       "Amy",
       "."
     ],
@@ -6461,7 +6461,7 @@
     "tts": "Is Emily there?",
     "hint": [
       "Is",
-      "Emily",
+      "____",
       "there",
       "?"
     ],
@@ -6490,7 +6490,7 @@
     "tts": "See you then.",
     "hint": [
       "See",
-      "you",
+      "____",
       "then",
       "."
     ],
@@ -6527,12 +6527,12 @@
     "tts": "Let's meet at the Sports Center at three.",
     "hint": [
       "Let's",
-      "meet",
-      "at",
-      "the",
-      "Sports",
-      "Center",
-      "at",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "three",
       "."
     ],
@@ -6566,9 +6566,9 @@
     "tts": "Can I speak to John?",
     "hint": [
       "Can",
-      "I",
-      "speak",
-      "to",
+      "____",
+      "____",
+      "____",
       "John",
       "?"
     ],
@@ -6597,7 +6597,7 @@
     "tts": "Hold on, please.",
     "hint": [
       "Hold",
-      "on,",
+      "____",
       "please",
       "."
     ],
@@ -6635,12 +6635,12 @@
     "tts": "Let's go on a picnic at th park.",
     "hint": [
       "Let's",
-      "go",
-      "on",
-      "a",
-      "picnic",
-      "at",
-      "th",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "park",
       "."
     ],
@@ -6680,12 +6680,12 @@
     "tts": "I can make some food for the picnic.",
     "hint": [
       "I",
-      "can",
-      "make",
-      "some",
-      "food",
-      "for",
-      "the",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "picnic",
       "."
     ],
@@ -6718,9 +6718,9 @@
     "tts": "How about at two o'clock?",
     "hint": [
       "How",
-      "about",
-      "at",
-      "two",
+      "____",
+      "____",
+      "____",
       "o'clock",
       "?"
     ],
@@ -6753,9 +6753,9 @@
     "tts": "I made these for you.",
     "hint": [
       "I",
-      "made",
-      "these",
-      "for",
+      "____",
+      "____",
+      "____",
       "you",
       "."
     ],
@@ -6788,9 +6788,9 @@
     "tts": "Let's ride bikes this Saturday.",
     "hint": [
       "Let's",
-      "ride",
-      "bikes",
-      "this",
+      "____",
+      "____",
+      "____",
       "Saturday",
       "."
     ],
@@ -6821,8 +6821,8 @@
     "tts": "Nuri Market is open.",
     "hint": [
       "Nuri",
-      "Market",
-      "is",
+      "____",
+      "____",
       "open",
       "."
     ],
@@ -6855,9 +6855,9 @@
     "tts": "Let's go there this afternoon.",
     "hint": [
       "Let's",
-      "go",
-      "there",
-      "this",
+      "____",
+      "____",
+      "____",
       "afternoon",
       "."
     ],
@@ -6913,8 +6913,8 @@
     "tts": "Where is the market?",
     "hint": [
       "Where",
-      "is",
-      "the",
+      "____",
+      "____",
       "market",
       "?"
     ],
@@ -6957,14 +6957,14 @@
     "tts": "Go straight three blocks and turn left at the bakery.",
     "hint": [
       "Go",
-      "straight",
-      "three",
-      "blocks",
-      "and",
-      "turn",
-      "left",
-      "at",
-      "the",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "bakery",
       "."
     ],
@@ -6999,10 +6999,10 @@
     "tts": "We have to find the library.",
     "hint": [
       "We",
-      "have",
-      "to",
-      "find",
-      "the",
+      "____",
+      "____",
+      "____",
+      "____",
       "library",
       "."
     ],
@@ -7039,11 +7039,11 @@
     "tts": "Turn right again at the post office.",
     "hint": [
       "Turn",
-      "right",
-      "again",
-      "at",
-      "the",
-      "post",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "office",
       "."
     ],
@@ -7076,9 +7076,9 @@
     "tts": "The market is over there.",
     "hint": [
       "The",
-      "market",
-      "is",
-      "over",
+      "____",
+      "____",
+      "____",
       "there",
       "."
     ],
@@ -7111,9 +7111,9 @@
     "tts": "It's next to the bank.",
     "hint": [
       "It's",
-      "next",
-      "to",
-      "the",
+      "____",
+      "____",
+      "____",
       "bank",
       "."
     ],
@@ -7144,8 +7144,8 @@
     "tts": "It's on your right.",
     "hint": [
       "It's",
-      "on",
-      "your",
+      "____",
+      "____",
       "right",
       "."
     ],
@@ -7179,10 +7179,10 @@
     "tts": "What did you do last night?",
     "hint": [
       "What",
-      "did",
-      "you",
-      "do",
-      "last",
+      "____",
+      "____",
+      "____",
+      "____",
       "night",
       "?"
     ],
@@ -7216,10 +7216,10 @@
     "tts": "I watched a movie about animals.",
     "hint": [
       "I",
-      "watched",
-      "a",
-      "movie",
-      "about",
+      "____",
+      "____",
+      "____",
+      "____",
       "animals",
       "."
     ],
@@ -7250,8 +7250,8 @@
     "tts": "You can feed them.",
     "hint": [
       "You",
-      "can",
-      "feed",
+      "____",
+      "____",
       "them",
       "."
     ],
@@ -7290,12 +7290,12 @@
     "tts": "I want to go to the robot room.",
     "hint": [
       "I",
-      "want",
-      "to",
-      "go",
-      "to",
-      "the",
-      "robot",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "room",
       "."
     ],
@@ -7332,11 +7332,11 @@
     "tts": "Do you want to be a scientist?",
     "hint": [
       "Do",
-      "you",
-      "want",
-      "to",
-      "be",
-      "a",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "scientist",
       "?"
     ],
@@ -7370,10 +7370,10 @@
     "tts": "What do you want to be?",
     "hint": [
       "What",
-      "do",
-      "you",
-      "want",
-      "to",
+      "____",
+      "____",
+      "____",
+      "____",
       "be",
       "?"
     ],
@@ -7409,10 +7409,10 @@
     "tts": "I want to be a photographer.",
     "hint": [
       "I",
-      "want",
-      "to",
-      "be",
-      "a",
+      "____",
+      "____",
+      "____",
+      "____",
       "photographer",
       "."
     ],
@@ -7446,10 +7446,10 @@
     "tts": "Let's talk about your dream jobs.",
     "hint": [
       "Let's",
-      "talk",
-      "about",
-      "your",
-      "dream",
+      "____",
+      "____",
+      "____",
+      "____",
       "jobs",
       "."
     ],
@@ -7477,7 +7477,7 @@
     "tts": "Who goes first?",
     "hint": [
       "Who",
-      "goes",
+      "____",
       "first",
       "?"
     ],
@@ -7512,10 +7512,10 @@
     "tts": "Come up to the front, please.",
     "hint": [
       "Come",
-      "up",
-      "to",
-      "the",
-      "front,",
+      "____",
+      "____",
+      "____",
+      "____",
       "please",
       "."
     ],
@@ -7551,10 +7551,10 @@
     "tts": "I want to open Thai Restaurant.",
     "hint": [
       "I",
-      "want",
-      "to",
-      "open",
-      "Thai",
+      "____",
+      "____",
+      "____",
+      "____",
       "Restaurant",
       "."
     ],
@@ -7588,9 +7588,9 @@
     "tts": "I like to help people.",
     "hint": [
       "I",
-      "like",
-      "to",
-      "help",
+      "____",
+      "____",
+      "____",
       "people",
       "."
     ],
@@ -7623,9 +7623,9 @@
     "tts": "I design clothes every day.",
     "hint": [
       "I",
-      "design",
-      "clothes",
-      "every",
+      "____",
+      "____",
+      "____",
       "day",
       "."
     ],
@@ -7666,13 +7666,13 @@
     "tts": "Please come to my fashion show in twenty years.",
     "hint": [
       "Please",
-      "come",
-      "to",
-      "my",
-      "fashion",
-      "show",
-      "in",
-      "twenty",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "years",
       "."
     ],
@@ -7701,7 +7701,7 @@
     "tts": "Is it yours?",
     "hint": [
       "Is",
-      "it",
+      "____",
       "yours",
       "?"
     ],
@@ -7731,8 +7731,8 @@
     "tts": "Can you speak Chinese?",
     "hint": [
       "Can",
-      "you",
-      "speak",
+      "____",
+      "____",
       "Chinese",
       "?"
     ],
@@ -7767,10 +7767,10 @@
     "tts": "I will learn Chinese this winter.",
     "hint": [
       "I",
-      "will",
-      "learn",
-      "Chinese",
-      "this",
+      "____",
+      "____",
+      "____",
+      "____",
       "winter",
       "."
     ],
@@ -7805,11 +7805,11 @@
     "tts": "What will you do during winter vacation?",
     "hint": [
       "What",
-      "will",
-      "you",
-      "do",
-      "during",
-      "winter",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "vacation",
       "?"
     ],
@@ -7845,10 +7845,10 @@
     "tts": "I will join a ski camp.",
     "hint": [
       "I",
-      "will",
-      "join",
-      "a",
-      "ski",
+      "____",
+      "____",
+      "____",
+      "____",
       "camp",
       "."
     ],
@@ -7877,7 +7877,7 @@
     "tts": "Please try some.",
     "hint": [
       "Please",
-      "try",
+      "____",
       "some",
       "."
     ],
@@ -7910,9 +7910,9 @@
     "tts": "Do you like to dance?",
     "hint": [
       "Do",
-      "you",
-      "like",
-      "to",
+      "____",
+      "____",
+      "____",
       "dance",
       "?"
     ],
@@ -7945,9 +7945,9 @@
     "tts": "Tomorrow is New Year's Day.",
     "hint": [
       "Tomorrow",
-      "is",
-      "New",
-      "Year's",
+      "____",
+      "____",
+      "____",
       "Day",
       "."
     ],
@@ -7979,9 +7979,9 @@
     "tts": "What will you do tomorrow?",
     "hint": [
       "What",
-      "will",
-      "you",
-      "do",
+      "____",
+      "____",
+      "____",
       "tomorrow",
       "?"
     ],
@@ -8015,9 +8015,9 @@
     "tts": "I will visit many museums.",
     "hint": [
       "I",
-      "will",
-      "visit",
-      "many",
+      "____",
+      "____",
+      "____",
       "museums",
       "."
     ],
@@ -8049,9 +8049,9 @@
     "tts": "Come over to my house.",
     "hint": [
       "Come",
-      "over",
-      "to",
-      "my",
+      "____",
+      "____",
+      "____",
       "house",
       "."
     ],
@@ -8110,9 +8110,9 @@
     "tts": "I will stay at home.",
     "hint": [
       "I",
-      "will",
-      "stay",
-      "at",
+      "____",
+      "____",
+      "____",
       "home",
       "."
     ],
@@ -8151,12 +8151,12 @@
     "tts": "My mom can play the guitar very well.",
     "hint": [
       "My",
-      "mom",
-      "can",
-      "play",
-      "the",
-      "guitar",
-      "very",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
+      "____",
       "well",
       "."
     ],
