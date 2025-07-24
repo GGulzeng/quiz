@@ -6,7 +6,7 @@
   <title>영어 문장 퀴즈</title>
   <style>
     body { font-family: sans-serif; padding: 2rem; background: #f4f4f4; }
-    h1 { color: #333; font-size: 6rem; text-align: center;  font-size: 2.4rem; }
+    h1 { color: #333; font-size: 6.6rem;  font-size: 2.4rem; }
     .level-buttons { margin-bottom: 1.5rem; }
     .level-buttons button,
     button {
@@ -20,14 +20,26 @@
       margin-right: 1rem;
     }
     .quiz-box { background: white; padding: 1rem; margin-bottom: 2rem; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-    .kor-question { font-size: 4rem; font-weight: bold; margin-bottom: 1rem; }
+    .kor-question { font-size: 3.4rem; font-weight: bold; margin-bottom: 1rem; }
     .choices { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem; }
-    .choice { background: #e0e0e0; padding: 2rem 4rem; font-size: 3rem; border-radius: 4px; cursor: pointer; }
+    .choice {
+      background: #e0e0e0;
+      padding: 2rem 3rem;
+      font-size: 2.4rem;
+      border-radius: 20px;
+      transition: all 0.3s ease;
+     border-radius: 4px; cursor: pointer; }
     .assembled { min-height: 80px; font-size: 3rem; margin-bottom: 1rem; border: 1px dashed #aaa; padding: 0.5rem; border-radius: 4px; background: #fff; }
     .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); justify-content: center; align-items: center; z-index: 10; }
     .modal-content { background: white; padding: 2rem; border-radius: 8px; text-align: center; min-width: 300px; }
     #countdown { font-size: 1.2rem; margin-top: 1rem; color: #d00; }
-  </style>
+  
+.choice:hover {
+  background-color: #d0d0d0;
+  transform: scale(1.05);
+}
+
+</style>
 </head>
 <body>
   <h1>영어 문장 퀴즈</h1>
