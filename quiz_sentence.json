@@ -1,0 +1,11969 @@
+[
+  {
+    "kor": "기분이 어때?",
+    "correct": [
+      "How",
+      "are",
+      "you",
+      "?"
+    ],
+    "choices": [
+      "?",
+      "do",
+      "you",
+      ".",
+      "!",
+      "therefore",
+      "because",
+      "How",
+      "are"
+    ],
+    "tts": "How are you?",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "you",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 1
+  },
+  {
+    "kor": "아주 좋아.",
+    "correct": [
+      "I'm",
+      "great",
+      "."
+    ],
+    "choices": [
+      "He’s",
+      "students",
+      "became",
+      "do",
+      ".",
+      "great",
+      "then",
+      "I'm"
+    ],
+    "tts": "I'm great.",
+    "hint": [
+      "____",
+      "____",
+      "great",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 2
+  },
+  {
+    "kor": "그냥 그래.",
+    "correct": [
+      "Not",
+      "bad",
+      "."
+    ],
+    "choices": [
+      "because",
+      "were",
+      "do",
+      "being",
+      "Not",
+      "bad",
+      "."
+    ],
+    "tts": "Not bad.",
+    "hint": [
+      "",
+      "Not",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 3
+  },
+  {
+    "kor": "좋지 않아.",
+    "correct": [
+      "Not",
+      "so",
+      "good",
+      "."
+    ],
+    "choices": [
+      "she",
+      ",",
+      "Not",
+      "was",
+      "do",
+      "so",
+      "good",
+      ".",
+      "because"
+    ],
+    "tts": "Not so good.",
+    "hint": [
+      "____",
+      "Not",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 4
+  },
+  {
+    "kor": "안녕 (저녁 인사)",
+    "correct": [
+      "Good",
+      "evening",
+      "."
+    ],
+    "choices": [
+      "then",
+      ".",
+      "do",
+      "Good",
+      "evening",
+      "were",
+      "she",
+      "unless"
+    ],
+    "tts": "Good evening.",
+    "hint": [
+      "____",
+      "____",
+      "evening",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 5
+  },
+  {
+    "kor": "코코가 아파.",
+    "correct": [
+      "Coco",
+      "is",
+      "sick",
+      "."
+    ],
+    "choices": [
+      "He’s",
+      "Coco",
+      "do",
+      ".",
+      "although",
+      "are",
+      "sick",
+      "is"
+    ],
+    "tts": "Coco is sick.",
+    "hint": [
+      "____",
+      "____",
+      "is",
+      "sick",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 6
+  },
+  {
+    "kor": "나도 그래.",
+    "correct": [
+      "Me,",
+      "too",
+      "."
+    ],
+    "choices": [
+      "meanwhile",
+      "despite",
+      "therefore",
+      ".",
+      "too",
+      "because",
+      "do",
+      "Me,"
+    ],
+    "tts": "Me, too.",
+    "hint": [
+      "____",
+      "____",
+      "too",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 7
+  },
+  {
+    "kor": "새 친구가 왔어요.",
+    "correct": [
+      "We",
+      "have",
+      "a",
+      "new",
+      "friend",
+      "."
+    ],
+    "choices": [
+      "We",
+      "friend",
+      "new",
+      "have",
+      "despite",
+      "a",
+      ".",
+      "do",
+      "He’s",
+      "did"
+    ],
+    "tts": "We have a new friend.",
+    "hint": [
+      "",
+      "We",
+      "____",
+      "____",
+      "new",
+      "friend",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 8
+  },
+  {
+    "kor": "나는 너의 영어 선생님이야.",
+    "correct": [
+      "I'm",
+      "your",
+      "English",
+      "teacher",
+      "."
+    ],
+    "choices": [
+      "although",
+      "are",
+      "teacher",
+      "do",
+      "therefore",
+      "English",
+      "I'm",
+      ".",
+      "your",
+      "if"
+    ],
+    "tts": "I'm your English teacher.",
+    "hint": [
+      "",
+      "____",
+      "your",
+      "____",
+      "teacher",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 9
+  },
+  {
+    "kor": "이 아이는 제 친구, 지나예요.",
+    "correct": [
+      "This",
+      "is",
+      "my",
+      "friend,",
+      "Jina",
+      "."
+    ],
+    "choices": [
+      "do",
+      "friend,",
+      "if",
+      "Jina",
+      "my",
+      "This",
+      "is",
+      "are",
+      "He’s",
+      "."
+    ],
+    "tts": "This is my friend, Jina.",
+    "hint": [
+      "____",
+      "____",
+      "is",
+      "my",
+      "____",
+      "Jina",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 10
+  },
+  {
+    "kor": "카레가 준비되었어!",
+    "correct": [
+      "The",
+      "curry",
+      "is",
+      "ready!"
+    ],
+    "choices": [
+      "curry",
+      "do",
+      "The",
+      "meanwhile",
+      "were",
+      "is",
+      "ready!",
+      "are"
+    ],
+    "tts": "The curry is ready!",
+    "hint": [
+      "____",
+      "The",
+      "curry",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 11
+  },
+  {
+    "kor": "이 분은 나의 할머니셔.",
+    "correct": [
+      "This",
+      "is",
+      "my",
+      "grandmother",
+      "."
+    ],
+    "choices": [
+      "isn’t",
+      "do",
+      "This",
+      "meanwhile",
+      "my",
+      "has",
+      "grandmother",
+      "although",
+      "is",
+      "."
+    ],
+    "tts": "This is my grandmother.",
+    "hint": [
+      "",
+      "This",
+      "is",
+      "my",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 12
+  },
+  {
+    "kor": "네 이름은 무엇이니?",
+    "correct": [
+      "What's",
+      "your",
+      "name",
+      "?"
+    ],
+    "choices": [
+      "despite",
+      "What's",
+      "?",
+      "unless",
+      "do",
+      "has",
+      "therefore",
+      "your",
+      "name"
+    ],
+    "tts": "What's your name?",
+    "hint": [
+      "____",
+      "What's",
+      "your",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 13
+  },
+  {
+    "kor": "제 이름은 리사예요.",
+    "correct": [
+      "My",
+      "name",
+      "is",
+      "Lisa",
+      "."
+    ],
+    "choices": [
+      "do",
+      "Lisa",
+      "is",
+      "have",
+      "isn’t",
+      "My",
+      "name",
+      "did",
+      ".",
+      "if"
+    ],
+    "tts": "My name is Lisa.",
+    "hint": [
+      "",
+      "My",
+      "name",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 14
+  },
+  {
+    "kor": "저는 의사예요.",
+    "correct": [
+      "I'm",
+      "doctor",
+      "."
+    ],
+    "choices": [
+      ".",
+      "They’re",
+      "doctor",
+      "He’s",
+      "I'm",
+      "do",
+      "became",
+      "isn’t"
+    ],
+    "tts": "I'm doctor.",
+    "hint": [
+      "",
+      "____",
+      "doctor",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 15
+  },
+  {
+    "kor": "너는 빌리구나.",
+    "correct": [
+      "You're",
+      "Billy",
+      "."
+    ],
+    "choices": [
+      "unless",
+      ".",
+      "You're",
+      "am",
+      "do",
+      "Billy",
+      "He’s",
+      "despite"
+    ],
+    "tts": "You're Billy.",
+    "hint": [
+      "",
+      "You're",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 16
+  },
+  {
+    "kor": "네 이름이 좋아.",
+    "correct": [
+      "I",
+      "like",
+      "your",
+      "name",
+      "."
+    ],
+    "choices": [
+      "do",
+      "isn’t",
+      "therefore",
+      "your",
+      "then",
+      "like",
+      "He",
+      ".",
+      "I",
+      "name"
+    ],
+    "tts": "I like your name.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "your",
+      "name",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 17
+  },
+  {
+    "kor": "12시에 만나자.",
+    "correct": [
+      "Let's",
+      "meet",
+      "at",
+      "twelve",
+      "."
+    ],
+    "choices": [
+      "Let's",
+      "although",
+      "meet",
+      "do",
+      "They’re",
+      "twelve",
+      "became",
+      "at",
+      "were",
+      "."
+    ],
+    "tts": "Let's meet at twelve.",
+    "hint": [
+      "",
+      "Let's",
+      "____",
+      "at",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 18
+  },
+  {
+    "kor": "또 뵈어요.",
+    "correct": [
+      "See",
+      "you",
+      "later",
+      "."
+    ],
+    "choices": [
+      "See",
+      "has",
+      "you",
+      "therefore",
+      "do",
+      "although",
+      "despite",
+      "later",
+      "."
+    ],
+    "tts": "See you later.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 19
+  },
+  {
+    "kor": "너 영리하구나.",
+    "correct": [
+      "You",
+      "are",
+      "smart",
+      "."
+    ],
+    "choices": [
+      "do",
+      "smart",
+      "are",
+      "!",
+      ".",
+      "did",
+      "have",
+      "You"
+    ],
+    "tts": "You are smart.",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "smart",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 20
+  },
+  {
+    "kor": "잘 자, 안녕히 주무세요.",
+    "correct": [
+      "Good",
+      "night",
+      "."
+    ],
+    "choices": [
+      "had",
+      "Good",
+      ".",
+      "therefore",
+      "although",
+      "night",
+      "was",
+      "do"
+    ],
+    "tts": "Good night.",
+    "hint": [
+      "",
+      "____",
+      "night",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 21
+  },
+  {
+    "kor": "너 기쁘니?",
+    "correct": [
+      "Are",
+      "you",
+      "happy",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "?",
+      "you",
+      "happy",
+      "because",
+      "she",
+      "Are",
+      "He’s"
+    ],
+    "tts": "Are you happy?",
+    "hint": [
+      "",
+      "____",
+      "you",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 22
+  },
+  {
+    "kor": "너 화났니?",
+    "correct": [
+      "Are",
+      "you",
+      "angry",
+      "?"
+    ],
+    "choices": [
+      "Are",
+      "unless",
+      "angry",
+      "do",
+      "isn’t",
+      "you",
+      "I",
+      "despite",
+      "?"
+    ],
+    "tts": "Are you angry?",
+    "hint": [
+      "",
+      "Are",
+      "____",
+      "angry",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 23
+  },
+  {
+    "kor": "너 배고프니?",
+    "correct": [
+      "Are",
+      "you",
+      "hungry",
+      "?"
+    ],
+    "choices": [
+      "students",
+      "do",
+      "despite",
+      "?",
+      "you",
+      "Are",
+      "does",
+      "hungry"
+    ],
+    "tts": "Are you hungry?",
+    "hint": [
+      "____",
+      "____",
+      "you",
+      "hungry",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 24
+  },
+  {
+    "kor": "배고파.",
+    "correct": [
+      "I'm",
+      "hungry",
+      "."
+    ],
+    "choices": [
+      "I'm",
+      "do",
+      "hungry",
+      "students",
+      "were",
+      ".",
+      "became",
+      "has"
+    ],
+    "tts": "I'm hungry.",
+    "hint": [
+      "",
+      "____",
+      "hungry",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 25
+  },
+  {
+    "kor": "과자 좀  먹자.",
+    "correct": [
+      "Let's",
+      "have",
+      "some",
+      "snacks",
+      "."
+    ],
+    "choices": [
+      "despite",
+      "meanwhile",
+      "have",
+      "do",
+      "isn’t",
+      ".",
+      "if",
+      "Let's",
+      "snacks",
+      "some"
+    ],
+    "tts": "Let's have some snacks.",
+    "hint": [
+      "____",
+      "Let's",
+      "have",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 26
+  },
+  {
+    "kor": "맛있어요.",
+    "correct": [
+      "It's",
+      "delicious",
+      "."
+    ],
+    "choices": [
+      ".",
+      "do",
+      "meanwhile",
+      "I",
+      "It's",
+      "are",
+      "has",
+      "delicious"
+    ],
+    "tts": "It's delicious.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 27
+  },
+  {
+    "kor": "너 목마르니?",
+    "correct": [
+      "Are",
+      "you",
+      "thirsty",
+      "?"
+    ],
+    "choices": [
+      "students",
+      "do",
+      "?",
+      "thirsty",
+      "you",
+      "did",
+      "Are",
+      ".",
+      "despite"
+    ],
+    "tts": "Are you thirsty?",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "thirsty",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 28
+  },
+  {
+    "kor": "물 좀 주세요.",
+    "correct": [
+      "Some",
+      "water,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "do",
+      "water,",
+      "Some",
+      "!",
+      "does",
+      "despite",
+      ".",
+      "became",
+      "please"
+    ],
+    "tts": "Some water, please.",
+    "hint": [
+      "",
+      "Some",
+      "____",
+      "please",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 29
+  },
+  {
+    "kor": "과일 샐러드 좀  먹을래?",
+    "correct": [
+      "Do",
+      "you",
+      "want",
+      "some",
+      "fruit",
+      "salad",
+      "?"
+    ],
+    "choices": [
+      "if",
+      "although",
+      "want",
+      "some",
+      "do",
+      "fruit",
+      "you",
+      "?",
+      ".",
+      "are",
+      "salad",
+      "Do"
+    ],
+    "tts": "Do you want some fruit salad?",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "want",
+      "some",
+      "fruit",
+      "salad",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 30
+  },
+  {
+    "kor": "응. 먹을래.",
+    "correct": [
+      "Yes,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "because",
+      "do",
+      "please",
+      "became",
+      "am",
+      "Yes,",
+      ".",
+      "isn’t"
+    ],
+    "tts": "Yes, please.",
+    "hint": [
+      "",
+      "____",
+      "please",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 31
+  },
+  {
+    "kor": "아니, 괜찮아. 난 배불러.",
+    "correct": [
+      "No,",
+      "thanks",
+      ".",
+      "I'm",
+      "full",
+      "."
+    ],
+    "choices": [
+      "are",
+      ".",
+      "I'm",
+      "do",
+      "has",
+      "No,",
+      "were",
+      "she",
+      "thanks",
+      "full"
+    ],
+    "tts": "No, thanks. I'm full.",
+    "hint": [
+      "",
+      "No,",
+      "thanks",
+      "____",
+      "I'm",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 32
+  },
+  {
+    "kor": "많이 드세요.",
+    "correct": [
+      "Help",
+      "yourself",
+      "."
+    ],
+    "choices": [
+      "does",
+      "!",
+      "became",
+      "yourself",
+      "do",
+      ".",
+      "Help"
+    ],
+    "tts": "Help yourself.",
+    "hint": [
+      "____",
+      "____",
+      "yourself",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 33
+  },
+  {
+    "kor": "별이 많이 보이네.",
+    "correct": [
+      "I",
+      "see",
+      "many",
+      "stars",
+      "."
+    ],
+    "choices": [
+      "do",
+      "unless",
+      "many",
+      "I",
+      "although",
+      "stars",
+      ".",
+      "He",
+      "if",
+      "see"
+    ],
+    "tts": "I see many stars.",
+    "hint": [
+      "____",
+      "I",
+      "see",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 34
+  },
+  {
+    "kor": "똑똑한 거울이네.",
+    "correct": [
+      "It's",
+      "a",
+      "smart",
+      "mirror",
+      "."
+    ],
+    "choices": [
+      "It's",
+      "mirror",
+      "unless",
+      "am",
+      "were",
+      "do",
+      ".",
+      ",",
+      "a",
+      "smart"
+    ],
+    "tts": "It’s a smart mirror.",
+    "hint": [
+      "",
+      "It's",
+      "a",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 35
+  },
+  {
+    "kor": "그는 누구인가요?",
+    "correct": [
+      "Who",
+      "is",
+      "he",
+      "?"
+    ],
+    "choices": [
+      "?",
+      "although",
+      "isn’t",
+      "is",
+      "students",
+      "meanwhile",
+      "Who",
+      "do",
+      "he"
+    ],
+    "tts": "Who is he?",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 36
+  },
+  {
+    "kor": "그는 나의 삼촌이야.",
+    "correct": [
+      "He",
+      "is",
+      "my",
+      "uncle",
+      "."
+    ],
+    "choices": [
+      "He",
+      "do",
+      "being",
+      "are",
+      "is",
+      "if",
+      ".",
+      "my",
+      "uncle",
+      "He’s"
+    ],
+    "tts": "He is my uncle.",
+    "hint": [
+      "",
+      "He",
+      "____",
+      "____",
+      "uncle",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 37
+  },
+  {
+    "kor": "그는 소방관이야.",
+    "correct": [
+      "He",
+      "is",
+      "a",
+      "firefighter",
+      "."
+    ],
+    "choices": [
+      "therefore",
+      "became",
+      "isn’t",
+      "is",
+      ".",
+      "firefighter",
+      "He",
+      "do",
+      "a"
+    ],
+    "tts": "He is a firefighter.",
+    "hint": [
+      "",
+      "____",
+      "is",
+      "____",
+      "firefighter",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 38
+  },
+  {
+    "kor": "그녀는 누구인가요?",
+    "correct": [
+      "Who",
+      "is",
+      "she",
+      "?"
+    ],
+    "choices": [
+      "has",
+      "?",
+      "she",
+      "Who",
+      "do",
+      "is",
+      "have",
+      "being",
+      "despite"
+    ],
+    "tts": "Who is she?",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 39
+  },
+  {
+    "kor": "그녀는 나의 여동생이야.",
+    "correct": [
+      "She",
+      "is",
+      "my",
+      "sister",
+      "."
+    ],
+    "choices": [
+      "do",
+      "!",
+      "my",
+      ",",
+      "sister",
+      "She",
+      "she",
+      ".",
+      "is",
+      "if"
+    ],
+    "tts": "She is my sister.",
+    "hint": [
+      "____",
+      "She",
+      "is",
+      "____",
+      "sister",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 40
+  },
+  {
+    "kor": "그녀는 무용수야.",
+    "correct": [
+      "She",
+      "is",
+      "dancer",
+      "."
+    ],
+    "choices": [
+      ".",
+      "She",
+      "if",
+      "students",
+      "because",
+      "do",
+      "dancer",
+      "were",
+      "is"
+    ],
+    "tts": "She is dancer.",
+    "hint": [
+      "____",
+      "She",
+      "is",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 41
+  },
+  {
+    "kor": "무슨 요일이지?",
+    "correct": [
+      "What",
+      "day",
+      "is",
+      "it",
+      "?"
+    ],
+    "choices": [
+      "day",
+      "isn’t",
+      "they",
+      "do",
+      "What",
+      "is",
+      "They’re",
+      "it",
+      "?"
+    ],
+    "tts": "What day is it?",
+    "hint": [
+      "____",
+      "What",
+      "day",
+      "is",
+      "it",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 42
+  },
+  {
+    "kor": "화요일이야.",
+    "correct": [
+      "It's",
+      "Tuesday",
+      "."
+    ],
+    "choices": [
+      "It's",
+      "were",
+      "do",
+      "Tuesday",
+      ".",
+      "then",
+      "unless",
+      "they"
+    ],
+    "tts": "It's Tuesday.",
+    "hint": [
+      "____",
+      "____",
+      "Tuesday",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 43
+  },
+  {
+    "kor": "오늘은 엄마 생일이야.",
+    "correct": [
+      "Today",
+      "is",
+      "Mom's",
+      "birthday",
+      "."
+    ],
+    "choices": [
+      "Today",
+      "is",
+      "I",
+      "do",
+      "because",
+      "unless",
+      "Mom's",
+      ".",
+      "although",
+      "birthday"
+    ],
+    "tts": "Today is Mom's birthday.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____",
+      "birthday",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 44
+  },
+  {
+    "kor": "오늘은 수요일이에요.",
+    "correct": [
+      "Today",
+      "is",
+      "Wednesday",
+      "."
+    ],
+    "choices": [
+      "therefore",
+      "is",
+      "do",
+      "they",
+      "Wednesday",
+      ".",
+      "Today",
+      "became",
+      "am"
+    ],
+    "tts": "Today is Wednesday.",
+    "hint": [
+      "____",
+      "Today",
+      "is",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 45
+  },
+  {
+    "kor": "지금 몇 시니?",
+    "correct": [
+      "What",
+      "time",
+      "is",
+      "it",
+      "now",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "it",
+      "time",
+      "now",
+      "?",
+      "has",
+      "meanwhile",
+      "isn’t",
+      "is",
+      "then",
+      "What"
+    ],
+    "tts": "What time is it now?",
+    "hint": [
+      "",
+      "What",
+      "time",
+      "____",
+      "____",
+      "now",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 46
+  },
+  {
+    "kor": "3시야.",
+    "correct": [
+      "It's",
+      "three",
+      "o'clock",
+      "."
+    ],
+    "choices": [
+      "they",
+      "if",
+      "then",
+      "three",
+      ".",
+      "It's",
+      "o'clock",
+      "do",
+      "am"
+    ],
+    "tts": "It’s three o’clock.",
+    "hint": [
+      "____",
+      "It's",
+      "three",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 47
+  },
+  {
+    "kor": "10시 반이야.",
+    "correct": [
+      "It's",
+      "ten",
+      "thirty",
+      "."
+    ],
+    "choices": [
+      "thirty",
+      "students",
+      "do",
+      "ten",
+      ".",
+      "was",
+      "It's",
+      "they",
+      ","
+    ],
+    "tts": "It’s ten thirty.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "thirty",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 48
+  },
+  {
+    "kor": "우리 늦었어.",
+    "correct": [
+      "we're",
+      "late!"
+    ],
+    "choices": [
+      "did",
+      "do",
+      "late!",
+      "meanwhile",
+      "we're",
+      "were",
+      "was"
+    ],
+    "tts": "we’re late!",
+    "hint": [
+      "",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 49
+  },
+  {
+    "kor": "학교에 갈 시간이야.",
+    "correct": [
+      "It's",
+      "time",
+      "for",
+      "school",
+      "."
+    ],
+    "choices": [
+      "was",
+      "It's",
+      "had",
+      "for",
+      "being",
+      ".",
+      "school",
+      "although",
+      "do",
+      "time"
+    ],
+    "tts": "It's time for school.",
+    "hint": [
+      "____",
+      "____",
+      "time",
+      "for",
+      "school",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 50
+  },
+  {
+    "kor": "숙제 할 시간이야.",
+    "correct": [
+      "It's",
+      "time",
+      "for",
+      "homework",
+      "."
+    ],
+    "choices": [
+      "has",
+      "do",
+      "became",
+      "It's",
+      "then",
+      "homework",
+      "He’s",
+      "for",
+      ".",
+      "time"
+    ],
+    "tts": "It's time for homework.",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "____",
+      "homework",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 51
+  },
+  {
+    "kor": "점심 먹을 시간이야.",
+    "correct": [
+      "It's",
+      "time",
+      "for",
+      "lunch",
+      "."
+    ],
+    "choices": [
+      "because",
+      ".",
+      "was",
+      "lunch",
+      "It's",
+      "do",
+      "time",
+      "if",
+      "for",
+      "were"
+    ],
+    "tts": "It's time for lunch.",
+    "hint": [
+      "",
+      "____",
+      "time",
+      "for",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 52
+  },
+  {
+    "kor": "공연을 할 시간이야!",
+    "correct": [
+      "It's",
+      "time",
+      "for",
+      "the",
+      "play!"
+    ],
+    "choices": [
+      "although",
+      "It's",
+      "time",
+      "do",
+      "They’re",
+      ".",
+      "for",
+      "despite",
+      "play!",
+      "the"
+    ],
+    "tts": "It’s time for the play!",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "for",
+      "the",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 53
+  },
+  {
+    "kor": "잠자러 갈 시간이란다.",
+    "correct": [
+      "It's",
+      "time",
+      "for",
+      "bed",
+      "."
+    ],
+    "choices": [
+      "did",
+      ",",
+      ".",
+      "bed",
+      "It's",
+      "for",
+      "time",
+      "does",
+      "do",
+      "have"
+    ],
+    "tts": "It's time for bed.",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "____",
+      "bed",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 54
+  },
+  {
+    "kor": "우리는 요리 수업이 있어.",
+    "correct": [
+      "We",
+      "have",
+      "cooking",
+      "class",
+      "."
+    ],
+    "choices": [
+      "They’re",
+      "do",
+      "class",
+      "if",
+      "have",
+      ".",
+      "despite",
+      "cooking",
+      "We",
+      "became"
+    ],
+    "tts": "We have cooking class.",
+    "hint": [
+      "____",
+      "We",
+      "have",
+      "____",
+      "class",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 55
+  },
+  {
+    "kor": "우리는 쌀 케이크를 만들 수 있어.",
+    "correct": [
+      "We",
+      "can",
+      "make",
+      "rice",
+      "cake",
+      "."
+    ],
+    "choices": [
+      "can",
+      ".",
+      "meanwhile",
+      "despite",
+      "We",
+      "rice",
+      "am",
+      "cake",
+      "make",
+      "do",
+      "had"
+    ],
+    "tts": "We can make rice cake.",
+    "hint": [
+      "",
+      "We",
+      "can",
+      "make",
+      "____",
+      "cake",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 56
+  },
+  {
+    "kor": "제 신발이 어디에 있죠?",
+    "correct": [
+      "Where",
+      "is",
+      "my",
+      "shoe",
+      "?"
+    ],
+    "choices": [
+      "Where",
+      "my",
+      "?",
+      "shoe",
+      "do",
+      "is",
+      "being",
+      "did",
+      "does",
+      "They’re"
+    ],
+    "tts": "Where is my shoe?",
+    "hint": [
+      "____",
+      "Where",
+      "____",
+      "my",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 57
+  },
+  {
+    "kor": "그것은 책상 위에 있어.",
+    "correct": [
+      "It's",
+      "on",
+      "the",
+      "desk",
+      "."
+    ],
+    "choices": [
+      "desk",
+      "do",
+      "They’re",
+      "has",
+      "being",
+      "on",
+      ".",
+      "It's",
+      "if",
+      "the"
+    ],
+    "tts": "It's on the desk.",
+    "hint": [
+      "",
+      "It's",
+      "on",
+      "the",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 58
+  },
+  {
+    "kor": "그것은 여기 없어요.",
+    "correct": [
+      "It's",
+      "not",
+      "here",
+      "."
+    ],
+    "choices": [
+      ".",
+      "were",
+      "not",
+      "do",
+      "despite",
+      "therefore",
+      "It's",
+      "had",
+      "here"
+    ],
+    "tts": "It's not here.",
+    "hint": [
+      "____",
+      "____",
+      "not",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 59
+  },
+  {
+    "kor": "그것은 상자 안에 있어.",
+    "correct": [
+      "It's",
+      "in",
+      "the",
+      "box",
+      "."
+    ],
+    "choices": [
+      ",",
+      ".",
+      "have",
+      "did",
+      "do",
+      "in",
+      "box",
+      "the",
+      "isn’t",
+      "It's"
+    ],
+    "tts": "It's in the box.",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "____",
+      "box",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 60
+  },
+  {
+    "kor": "모르겠는데.",
+    "correct": [
+      "I",
+      "don't",
+      "know",
+      "."
+    ],
+    "choices": [
+      "I",
+      "they",
+      "do",
+      "know",
+      "He’s",
+      "He",
+      "They’re",
+      "she",
+      "don't",
+      "."
+    ],
+    "tts": "I don't know.",
+    "hint": [
+      "",
+      "____",
+      "don't",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 61
+  },
+  {
+    "kor": "저기에 있어.",
+    "correct": [
+      "It's",
+      "over",
+      "there",
+      "."
+    ],
+    "choices": [
+      ".",
+      "isn’t",
+      "have",
+      "do",
+      "did",
+      "It's",
+      "there",
+      "over"
+    ],
+    "tts": "It's over there.",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "there",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 62
+  },
+  {
+    "kor": "이것은 네 모자니?",
+    "correct": [
+      "Is",
+      "this",
+      "your",
+      "cap",
+      "?"
+    ],
+    "choices": [
+      "being",
+      "had",
+      "your",
+      "then",
+      "this",
+      "Is",
+      "?",
+      "were",
+      "cap",
+      "do"
+    ],
+    "tts": "Is this your cap?",
+    "hint": [
+      "",
+      "Is",
+      "this",
+      "your",
+      "cap",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 63
+  },
+  {
+    "kor": "그것은 내 스웨터야!",
+    "correct": [
+      "It's",
+      "my",
+      "sweater!"
+    ],
+    "choices": [
+      "became",
+      "unless",
+      "do",
+      "although",
+      "It's",
+      "my",
+      "sweater!",
+      "were"
+    ],
+    "tts": "It's my sweater!",
+    "hint": [
+      "",
+      "It's",
+      "my",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 64
+  },
+  {
+    "kor": "그것은 의자 아래 있어.",
+    "correct": [
+      "It's",
+      "under",
+      "the",
+      "chair",
+      "."
+    ],
+    "choices": [
+      "under",
+      ".",
+      "unless",
+      "if",
+      "He’s",
+      "chair",
+      "do",
+      "despite",
+      "the",
+      "It's"
+    ],
+    "tts": "It's under the chair.",
+    "hint": [
+      "",
+      "It's",
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 65
+  },
+  {
+    "kor": "내 풀을 못 찾겠어.",
+    "correct": [
+      "I",
+      "can't",
+      "find",
+      "my",
+      "glue",
+      "."
+    ],
+    "choices": [
+      ".",
+      "isn’t",
+      "I",
+      "can't",
+      "if",
+      "then",
+      "do",
+      "find",
+      "meanwhile",
+      "my",
+      "He",
+      "glue"
+    ],
+    "tts": "I can’t find my glue.",
+    "hint": [
+      "____",
+      "I",
+      "____",
+      "find",
+      "my",
+      "glue",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 66
+  },
+  {
+    "kor": "야구하자.",
+    "correct": [
+      "Let's",
+      "play",
+      "baseball",
+      "."
+    ],
+    "choices": [
+      "Let's",
+      "play",
+      "unless",
+      "meanwhile",
+      ".",
+      "baseball",
+      "then",
+      "therefore",
+      "do"
+    ],
+    "tts": "Let's play baseball.",
+    "hint": [
+      "____",
+      "Let's",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 67
+  },
+  {
+    "kor": "안으로 들어가자!",
+    "correct": [
+      "Let's",
+      "go",
+      "inside!"
+    ],
+    "choices": [
+      "go",
+      "has",
+      "inside!",
+      "although",
+      "then",
+      "do",
+      "Let's",
+      "unless"
+    ],
+    "tts": "Let's go inside!",
+    "hint": [
+      "",
+      "Let's",
+      "____",
+      "inside!"
+    ],
+    "level": "Level 1",
+    "id": 68
+  },
+  {
+    "kor": "재미있어.",
+    "correct": [
+      "It's",
+      "fun",
+      "."
+    ],
+    "choices": [
+      ".",
+      "?",
+      "It's",
+      "she",
+      "fun",
+      "do",
+      "!",
+      "does"
+    ],
+    "tts": "It's fun.",
+    "hint": [
+      "",
+      "It's",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 69
+  },
+  {
+    "kor": "제가 해봐도 될까요?",
+    "correct": [
+      "Can",
+      "I",
+      "try",
+      "it",
+      "?"
+    ],
+    "choices": [
+      "I",
+      "try",
+      "do",
+      "had",
+      "Can",
+      "it",
+      ",",
+      "am",
+      "He",
+      "?",
+      "isn’t"
+    ],
+    "tts": "Can I try it?",
+    "hint": [
+      "",
+      "____",
+      "I",
+      "try",
+      "it",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 70
+  },
+  {
+    "kor": "제가 써도 될까요?",
+    "correct": [
+      "Can",
+      "I",
+      "use",
+      "it",
+      "?"
+    ],
+    "choices": [
+      "it",
+      "isn’t",
+      "use",
+      "?",
+      "I",
+      "He",
+      "Can",
+      "He’s",
+      "was",
+      "do"
+    ],
+    "tts": "Can I use it?",
+    "hint": [
+      "____",
+      "Can",
+      "____",
+      "use",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 71
+  },
+  {
+    "kor": "계속 하세요.",
+    "correct": [
+      "Go",
+      "ahead",
+      "."
+    ],
+    "choices": [
+      "are",
+      ",",
+      ".",
+      "Go",
+      "ahead",
+      "has",
+      "do",
+      "was"
+    ],
+    "tts": "Go ahead.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 72
+  },
+  {
+    "kor": "나 좀 도와줄 수 있니?",
+    "correct": [
+      "Can",
+      "you",
+      "help",
+      "me",
+      "?"
+    ],
+    "choices": [
+      "you",
+      "?",
+      "she",
+      "was",
+      "He’s",
+      "me",
+      "isn’t",
+      "help",
+      "do",
+      "Can"
+    ],
+    "tts": "Can you help me?",
+    "hint": [
+      "____",
+      "____",
+      "you",
+      "help",
+      "me",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 73
+  },
+  {
+    "kor": "나는 바빠.",
+    "correct": [
+      "I'm",
+      "busy",
+      "."
+    ],
+    "choices": [
+      "I",
+      "became",
+      "busy",
+      ".",
+      "I'm",
+      "do",
+      "has",
+      "despite"
+    ],
+    "tts": "I'm busy.",
+    "hint": [
+      "____",
+      "I'm",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 74
+  },
+  {
+    "kor": "걱정하지 마.",
+    "correct": [
+      "Don't",
+      "worry",
+      "."
+    ],
+    "choices": [
+      "are",
+      "unless",
+      "became",
+      ".",
+      "students",
+      "do",
+      "Don't",
+      "worry"
+    ],
+    "tts": "Don't worry.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 75
+  },
+  {
+    "kor": "좋아!",
+    "correct": [
+      "Sounds",
+      "great!"
+    ],
+    "choices": [
+      "He’s",
+      "do",
+      "?",
+      "she",
+      "great!",
+      "Sounds",
+      "am"
+    ],
+    "tts": "Sounds great!",
+    "hint": [
+      "",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 76
+  },
+  {
+    "kor": "너 배드민턴 칠 수 있니?",
+    "correct": [
+      "Can",
+      "you",
+      "play",
+      "badminton",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "they",
+      "you",
+      "They’re",
+      "because",
+      "play",
+      "Can",
+      "?",
+      "badminton"
+    ],
+    "tts": "Can you play badminton?",
+    "hint": [
+      "",
+      "Can",
+      "you",
+      "____",
+      "badminton",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 77
+  },
+  {
+    "kor": "나도 농구할 수 있어!",
+    "correct": [
+      "I",
+      "can",
+      "play",
+      "basketball,",
+      "too!"
+    ],
+    "choices": [
+      "play",
+      "too!",
+      "He",
+      "being",
+      "basketball,",
+      "despite",
+      "can",
+      "I",
+      "!",
+      "became",
+      "do"
+    ],
+    "tts": "I can play basketball, too!",
+    "hint": [
+      "",
+      "____",
+      "can",
+      "play",
+      "____",
+      "too!"
+    ],
+    "level": "Level 1",
+    "id": 78
+  },
+  {
+    "kor": "들어가도 되나요?",
+    "correct": [
+      "Can",
+      "I",
+      "come",
+      "in",
+      "?"
+    ],
+    "choices": [
+      "in",
+      "come",
+      "unless",
+      "do",
+      "Can",
+      "I",
+      "?",
+      "am",
+      "therefore",
+      "He",
+      "because"
+    ],
+    "tts": "Can I come in?",
+    "hint": [
+      "____",
+      "____",
+      "I",
+      "come",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 79
+  },
+  {
+    "kor": "들어오렴.",
+    "correct": [
+      "Come",
+      "in",
+      "."
+    ],
+    "choices": [
+      "Come",
+      "then",
+      "did",
+      "isn’t",
+      "in",
+      "were",
+      "do",
+      "."
+    ],
+    "tts": "Come in.",
+    "hint": [
+      "____",
+      "____",
+      "in",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 80
+  },
+  {
+    "kor": "양말을 벗으세요.",
+    "correct": [
+      "Take",
+      "off",
+      "your",
+      "socks,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "has",
+      "socks,",
+      "off",
+      "do",
+      "Take",
+      "unless",
+      ".",
+      "were",
+      "please",
+      "your",
+      "does"
+    ],
+    "tts": "Take off your socks, please.",
+    "hint": [
+      "",
+      "Take",
+      "____",
+      "____",
+      "socks,",
+      "please",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 81
+  },
+  {
+    "kor": "가운을 입으세요.",
+    "correct": [
+      "Put",
+      "on",
+      "your",
+      "gown,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "isn’t",
+      "do",
+      "your",
+      "gown,",
+      "please",
+      "unless",
+      "on",
+      ".",
+      "Put",
+      "although"
+    ],
+    "tts": "Put on your gown, please.",
+    "hint": [
+      "",
+      "____",
+      "on",
+      "your",
+      "gown,",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 82
+  },
+  {
+    "kor": "스카프를 둘러.",
+    "correct": [
+      "Put",
+      "on",
+      "the",
+      "scarf",
+      "."
+    ],
+    "choices": [
+      "were",
+      "scarf",
+      "became",
+      "do",
+      "the",
+      "on",
+      "therefore",
+      ".",
+      "have",
+      "Put"
+    ],
+    "tts": "Put on the scarf.",
+    "hint": [
+      "____",
+      "Put",
+      "on",
+      "____",
+      "scarf",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 83
+  },
+  {
+    "kor": "바구니를 가져오렴.",
+    "correct": [
+      "Bring",
+      "a",
+      "basket,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "a",
+      "has",
+      "then",
+      "she",
+      "please",
+      "being",
+      "do",
+      "basket,",
+      ".",
+      "Bring"
+    ],
+    "tts": "Bring a basket, please.",
+    "hint": [
+      "",
+      "____",
+      "a",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 84
+  },
+  {
+    "kor": "줄을 서세요.",
+    "correct": [
+      "Line",
+      "up,",
+      "please",
+      "."
+    ],
+    "choices": [
+      ".",
+      "please",
+      "Line",
+      "if",
+      "do",
+      "up,",
+      "They’re",
+      "because",
+      "does"
+    ],
+    "tts": "Line up, please.",
+    "hint": [
+      "____",
+      "Line",
+      "up,",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 85
+  },
+  {
+    "kor": "조용히 해 주세요.",
+    "correct": [
+      "Be",
+      "quiet,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "meanwhile",
+      "quiet,",
+      "do",
+      "was",
+      "unless",
+      "Be",
+      "please",
+      "."
+    ],
+    "tts": "Be quiet, please.",
+    "hint": [
+      "____",
+      "Be",
+      "quiet,",
+      "____",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 86
+  },
+  {
+    "kor": "새를 봐!",
+    "correct": [
+      "Look",
+      "at",
+      "the",
+      "bird!"
+    ],
+    "choices": [
+      "the",
+      "do",
+      "therefore",
+      "were",
+      "at",
+      "students",
+      "bird!",
+      "became",
+      "Look"
+    ],
+    "tts": "Look at the bird!",
+    "hint": [
+      "",
+      "Look",
+      "____",
+      "____",
+      "bird!"
+    ],
+    "level": "Level 1",
+    "id": 87
+  },
+  {
+    "kor": "만지지 마세요.",
+    "correct": [
+      "Don't",
+      "touch,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "are",
+      "please",
+      "they",
+      "do",
+      "touch,",
+      "Don't",
+      "meanwhile",
+      "although",
+      "."
+    ],
+    "tts": "Don't touch, please.",
+    "hint": [
+      "____",
+      "____",
+      "touch,",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 88
+  },
+  {
+    "kor": "쓰레기를 주워.",
+    "correct": [
+      "Pick",
+      "up",
+      "the",
+      "trash",
+      "."
+    ],
+    "choices": [
+      ".",
+      "were",
+      "has",
+      "up",
+      "trash",
+      "Pick",
+      "isn’t",
+      "therefore",
+      "do",
+      "the"
+    ],
+    "tts": "Pick up the trash.",
+    "hint": [
+      "____",
+      "Pick",
+      "up",
+      "____",
+      "trash",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 89
+  },
+  {
+    "kor": "여기 앉아서 기다리세요.",
+    "correct": [
+      "Please",
+      "sit",
+      "and",
+      "wait",
+      "here",
+      "."
+    ],
+    "choices": [
+      "here",
+      "are",
+      "does",
+      "and",
+      "Please",
+      "sit",
+      "wait",
+      "despite",
+      "do",
+      "although",
+      "."
+    ],
+    "tts": "Please sit and wait here.",
+    "hint": [
+      "",
+      "____",
+      "sit",
+      "____",
+      "wait",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 90
+  },
+  {
+    "kor": "이 줄넘기를 사고 싶어요.",
+    "correct": [
+      "I",
+      "want",
+      "this",
+      "jump",
+      "rope",
+      "."
+    ],
+    "choices": [
+      "then",
+      "she",
+      "this",
+      "He",
+      "do",
+      ",",
+      "want",
+      "I",
+      "rope",
+      ".",
+      "jump"
+    ],
+    "tts": "I want this jump rope.",
+    "hint": [
+      "",
+      "I",
+      "want",
+      "this",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 91
+  },
+  {
+    "kor": "얼마니?",
+    "correct": [
+      "How",
+      "much",
+      "is",
+      "it",
+      "?"
+    ],
+    "choices": [
+      "it",
+      "How",
+      "much",
+      "do",
+      "is",
+      "had",
+      "has",
+      "?",
+      "being",
+      "she"
+    ],
+    "tts": "How much is it?",
+    "hint": [
+      "____",
+      "How",
+      "much",
+      "____",
+      "it",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 92
+  },
+  {
+    "kor": "700원이야.",
+    "correct": [
+      "It's",
+      "seven",
+      "hundred",
+      "won",
+      "."
+    ],
+    "choices": [
+      "won",
+      "I",
+      "do",
+      "hundred",
+      "It's",
+      ",",
+      "?",
+      "has",
+      ".",
+      "seven"
+    ],
+    "tts": "It's seven hundred won.",
+    "hint": [
+      "____",
+      "____",
+      "seven",
+      "hundred",
+      "won",
+      "____"
+    ],
+    "level": "Level 1",
+    "id": 93
+  },
+  {
+    "kor": "싸네요.",
+    "correct": [
+      "It's",
+      "cheap",
+      "."
+    ],
+    "choices": [
+      "if",
+      "It's",
+      "does",
+      ".",
+      "I",
+      "do",
+      "then",
+      "cheap"
+    ],
+    "tts": "It’s cheap.",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 94
+  },
+  {
+    "kor": "2,000원이야.",
+    "correct": [
+      "It's",
+      "two",
+      "thousand",
+      "won",
+      "."
+    ],
+    "choices": [
+      "thousand",
+      "have",
+      "unless",
+      "He’s",
+      "won",
+      ".",
+      "two",
+      "do",
+      "did",
+      "It's"
+    ],
+    "tts": "It’s two thousand won.",
+    "hint": [
+      "",
+      "It's",
+      "two",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 95
+  },
+  {
+    "kor": "무엇을 하고 있니?",
+    "correct": [
+      "What",
+      "are",
+      "you",
+      "doing",
+      "?"
+    ],
+    "choices": [
+      "doing",
+      "despite",
+      "was",
+      "they",
+      "?",
+      "do",
+      "I",
+      "are",
+      "What",
+      "you"
+    ],
+    "tts": "What are you doing?",
+    "hint": [
+      "",
+      "____",
+      "are",
+      "you",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 96
+  },
+  {
+    "kor": "손을 씻고 있어.",
+    "correct": [
+      "I'm",
+      "washing",
+      "my",
+      "hands",
+      "."
+    ],
+    "choices": [
+      "They’re",
+      "hands",
+      "my",
+      ".",
+      "do",
+      "did",
+      "I'm",
+      "despite",
+      "!",
+      "washing"
+    ],
+    "tts": "I'm washing my hands.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "my",
+      "hands",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 97
+  },
+  {
+    "kor": "방을 청소하고 있어.",
+    "correct": [
+      "I'm",
+      "cleaning",
+      "the",
+      "room",
+      "."
+    ],
+    "choices": [
+      "am",
+      "I'm",
+      "They’re",
+      "because",
+      "room",
+      "do",
+      "cleaning",
+      "being",
+      ".",
+      "the"
+    ],
+    "tts": "I'm cleaning the room.",
+    "hint": [
+      "____",
+      "I'm",
+      "cleaning",
+      "____",
+      "room",
+      "."
+    ],
+    "level": "Level 1",
+    "id": 98
+  },
+  {
+    "kor": "텔레비전 보는 중이야.",
+    "correct": [
+      "I'm",
+      "watching",
+      "TV"
+    ],
+    "choices": [
+      "watching",
+      "?",
+      "had",
+      "do",
+      "I'm",
+      "did",
+      "!",
+      "TV"
+    ],
+    "tts": "I'm watching TV",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "TV"
+    ],
+    "level": "Level 1",
+    "id": 99
+  },
+  {
+    "kor": "무엇을 그리고 있니?",
+    "correct": [
+      "What",
+      "are",
+      "you",
+      "drawing",
+      "?"
+    ],
+    "choices": [
+      "meanwhile",
+      "despite",
+      "you",
+      "are",
+      "do",
+      "What",
+      "?",
+      "He’s",
+      "did",
+      "drawing"
+    ],
+    "tts": "What are you drawing?",
+    "hint": [
+      "",
+      "What",
+      "____",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 1",
+    "id": 100
+  },
+  {
+    "kor": "이쪽은 나의 친구들이야.",
+    "correct": [
+      "These",
+      "are",
+      "my",
+      "friends",
+      "."
+    ],
+    "choices": [
+      "my",
+      "did",
+      ".",
+      "being",
+      "friends",
+      "isn’t",
+      "These",
+      "do",
+      "has",
+      "are"
+    ],
+    "tts": "These are my friends.",
+    "hint": [
+      "____",
+      "These",
+      "____",
+      "my",
+      "friends",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 101
+  },
+  {
+    "kor": "나는 여기에 새로 왔어.",
+    "correct": [
+      "I'm",
+      "new",
+      "here",
+      "."
+    ],
+    "choices": [
+      "here",
+      "had",
+      "students",
+      "do",
+      "I'm",
+      "although",
+      "new",
+      "."
+    ],
+    "tts": "I'm new here.",
+    "hint": [
+      "",
+      "I'm",
+      "new",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 102
+  },
+  {
+    "kor": "너는 어디에서 왔니?",
+    "correct": [
+      "Where",
+      "are",
+      "you",
+      "from",
+      "?"
+    ],
+    "choices": [
+      "became",
+      "you",
+      "Where",
+      "?",
+      "!",
+      "from",
+      "I",
+      "are",
+      "am",
+      "do"
+    ],
+    "tts": "Where are you from?",
+    "hint": [
+      "",
+      "Where",
+      "____",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 103
+  },
+  {
+    "kor": "나는 미국에서 왔어.",
+    "correct": [
+      "I'm",
+      "from",
+      "U",
+      ".S",
+      "."
+    ],
+    "choices": [
+      "do",
+      "I'm",
+      "?",
+      "from",
+      "was",
+      "U",
+      ".",
+      ".S",
+      "has"
+    ],
+    "tts": "I'm from U.S.",
+    "hint": [
+      "____",
+      "I'm",
+      "____",
+      "U",
+      ".S",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 104
+  },
+  {
+    "kor": "세계 음식 축제에 오신 것을 환영합니다!",
+    "correct": [
+      "Welcome",
+      "to",
+      "the",
+      "World",
+      "Food",
+      "Festival!"
+    ],
+    "choices": [
+      "Food",
+      ",",
+      "do",
+      "does",
+      "the",
+      "Welcome",
+      "if",
+      "to",
+      "unless",
+      "World",
+      "Festival!"
+    ],
+    "tts": "Welcome to the World Food Festival!",
+    "hint": [
+      "",
+      "____",
+      "to",
+      "the",
+      "____",
+      "Food",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 105
+  },
+  {
+    "kor": "잘했어!",
+    "correct": [
+      "Good",
+      "job!"
+    ],
+    "choices": [
+      "has",
+      "Good",
+      "He’s",
+      "being",
+      "do",
+      ",",
+      "job!"
+    ],
+    "tts": "Good job!",
+    "hint": [
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 106
+  },
+  {
+    "kor": "이제 내 차례야.",
+    "correct": [
+      "Now,",
+      "it's",
+      "my",
+      "turn",
+      "."
+    ],
+    "choices": [
+      "He’s",
+      "Now,",
+      ".",
+      "if",
+      "it's",
+      "am",
+      "turn",
+      "my",
+      "do"
+    ],
+    "tts": "Now, it's my turn.",
+    "hint": [
+      "",
+      "____",
+      "it's",
+      "____",
+      "turn",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 107
+  },
+  {
+    "kor": "그가 오고 있어.",
+    "correct": [
+      "He",
+      "is",
+      "coming",
+      "."
+    ],
+    "choices": [
+      "was",
+      "do",
+      "did",
+      "is",
+      "coming",
+      "because",
+      ".",
+      "He"
+    ],
+    "tts": "He is coming.",
+    "hint": [
+      "____",
+      "He",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 108
+  },
+  {
+    "kor": "저것은 누구의 자전거이니?",
+    "correct": [
+      "Whose",
+      "bike",
+      "is",
+      "that",
+      "?"
+    ],
+    "choices": [
+      "bike",
+      ".",
+      "has",
+      "being",
+      "do",
+      "Whose",
+      "?",
+      "that",
+      "is",
+      "although"
+    ],
+    "tts": "Whose bike is that?",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "is",
+      "that",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 109
+  },
+  {
+    "kor": "너의 여동생 것이구나.",
+    "correct": [
+      "It's",
+      "your",
+      "sister's",
+      "."
+    ],
+    "choices": [
+      "did",
+      "your",
+      "sister's",
+      "therefore",
+      ".",
+      "do",
+      "then",
+      "I",
+      "It's"
+    ],
+    "tts": "It's your sister's.",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "sister's",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 110
+  },
+  {
+    "kor": "그것은 저희 엄마가 만드신 사과잼이에요.",
+    "correct": [
+      "It's",
+      "my",
+      "mom's",
+      "apple",
+      "jam",
+      "."
+    ],
+    "choices": [
+      ".",
+      "apple",
+      "mom's",
+      "my",
+      "they",
+      "It's",
+      "jam",
+      "do",
+      "!",
+      "are",
+      "did"
+    ],
+    "tts": "It's my mom's apple jam.",
+    "hint": [
+      "",
+      "____",
+      "my",
+      "mom's",
+      "____",
+      "jam",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 111
+  },
+  {
+    "kor": "내 드론은 고장 났어.",
+    "correct": [
+      "My",
+      "drone",
+      "is",
+      "broken",
+      "."
+    ],
+    "choices": [
+      "do",
+      ".",
+      "is",
+      "broken",
+      "drone",
+      "then",
+      "My",
+      "I",
+      "therefore"
+    ],
+    "tts": "My drone is broken.",
+    "hint": [
+      "",
+      "____",
+      "drone",
+      "____",
+      "broken",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 112
+  },
+  {
+    "kor": "이것은 누구의 교과서이니?",
+    "correct": [
+      "Whose",
+      "textbook",
+      "is",
+      "this",
+      "?"
+    ],
+    "choices": [
+      "textbook",
+      "did",
+      "meanwhile",
+      "this",
+      "?",
+      "students",
+      "is",
+      "has",
+      "do",
+      "Whose"
+    ],
+    "tts": "Whose textbook is this?",
+    "hint": [
+      "____",
+      "____",
+      "textbook",
+      "is",
+      "this",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 113
+  },
+  {
+    "kor": "제 거예요.",
+    "correct": [
+      "It's",
+      "mine",
+      "."
+    ],
+    "choices": [
+      "do",
+      "because",
+      "isn’t",
+      ".",
+      "It's",
+      "mine",
+      "being",
+      "she"
+    ],
+    "tts": "It's mine.",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 114
+  },
+  {
+    "kor": "준비됐나요?",
+    "correct": [
+      "Are",
+      "you",
+      "ready",
+      "?"
+    ],
+    "choices": [
+      "students",
+      "you",
+      "?",
+      "because",
+      "had",
+      "do",
+      "ready",
+      "did",
+      "Are"
+    ],
+    "tts": "Are you ready?",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "ready",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 115
+  },
+  {
+    "kor": "매우 빠르다.",
+    "correct": [
+      "It's",
+      "very",
+      "fast",
+      "."
+    ],
+    "choices": [
+      "if",
+      "does",
+      "being",
+      "do",
+      ".",
+      "very",
+      "therefore",
+      "fast",
+      "It's"
+    ],
+    "tts": "It's very fast.",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "fast",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 116
+  },
+  {
+    "kor": "내 붓을 찾고 있는 중이야.",
+    "correct": [
+      "I'm",
+      "looking",
+      "for",
+      "my",
+      "brush",
+      "."
+    ],
+    "choices": [
+      "they",
+      ".",
+      "I",
+      "do",
+      "brush",
+      "I'm",
+      "has",
+      "my",
+      "looking",
+      "meanwhile",
+      "for"
+    ],
+    "tts": "I'm looking for my brush.",
+    "hint": [
+      "____",
+      "I'm",
+      "looking",
+      "for",
+      "____",
+      "brush",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 117
+  },
+  {
+    "kor": "공책에 너의 이름을 써.",
+    "correct": [
+      "Write",
+      "your",
+      "name",
+      "on",
+      "your",
+      "notebook",
+      "."
+    ],
+    "choices": [
+      "on",
+      "being",
+      "had",
+      ".",
+      "was",
+      "your",
+      "Write",
+      "despite",
+      "notebook",
+      "do",
+      "name"
+    ],
+    "tts": "Write your name on your notebook.",
+    "hint": [
+      "",
+      "____",
+      "your",
+      "name",
+      "on",
+      "your",
+      "notebook",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 118
+  },
+  {
+    "kor": "확실하니?",
+    "correct": [
+      "Are",
+      "you",
+      "sure",
+      "?"
+    ],
+    "choices": [
+      "sure",
+      "?",
+      "they",
+      "do",
+      "she",
+      "you",
+      "unless",
+      "Are",
+      "They’re"
+    ],
+    "tts": "Are you sure?",
+    "hint": [
+      "",
+      "Are",
+      "you",
+      "sure",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 119
+  },
+  {
+    "kor": "여기 메뉴가 있습니다.",
+    "correct": [
+      "Here",
+      "is",
+      "the",
+      "menu",
+      "."
+    ],
+    "choices": [
+      "He’s",
+      "because",
+      "menu",
+      "Here",
+      "They’re",
+      "the",
+      "do",
+      ".",
+      "students",
+      "is"
+    ],
+    "tts": "Here is the menu.",
+    "hint": [
+      "____",
+      "____",
+      "is",
+      "the",
+      "menu",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 120
+  },
+  {
+    "kor": "이것은 감자 샌드위치야.",
+    "correct": [
+      "Here",
+      "are",
+      "potato",
+      "sandwiches",
+      "."
+    ],
+    "choices": [
+      "sandwiches",
+      "if",
+      ".",
+      "therefore",
+      "potato",
+      "because",
+      "do",
+      "are",
+      "she",
+      "Here"
+    ],
+    "tts": "Here are potato sandwiches.",
+    "hint": [
+      "",
+      "____",
+      "are",
+      "potato",
+      "sandwiches",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 121
+  },
+  {
+    "kor": "오늘은 달걀로 간식을 만들어 봅시다.",
+    "correct": [
+      "Today",
+      "let's",
+      "make",
+      "a",
+      "snack",
+      "with",
+      "eggs",
+      "."
+    ],
+    "choices": [
+      ".",
+      "let's",
+      "make",
+      "snack",
+      "a",
+      "they",
+      "have",
+      "do",
+      "with",
+      "eggs",
+      "were",
+      "I",
+      "Today"
+    ],
+    "tts": "Today let's make a snack with eggs.",
+    "hint": [
+      "",
+      "Today",
+      "____",
+      "make",
+      "____",
+      "snack",
+      "with",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 122
+  },
+  {
+    "kor": "너희는 카나페를 만들고 있구나.",
+    "correct": [
+      "You're",
+      "making",
+      "canapes",
+      "."
+    ],
+    "choices": [
+      "isn’t",
+      "canapes",
+      "You're",
+      "unless",
+      "making",
+      "students",
+      "do",
+      ".",
+      "was"
+    ],
+    "tts": "You're making canapes.",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "canapes",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 123
+  },
+  {
+    "kor": "드셔 보세요.",
+    "correct": [
+      "Please",
+      "try",
+      "some",
+      "."
+    ],
+    "choices": [
+      "did",
+      "meanwhile",
+      "try",
+      ".",
+      "am",
+      "some",
+      "Please",
+      "she",
+      "do"
+    ],
+    "tts": "Please try some.",
+    "hint": [
+      "____",
+      "Please",
+      "____",
+      "some",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 124
+  },
+  {
+    "kor": "달달하구나.",
+    "correct": [
+      "It's",
+      "sweet",
+      "."
+    ],
+    "choices": [
+      "sweet",
+      "I",
+      "It's",
+      "students",
+      "have",
+      "?",
+      ".",
+      "do"
+    ],
+    "tts": "It's sweet.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 125
+  },
+  {
+    "kor": "짜요.",
+    "correct": [
+      "It's",
+      "salty",
+      "."
+    ],
+    "choices": [
+      "am",
+      "unless",
+      "does",
+      "salty",
+      "It's",
+      "do",
+      "are",
+      "."
+    ],
+    "tts": "It's salty.",
+    "hint": [
+      "",
+      "____",
+      "salty",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 126
+  },
+  {
+    "kor": "시어요.",
+    "correct": [
+      "It's",
+      "sour",
+      "."
+    ],
+    "choices": [
+      "It's",
+      "do",
+      "she",
+      "therefore",
+      "sour",
+      "despite",
+      "."
+    ],
+    "tts": "It's sour.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 127
+  },
+  {
+    "kor": "매워요.",
+    "correct": [
+      "It's",
+      "spicy",
+      "."
+    ],
+    "choices": [
+      "are",
+      "!",
+      "being",
+      "she",
+      "It's",
+      "do",
+      ".",
+      "spicy"
+    ],
+    "tts": "It's spicy.",
+    "hint": [
+      "",
+      "____",
+      "spicy",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 128
+  },
+  {
+    "kor": "더 드시겠습니까?",
+    "correct": [
+      "Do",
+      "you",
+      "want",
+      "some",
+      "more",
+      "?"
+    ],
+    "choices": [
+      "Do",
+      ".",
+      "He’s",
+      "do",
+      "?",
+      "more",
+      "did",
+      "some",
+      "want",
+      "you",
+      "therefore"
+    ],
+    "tts": "Do you want some more?",
+    "hint": [
+      "____",
+      "Do",
+      "____",
+      "want",
+      "some",
+      "more",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 129
+  },
+  {
+    "kor": "체육 수업 시간이야.",
+    "correct": [
+      "It's",
+      "time",
+      "for",
+      "P",
+      ".E",
+      ".",
+      "class",
+      "."
+    ],
+    "choices": [
+      "therefore",
+      ".E",
+      "class",
+      "P",
+      ".",
+      "does",
+      "time",
+      "for",
+      "do",
+      "It's",
+      "then",
+      "had"
+    ],
+    "tts": "It's time for P.E. class.",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "for",
+      "P",
+      ".E",
+      ".",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 130
+  },
+  {
+    "kor": "나는 과학을 좋아하지 않아.",
+    "correct": [
+      "I",
+      "don't",
+      "like",
+      "science",
+      "."
+    ],
+    "choices": [
+      "do",
+      "did",
+      "I",
+      "He",
+      "science",
+      "don't",
+      "had",
+      ".",
+      "they",
+      "like"
+    ],
+    "tts": "I don't like science.",
+    "hint": [
+      "",
+      "____",
+      "don't",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 131
+  },
+  {
+    "kor": "가장 좋아하는 과목이 뭐니?",
+    "correct": [
+      "What's",
+      "your",
+      "favorite",
+      "subject",
+      "?"
+    ],
+    "choices": [
+      "What's",
+      "although",
+      "do",
+      "!",
+      "meanwhile",
+      "your",
+      "favorite",
+      "?",
+      ",",
+      "subject"
+    ],
+    "tts": "What's your favorite subject?",
+    "hint": [
+      "",
+      "What's",
+      "____",
+      "____",
+      "subject",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 132
+  },
+  {
+    "kor": "내가 가장 좋아하는 과목은 미술이야.",
+    "correct": [
+      "My",
+      "favorite",
+      "subject",
+      "is",
+      "art",
+      "."
+    ],
+    "choices": [
+      "despite",
+      "subject",
+      "My",
+      "do",
+      "unless",
+      "is",
+      "does",
+      "are",
+      "art",
+      "favorite",
+      "."
+    ],
+    "tts": "My favorite subject is art.",
+    "hint": [
+      "",
+      "____",
+      "favorite",
+      "subject",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 133
+  },
+  {
+    "kor": "네가 가장 좋아하는 음악가는 누구니?",
+    "correct": [
+      "Who's",
+      "your",
+      "favorite",
+      "musician",
+      "?"
+    ],
+    "choices": [
+      "favorite",
+      "do",
+      "your",
+      "musician",
+      "Who's",
+      "isn’t",
+      "has",
+      "?",
+      "being",
+      "if"
+    ],
+    "tts": "Who's your favorite musician?",
+    "hint": [
+      "",
+      "____",
+      "your",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 134
+  },
+  {
+    "kor": "내가 가장 좋아하는 음악가는 베토벤이야.",
+    "correct": [
+      "My",
+      "favorite",
+      "musician",
+      "is",
+      "Beethoven",
+      "."
+    ],
+    "choices": [
+      "My",
+      "students",
+      ".",
+      "favorite",
+      "am",
+      "musician",
+      "is",
+      "had",
+      "despite",
+      "do",
+      "Beethoven"
+    ],
+    "tts": "My favorite musician is Beethoven.",
+    "hint": [
+      "____",
+      "My",
+      "favorite",
+      "musician",
+      "is",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 135
+  },
+  {
+    "kor": "내가 가장 좋아하는 노래야.",
+    "correct": [
+      "It's",
+      "my",
+      "favorite",
+      "song",
+      "."
+    ],
+    "choices": [
+      "unless",
+      "?",
+      "favorite",
+      ".",
+      "do",
+      "song",
+      "had",
+      "It's",
+      "my",
+      "are"
+    ],
+    "tts": "It's my favorite song.",
+    "hint": [
+      "____",
+      "It's",
+      "____",
+      "favorite",
+      "song",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 136
+  },
+  {
+    "kor": "이 꽃들을 봐.",
+    "correct": [
+      "Look",
+      "at",
+      "these",
+      "flowers",
+      "."
+    ],
+    "choices": [
+      "at",
+      "these",
+      "do",
+      "have",
+      "flowers",
+      "Look",
+      "meanwhile",
+      ".",
+      ",",
+      "does"
+    ],
+    "tts": "Look at these flowers.",
+    "hint": [
+      "",
+      "Look",
+      "at",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 137
+  },
+  {
+    "kor": "이것들이 아름다워.",
+    "correct": [
+      "They",
+      "are",
+      "beautiful",
+      "."
+    ],
+    "choices": [
+      "beautiful",
+      "They",
+      "are",
+      "They’re",
+      ".",
+      "unless",
+      ",",
+      "do",
+      "have"
+    ],
+    "tts": "They are beautiful.",
+    "hint": [
+      "____",
+      "They",
+      "are",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 138
+  },
+  {
+    "kor": "너의 개는 몇 살이니?",
+    "correct": [
+      "How",
+      "old",
+      "is",
+      "your",
+      "dog",
+      "?"
+    ],
+    "choices": [
+      "had",
+      "How",
+      "does",
+      "your",
+      "old",
+      "dog",
+      "?",
+      "they",
+      "students",
+      "is",
+      "do"
+    ],
+    "tts": "How old is your dog?",
+    "hint": [
+      "____",
+      "How",
+      "old",
+      "is",
+      "your",
+      "dog",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 139
+  },
+  {
+    "kor": "우리 개를 보러 와.",
+    "correct": [
+      "Come",
+      "and",
+      "see",
+      "my",
+      "dog",
+      "."
+    ],
+    "choices": [
+      "Come",
+      "do",
+      "see",
+      "my",
+      "have",
+      "and",
+      "dog",
+      "students",
+      "unless",
+      "because",
+      "."
+    ],
+    "tts": "Come and see my dog.",
+    "hint": [
+      "____",
+      "Come",
+      "____",
+      "see",
+      "my",
+      "dog",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 140
+  },
+  {
+    "kor": "너는 몇 시에 집에 도착하니?",
+    "correct": [
+      "What",
+      "time",
+      "do",
+      "you",
+      "get",
+      "home",
+      "?"
+    ],
+    "choices": [
+      "although",
+      "then",
+      "?",
+      "had",
+      "home",
+      "What",
+      "time",
+      "you",
+      "do",
+      "were",
+      "get"
+    ],
+    "tts": "What time do you get home?",
+    "hint": [
+      "",
+      "What",
+      "____",
+      "do",
+      "you",
+      "get",
+      "____",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 141
+  },
+  {
+    "kor": "4시에 집에 도착해.",
+    "correct": [
+      "I",
+      "get",
+      "home",
+      "at",
+      "."
+    ],
+    "choices": [
+      "at",
+      ".",
+      "do",
+      "I",
+      "became",
+      "get",
+      "unless",
+      "He",
+      "home",
+      "has",
+      "meanwhile"
+    ],
+    "tts": "I get home at 4.",
+    "hint": [
+      "",
+      "I",
+      "____",
+      "____",
+      "____",
+      "4",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 142
+  },
+  {
+    "kor": "너희들은 우리 집에 4시 30분까지 오면 돼.",
+    "correct": [
+      "You",
+      "can",
+      "come",
+      "to",
+      "my",
+      "house",
+      "at",
+      ":30",
+      "."
+    ],
+    "choices": [
+      "They’re",
+      ".",
+      "can",
+      "were",
+      "do",
+      "You",
+      "house",
+      "to",
+      "come",
+      "my",
+      "are",
+      "I",
+      ":30",
+      "at"
+    ],
+    "tts": "You can come to my house at 4:30.",
+    "hint": [
+      "",
+      "You",
+      "can",
+      "come",
+      "to",
+      "____",
+      "house",
+      "____",
+      "4:30",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 143
+  },
+  {
+    "kor": "이리 와, 토토.",
+    "correct": [
+      "Come",
+      "here,",
+      "Toto",
+      "."
+    ],
+    "choices": [
+      "had",
+      "they",
+      "here,",
+      "Toto",
+      "have",
+      "were",
+      "Come",
+      "do",
+      "."
+    ],
+    "tts": "Come here, Toto.",
+    "hint": [
+      "____",
+      "Come",
+      "here,",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 144
+  },
+  {
+    "kor": "나는 수학 숙제가 있어.",
+    "correct": [
+      "I",
+      "have",
+      "math",
+      "homework",
+      "."
+    ],
+    "choices": [
+      "He’s",
+      "homework",
+      "math",
+      "have",
+      "I",
+      "do",
+      ".",
+      "although",
+      "He"
+    ],
+    "tts": "I have math homework.",
+    "hint": [
+      "",
+      "I",
+      "have",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 145
+  },
+  {
+    "kor": "너는 몇 시에 숙제를 하니?",
+    "correct": [
+      "What",
+      "time",
+      "do",
+      "you",
+      "do",
+      "your",
+      "homework",
+      "?"
+    ],
+    "choices": [
+      "homework",
+      "she",
+      "has",
+      "unless",
+      ",",
+      "?",
+      "What",
+      "your",
+      "time",
+      "do",
+      "you"
+    ],
+    "tts": "What time do you do your homework?",
+    "hint": [
+      "",
+      "What",
+      "____",
+      "do",
+      "you",
+      "____",
+      "____",
+      "homework",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 146
+  },
+  {
+    "kor": "나도 그래.",
+    "correct": [
+      "Same",
+      "here",
+      "."
+    ],
+    "choices": [
+      ".",
+      "isn’t",
+      "do",
+      "did",
+      "here",
+      "had",
+      "Same",
+      "has"
+    ],
+    "tts": "Same here.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 147
+  },
+  {
+    "kor": "나는 7시 30분에 댄스 수업이 있어.",
+    "correct": [
+      "I",
+      "have",
+      "dance",
+      "class",
+      "at",
+      ":30",
+      "."
+    ],
+    "choices": [
+      "He",
+      "isn’t",
+      "They’re",
+      ":30",
+      "have",
+      "do",
+      "does",
+      "dance",
+      "at",
+      "class",
+      "I",
+      "."
+    ],
+    "tts": "I have dance class at 7:30.",
+    "hint": [
+      "____",
+      "I",
+      "____",
+      "dance",
+      "class",
+      "at",
+      "7:30",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 148
+  },
+  {
+    "kor": "나는 4시에 티셔츠와 신발을 빨아.",
+    "correct": [
+      "I",
+      "wash",
+      "my",
+      "T-shirt",
+      "and",
+      "shoes",
+      "at",
+      "."
+    ],
+    "choices": [
+      "wash",
+      "despite",
+      "does",
+      "being",
+      "my",
+      "do",
+      "shoes",
+      "?",
+      ".",
+      "I",
+      "He",
+      "T-shirt",
+      "and",
+      "at"
+    ],
+    "tts": "I wash my T-shirt and shoes at 4.",
+    "hint": [
+      "",
+      "I",
+      "wash",
+      "my",
+      "T-shirt",
+      "and",
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 149
+  },
+  {
+    "kor": "당신은 어디에 있나요?",
+    "correct": [
+      "Where",
+      "are",
+      "you",
+      "?"
+    ],
+    "choices": [
+      "!",
+      "am",
+      "Where",
+      "do",
+      "He’s",
+      "you",
+      "?",
+      "are",
+      "was"
+    ],
+    "tts": "Where are you?",
+    "hint": [
+      "",
+      "Where",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 150
+  },
+  {
+    "kor": "저는 국제 우주 정거장에 있습니다.",
+    "correct": [
+      "I'm",
+      "in",
+      "the",
+      "International",
+      "Space",
+      "Station",
+      "."
+    ],
+    "choices": [
+      "I'm",
+      "Station",
+      "in",
+      "Space",
+      "International",
+      "!",
+      "they",
+      ",",
+      "was",
+      ".",
+      "do",
+      "the"
+    ],
+    "tts": "I'm in the International Space Station.",
+    "hint": [
+      "",
+      "I'm",
+      "____",
+      "____",
+      "International",
+      "Space",
+      "Station",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 151
+  },
+  {
+    "kor": "당신은 몇 시에 점심을 먹나요?",
+    "correct": [
+      "What",
+      "time",
+      "do",
+      "you",
+      "have",
+      "lunch",
+      "?"
+    ],
+    "choices": [
+      "was",
+      "unless",
+      "does",
+      "lunch",
+      "time",
+      "you",
+      "What",
+      "?",
+      "have",
+      "because",
+      "do"
+    ],
+    "tts": "What time do you have lunch?",
+    "hint": [
+      "____",
+      "What",
+      "time",
+      "do",
+      "you",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 152
+  },
+  {
+    "kor": "맛있나요?",
+    "correct": [
+      "Is",
+      "it",
+      "delicious",
+      "?"
+    ],
+    "choices": [
+      "does",
+      "it",
+      "?",
+      "became",
+      "do",
+      "Is",
+      ",",
+      "delicious"
+    ],
+    "tts": "Is it delicious?",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "delicious",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 153
+  },
+  {
+    "kor": "당신은 오후에는 무엇을 하나요?",
+    "correct": [
+      "What",
+      "do",
+      "you",
+      "do",
+      "in",
+      "the",
+      "afternoon",
+      "?"
+    ],
+    "choices": [
+      "afternoon",
+      "do",
+      "does",
+      "the",
+      "you",
+      "in",
+      "because",
+      "were",
+      "?",
+      "being",
+      "What"
+    ],
+    "tts": "What do you do in the afternoon?",
+    "hint": [
+      "",
+      "What",
+      "do",
+      "you",
+      "do",
+      "____",
+      "the",
+      "afternoon",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 154
+  },
+  {
+    "kor": "저는 우주에 대해 연구하고 독서를 합니다.",
+    "correct": [
+      "I",
+      "study",
+      "about",
+      "space",
+      "and",
+      "read",
+      "books",
+      "."
+    ],
+    "choices": [
+      "He",
+      ".",
+      "read",
+      "I",
+      "study",
+      "do",
+      "about",
+      "became",
+      "and",
+      "books",
+      "They’re",
+      "has",
+      "space",
+      "she"
+    ],
+    "tts": "I study about space and read books.",
+    "hint": [
+      "____",
+      "I",
+      "____",
+      "about",
+      "____",
+      "and",
+      "read",
+      "books",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 155
+  },
+  {
+    "kor": "당신의 하루에 대해서 말해 주세요.",
+    "correct": [
+      "Please",
+      "tell",
+      "me",
+      "about",
+      "your",
+      "day",
+      "."
+    ],
+    "choices": [
+      "me",
+      "about",
+      "although",
+      "tell",
+      "students",
+      "Please",
+      "do",
+      ".",
+      "then",
+      "day",
+      "your",
+      "despite"
+    ],
+    "tts": "Please tell me about your day.",
+    "hint": [
+      "",
+      "Please",
+      "tell",
+      "____",
+      "____",
+      "your",
+      "day",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 156
+  },
+  {
+    "kor": "8시에 여기에 와서 물고기들을 확인해.",
+    "correct": [
+      "I",
+      "come",
+      "here",
+      "at",
+      "and",
+      "check",
+      "on",
+      "the",
+      "fish",
+      "."
+    ],
+    "choices": [
+      ".",
+      "on",
+      "had",
+      "became",
+      "at",
+      "I",
+      "come",
+      "here",
+      "does",
+      "do",
+      "and",
+      "check",
+      "fish",
+      "He",
+      "did",
+      "the"
+    ],
+    "tts": "I come here at 8 and check on the fish.",
+    "hint": [
+      "",
+      "I",
+      "come",
+      "here",
+      "____",
+      "____",
+      "and",
+      "check",
+      "____",
+      "the",
+      "fish",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 157
+  },
+  {
+    "kor": "그 후에는 무엇을 하시나요?",
+    "correct": [
+      "What",
+      "do",
+      "you",
+      "do",
+      "after",
+      "that",
+      "?"
+    ],
+    "choices": [
+      "isn’t",
+      "after",
+      "?",
+      "What",
+      ",",
+      "that",
+      "you",
+      "they",
+      "are",
+      "do"
+    ],
+    "tts": "What do you do after that?",
+    "hint": [
+      "",
+      "____",
+      "do",
+      "you",
+      "____",
+      "after",
+      "that",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 158
+  },
+  {
+    "kor": "동물들에게 먹이를 주고 수조를 청소해.",
+    "correct": [
+      "I",
+      "feed",
+      "the",
+      "animals",
+      "and",
+      "clean",
+      "the",
+      "fishtanks",
+      "."
+    ],
+    "choices": [
+      "I",
+      "and",
+      "animals",
+      "clean",
+      "fishtanks",
+      "He",
+      "have",
+      "do",
+      "being",
+      "feed",
+      ".",
+      "has",
+      "the",
+      "He’s"
+    ],
+    "tts": "I feed the animals and clean the fishtanks.",
+    "hint": [
+      "",
+      "I",
+      "feed",
+      "the",
+      "animals",
+      "____",
+      "____",
+      "the",
+      "fishtanks",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 159
+  },
+  {
+    "kor": "2시에 다이버 쇼가 있단다.",
+    "correct": [
+      "I",
+      "have",
+      "a",
+      "dive",
+      "show",
+      "at",
+      "."
+    ],
+    "choices": [
+      "show",
+      "a",
+      "have",
+      ".",
+      "students",
+      "dive",
+      "do",
+      "at",
+      "became",
+      "I",
+      "They’re",
+      "He"
+    ],
+    "tts": "I have a dive show at 2.",
+    "hint": [
+      "",
+      "I",
+      "have",
+      "____",
+      "____",
+      "show",
+      "at",
+      "2",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 160
+  },
+  {
+    "kor": "그는 내가 가장 좋아하는 배우야!",
+    "correct": [
+      "He's",
+      "my",
+      "favorite",
+      "actor!"
+    ],
+    "choices": [
+      "!",
+      "actor!",
+      "do",
+      "my",
+      "does",
+      "therefore",
+      "did",
+      "favorite",
+      "He's"
+    ],
+    "tts": "He's my favorite actor!",
+    "hint": [
+      "____",
+      "____",
+      "my",
+      "____",
+      "actor!"
+    ],
+    "level": "Level 2",
+    "id": 161
+  },
+  {
+    "kor": "당신의 팬을 빌릴 수 있을까요?",
+    "correct": [
+      "Can",
+      "I",
+      "borrow",
+      "your",
+      "pen",
+      "?"
+    ],
+    "choices": [
+      "although",
+      "do",
+      "He",
+      "your",
+      "Can",
+      "because",
+      "They’re",
+      "borrow",
+      "I",
+      "!",
+      "?",
+      "pen"
+    ],
+    "tts": "Can I borrow your pen?",
+    "hint": [
+      "",
+      "Can",
+      "I",
+      "____",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 162
+  },
+  {
+    "kor": "물론이에요.",
+    "correct": [
+      "Of",
+      "course",
+      "."
+    ],
+    "choices": [
+      ".",
+      "if",
+      "They’re",
+      "course",
+      "although",
+      "did",
+      "Of",
+      "do"
+    ],
+    "tts": "Of course.",
+    "hint": [
+      "____",
+      "Of",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 163
+  },
+  {
+    "kor": "사진을 찍어도 될까요?",
+    "correct": [
+      "Can",
+      "I",
+      "take",
+      "a",
+      "picture",
+      "?"
+    ],
+    "choices": [
+      "I",
+      "students",
+      "take",
+      "then",
+      "He",
+      "a",
+      "picture",
+      "?",
+      "do",
+      "Can",
+      "she"
+    ],
+    "tts": "Can I take a picture?",
+    "hint": [
+      "____",
+      "Can",
+      "I",
+      "take",
+      "a",
+      "picture",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 164
+  },
+  {
+    "kor": "함께 사진을 찍어요.",
+    "correct": [
+      "Let's",
+      "take",
+      "a",
+      "picture",
+      "together",
+      "."
+    ],
+    "choices": [
+      ".",
+      "together",
+      "do",
+      "had",
+      "picture",
+      "a",
+      "I",
+      "take",
+      "are",
+      "does",
+      "Let's"
+    ],
+    "tts": "Let's take a picture together.",
+    "hint": [
+      "",
+      "____",
+      "take",
+      "a",
+      "picture",
+      "together",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 165
+  },
+  {
+    "kor": "화장실에 가도 되나요?",
+    "correct": [
+      "Can",
+      "I",
+      "go",
+      "to",
+      "the",
+      "restroom",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "Can",
+      "?",
+      "restroom",
+      "He",
+      "They’re",
+      "to",
+      "go",
+      "!",
+      "because",
+      "has",
+      "I",
+      "the"
+    ],
+    "tts": "Can I go to the restroom?",
+    "hint": [
+      "",
+      "Can",
+      "I",
+      "go",
+      "____",
+      "the",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 166
+  },
+  {
+    "kor": "천만에.",
+    "correct": [
+      "No",
+      "problem",
+      "."
+    ],
+    "choices": [
+      "was",
+      "have",
+      "No",
+      "problem",
+      "does",
+      "do",
+      ".",
+      "became"
+    ],
+    "tts": "No problem.",
+    "hint": [
+      "",
+      "No",
+      "problem",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 167
+  },
+  {
+    "kor": "나를 도와줄 수 있니?",
+    "correct": [
+      "Can",
+      "you",
+      "help",
+      "me",
+      "?"
+    ],
+    "choices": [
+      "me",
+      "you",
+      "they",
+      "!",
+      "Can",
+      "?",
+      "help",
+      "if",
+      "was",
+      "do"
+    ],
+    "tts": "Can you help me?",
+    "hint": [
+      "",
+      "Can",
+      "____",
+      "help",
+      "me",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 168
+  },
+  {
+    "kor": "잘 보여.",
+    "correct": [
+      "I",
+      "can",
+      "see",
+      "it",
+      "well",
+      "."
+    ],
+    "choices": [
+      "well",
+      "I",
+      "although",
+      ",",
+      "do",
+      "it",
+      "He",
+      "being",
+      "can",
+      "He’s",
+      "see",
+      "."
+    ],
+    "tts": "I can see it well.",
+    "hint": [
+      "____",
+      "I",
+      "can",
+      "____",
+      "it",
+      "well",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 169
+  },
+  {
+    "kor": "너 멋져 보인다.",
+    "correct": [
+      "You",
+      "look",
+      "great",
+      "."
+    ],
+    "choices": [
+      "You",
+      "great",
+      "look",
+      "became",
+      ",",
+      "do",
+      ".",
+      "students"
+    ],
+    "tts": "You look great.",
+    "hint": [
+      "",
+      "____",
+      "look",
+      "great",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 170
+  },
+  {
+    "kor": "너는 방학 동안 무엇을 했니?",
+    "correct": [
+      "What",
+      "did",
+      "you",
+      "do",
+      "during",
+      "your",
+      "vacation",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "does",
+      "What",
+      "vacation",
+      "did",
+      "therefore",
+      "you",
+      "your",
+      "being",
+      "during",
+      "?"
+    ],
+    "tts": "What did you do during your vacation?",
+    "hint": [
+      "",
+      "What",
+      "did",
+      "____",
+      "do",
+      "____",
+      "____",
+      "vacation",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 171
+  },
+  {
+    "kor": "나는 나의 가족과 함께 바닷가에 갔어.",
+    "correct": [
+      "I",
+      "went",
+      "to",
+      "the",
+      "beach",
+      "with",
+      "my",
+      "family",
+      "."
+    ],
+    "choices": [
+      "to",
+      "the",
+      "beach",
+      "do",
+      "family",
+      "He",
+      "became",
+      ".",
+      "?",
+      "my",
+      "were",
+      "was",
+      "I",
+      "with",
+      "went"
+    ],
+    "tts": "I went to the beach with my family.",
+    "hint": [
+      "",
+      "I",
+      "went",
+      "to",
+      "the",
+      "____",
+      "with",
+      "____",
+      "family",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 172
+  },
+  {
+    "kor": "재미있었겠다!",
+    "correct": [
+      "Sounds",
+      "fun!"
+    ],
+    "choices": [
+      "have",
+      "are",
+      "then",
+      "fun!",
+      "did",
+      "Sounds",
+      "do"
+    ],
+    "tts": "Sounds fun!",
+    "hint": [
+      "",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 173
+  },
+  {
+    "kor": "너는 어때?",
+    "correct": [
+      "How",
+      "about",
+      "you",
+      "?"
+    ],
+    "choices": [
+      "therefore",
+      "meanwhile",
+      "How",
+      "does",
+      "then",
+      "about",
+      "do",
+      "?",
+      "you"
+    ],
+    "tts": "How about you?",
+    "hint": [
+      "____",
+      "How",
+      "about",
+      "you",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 174
+  },
+  {
+    "kor": "나는 엄마를 도와드렸어.",
+    "correct": [
+      "I",
+      "helped",
+      "my",
+      "mom",
+      "."
+    ],
+    "choices": [
+      ".",
+      "I",
+      "unless",
+      "He",
+      "helped",
+      "had",
+      "because",
+      "became",
+      "do",
+      "mom",
+      "my"
+    ],
+    "tts": "I helped my mom.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "my",
+      "mom",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 175
+  },
+  {
+    "kor": "오랜만이야!",
+    "correct": [
+      "Long",
+      "time",
+      "no",
+      "see!"
+    ],
+    "choices": [
+      "has",
+      "see!",
+      "!",
+      "Long",
+      "time",
+      "do",
+      "does",
+      "no",
+      "although"
+    ],
+    "tts": "Long time no see!",
+    "hint": [
+      "",
+      "____",
+      "time",
+      "____",
+      "see!"
+    ],
+    "level": "Level 2",
+    "id": 176
+  },
+  {
+    "kor": "나는 태국에 있는 조부모님 댁에 다녀왔어.",
+    "correct": [
+      "I",
+      "visited",
+      "my",
+      "grandparents",
+      "in",
+      "Thailand",
+      "."
+    ],
+    "choices": [
+      "visited",
+      "He",
+      ".",
+      "Thailand",
+      "I",
+      "my",
+      "in",
+      "has",
+      "do",
+      "grandparents",
+      "did",
+      "?"
+    ],
+    "tts": "I visited my grandparents in Thailand.",
+    "hint": [
+      "",
+      "I",
+      "visited",
+      "my",
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 177
+  },
+  {
+    "kor": "나는 할머니와 함께 해변에 다녀왔어.",
+    "correct": [
+      "I",
+      "went",
+      "to",
+      "the",
+      "beach",
+      "with",
+      "my",
+      "grandma",
+      "."
+    ],
+    "choices": [
+      "do",
+      "He",
+      "I",
+      "?",
+      "was",
+      ".",
+      "with",
+      "beach",
+      "the",
+      "my",
+      "to",
+      "went",
+      "students",
+      "they",
+      "grandma"
+    ],
+    "tts": "I went to the beach with my grandma.",
+    "hint": [
+      "",
+      "I",
+      "____",
+      "____",
+      "the",
+      "beach",
+      "with",
+      "my",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 178
+  },
+  {
+    "kor": "이것은 너희들을 위한 거야.",
+    "correct": [
+      "This",
+      "is",
+      "for",
+      "you",
+      "."
+    ],
+    "choices": [
+      "you",
+      "He’s",
+      ".",
+      "for",
+      "do",
+      "does",
+      "is",
+      "had",
+      "This",
+      "!"
+    ],
+    "tts": "This is for you.",
+    "hint": [
+      "",
+      "This",
+      "____",
+      "for",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 179
+  },
+  {
+    "kor": "너 피곤해 보인다.",
+    "correct": [
+      "You",
+      "look",
+      "tired",
+      "."
+    ],
+    "choices": [
+      "she",
+      "has",
+      "look",
+      "do",
+      "were",
+      "You",
+      "tired",
+      ".",
+      "They’re"
+    ],
+    "tts": "You look tired.",
+    "hint": [
+      "",
+      "You",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 180
+  },
+  {
+    "kor": "지난 주말에 무엇을 했니?",
+    "correct": [
+      "What",
+      "did",
+      "you",
+      "do",
+      "last",
+      "weekend",
+      "?"
+    ],
+    "choices": [
+      "unless",
+      "did",
+      "He’s",
+      "weekend",
+      "do",
+      "last",
+      "What",
+      "you",
+      "?",
+      "being",
+      "!"
+    ],
+    "tts": "What did you do last weekend?",
+    "hint": [
+      "____",
+      "What",
+      "did",
+      "you",
+      "____",
+      "last",
+      "weekend",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 181
+  },
+  {
+    "kor": "어제 가족들과 함께 집을 청소했어요.",
+    "correct": [
+      "I",
+      "cleaned",
+      "my",
+      "house",
+      "with",
+      "my",
+      "family",
+      "yesterday",
+      "."
+    ],
+    "choices": [
+      "do",
+      "They’re",
+      "family",
+      ".",
+      "my",
+      "cleaned",
+      "I",
+      "with",
+      "He",
+      "house",
+      "because",
+      "!",
+      "yesterday"
+    ],
+    "tts": "I cleaned my house with my family yesterday.",
+    "hint": [
+      "",
+      "____",
+      "cleaned",
+      "my",
+      "house",
+      "with",
+      "____",
+      "family",
+      "yesterday",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 182
+  },
+  {
+    "kor": "오, 그랬구나.",
+    "correct": [
+      "Oh,",
+      "I",
+      "see",
+      "."
+    ],
+    "choices": [
+      "!",
+      "He",
+      "He’s",
+      "see",
+      "do",
+      "Oh,",
+      "had",
+      ".",
+      "have",
+      "I"
+    ],
+    "tts": "Oh, I see.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 183
+  },
+  {
+    "kor": "흥미로웠어.",
+    "correct": [
+      "It",
+      "was",
+      "interesting",
+      "."
+    ],
+    "choices": [
+      "It",
+      "interesting",
+      "isn’t",
+      "does",
+      "then",
+      "was",
+      ".",
+      "do",
+      "unless"
+    ],
+    "tts": "It was interesting.",
+    "hint": [
+      "",
+      "It",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 184
+  },
+  {
+    "kor": "여기 앉아도 될까요?",
+    "correct": [
+      "Can",
+      "I",
+      "sit",
+      "here",
+      "?"
+    ],
+    "choices": [
+      "although",
+      "had",
+      "They’re",
+      "sit",
+      "here",
+      "was",
+      "do",
+      "Can",
+      "He",
+      "?",
+      "I"
+    ],
+    "tts": "Can I sit here?",
+    "hint": [
+      "____",
+      "Can",
+      "I",
+      "sit",
+      "here",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 185
+  },
+  {
+    "kor": "지루했어.",
+    "correct": [
+      "It",
+      "was",
+      "boring",
+      "."
+    ],
+    "choices": [
+      "if",
+      "meanwhile",
+      "do",
+      "boring",
+      "It",
+      ".",
+      "she",
+      "was"
+    ],
+    "tts": "It was boring.",
+    "hint": [
+      "",
+      "It",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 186
+  },
+  {
+    "kor": "너의 주말은 어땠어?",
+    "correct": [
+      "How",
+      "was",
+      "your",
+      "weekend",
+      "?"
+    ],
+    "choices": [
+      "students",
+      "He’s",
+      "?",
+      "your",
+      "weekend",
+      "do",
+      "was",
+      "How",
+      "have"
+    ],
+    "tts": "How was your weekend?",
+    "hint": [
+      "",
+      "How",
+      "____",
+      "your",
+      "weekend",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 187
+  },
+  {
+    "kor": "그것은 나야.",
+    "correct": [
+      "It's",
+      "me",
+      "."
+    ],
+    "choices": [
+      "do",
+      "therefore",
+      ".",
+      "It's",
+      "are",
+      "were",
+      "me"
+    ],
+    "tts": "It's me.",
+    "hint": [
+      "____",
+      "It's",
+      "me",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 188
+  },
+  {
+    "kor": "캐롤을 찾아보자.",
+    "correct": [
+      "Let's",
+      "look",
+      "for",
+      "Carol",
+      "."
+    ],
+    "choices": [
+      "meanwhile",
+      "for",
+      ".",
+      "Carol",
+      "Let's",
+      "do",
+      "because",
+      "look",
+      "had",
+      "was"
+    ],
+    "tts": "Let's look for Carol.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "for",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 189
+  },
+  {
+    "kor": "그녀는 캐나다 출신이야.",
+    "correct": [
+      "She",
+      "is",
+      "from",
+      "Canada",
+      "."
+    ],
+    "choices": [
+      "Canada",
+      "from",
+      "are",
+      "she",
+      "being",
+      "is",
+      "became",
+      "She",
+      ".",
+      "do"
+    ],
+    "tts": "She is from Canada.",
+    "hint": [
+      "____",
+      "She",
+      "____",
+      "____",
+      "Canada",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 190
+  },
+  {
+    "kor": "그는 어떻게 생겼나요?",
+    "correct": [
+      "What",
+      "does",
+      "he",
+      "look",
+      "like",
+      "?"
+    ],
+    "choices": [
+      "students",
+      "look",
+      "like",
+      "does",
+      "do",
+      "therefore",
+      "became",
+      "he",
+      "What",
+      "?"
+    ],
+    "tts": "What does he look like?",
+    "hint": [
+      "",
+      "What",
+      "____",
+      "he",
+      "____",
+      "like",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 191
+  },
+  {
+    "kor": "그녀는 키가 크고 긴 곱슬머리야.",
+    "correct": [
+      "She",
+      "is",
+      "tall",
+      "and",
+      "she",
+      "has",
+      "long",
+      "curly",
+      "hair",
+      "."
+    ],
+    "choices": [
+      ".",
+      "She",
+      "meanwhile",
+      "she",
+      "tall",
+      "hair",
+      "do",
+      "and",
+      "is",
+      "curly",
+      "has",
+      "long",
+      "?"
+    ],
+    "tts": "She is tall and she has long curly hair.",
+    "hint": [
+      "",
+      "____",
+      "is",
+      "tall",
+      "and",
+      "____",
+      "____",
+      "long",
+      "curly",
+      "hair",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 192
+  },
+  {
+    "kor": "우리는 지금 한국에 있어요.",
+    "correct": [
+      "We",
+      "are",
+      "in",
+      "Korea",
+      "now",
+      "."
+    ],
+    "choices": [
+      "do",
+      "!",
+      "are",
+      "in",
+      "now",
+      "was",
+      "We",
+      "Korea",
+      ".",
+      "being"
+    ],
+    "tts": "We are in Korea now.",
+    "hint": [
+      "",
+      "We",
+      "____",
+      "in",
+      "____",
+      "now",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 193
+  },
+  {
+    "kor": "내 친구와 그녀의 아들이 우리를 기다리고 있어.",
+    "correct": [
+      "My",
+      "friend",
+      "and",
+      "her",
+      "son",
+      "are",
+      "waiting",
+      "for",
+      "us",
+      "."
+    ],
+    "choices": [
+      "her",
+      "has",
+      "do",
+      "for",
+      "are",
+      "was",
+      "My",
+      "us",
+      "and",
+      "?",
+      ".",
+      "son",
+      "waiting",
+      "friend"
+    ],
+    "tts": "My friend and her son are waiting for us.",
+    "hint": [
+      "",
+      "____",
+      "friend",
+      "and",
+      "____",
+      "son",
+      "are",
+      "waiting",
+      "for",
+      "us",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 194
+  },
+  {
+    "kor": "그의 이름은 무엇인가요?",
+    "correct": [
+      "What's",
+      "his",
+      "name",
+      "?"
+    ],
+    "choices": [
+      "name",
+      "do",
+      "have",
+      "?",
+      "then",
+      "his",
+      "What's",
+      "was",
+      "were"
+    ],
+    "tts": "What's his name?",
+    "hint": [
+      "____",
+      "____",
+      "his",
+      "name",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 195
+  },
+  {
+    "kor": "그는 짧은 생머리이고 눈이 커.",
+    "correct": [
+      "He",
+      "has",
+      "short",
+      "straight",
+      "hair",
+      "and",
+      "big",
+      "eyes",
+      "."
+    ],
+    "choices": [
+      "do",
+      "has",
+      "despite",
+      "hair",
+      "therefore",
+      "students",
+      "she",
+      ".",
+      "eyes",
+      "straight",
+      "short",
+      "big",
+      "and",
+      "He"
+    ],
+    "tts": "He has short straight hair and big eyes.",
+    "hint": [
+      "",
+      "____",
+      "has",
+      "short",
+      "straight",
+      "____",
+      "____",
+      "big",
+      "eyes",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 196
+  },
+  {
+    "kor": "오늘 재미있었니?",
+    "correct": [
+      "Did",
+      "you",
+      "have",
+      "fun",
+      "today",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "today",
+      "?",
+      "has",
+      "you",
+      "were",
+      "Did",
+      "did",
+      "fun",
+      "have"
+    ],
+    "tts": "Did you have fun today?",
+    "hint": [
+      "",
+      "Did",
+      "____",
+      "____",
+      "fun",
+      "today",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 197
+  },
+  {
+    "kor": "그녀는 무엇을 입고 있니?",
+    "correct": [
+      "What",
+      "is",
+      "she",
+      "wearing",
+      "?"
+    ],
+    "choices": [
+      "she",
+      "wearing",
+      "unless",
+      "isn’t",
+      "do",
+      "What",
+      "!",
+      "although",
+      "?",
+      "is"
+    ],
+    "tts": "What is she wearing?",
+    "hint": [
+      "",
+      "What",
+      "____",
+      "____",
+      "wearing",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 198
+  },
+  {
+    "kor": "그녀는 파란색 셔츠와 초록색 치마를 입고 있어요.",
+    "correct": [
+      "She",
+      "is",
+      "wearing",
+      "a",
+      "blue",
+      "shirt",
+      "and",
+      "a",
+      "greenskirt",
+      "."
+    ],
+    "choices": [
+      "is",
+      ".",
+      "has",
+      "if",
+      "then",
+      "shirt",
+      "blue",
+      "wearing",
+      "and",
+      "greenskirt",
+      "She",
+      "do",
+      "a"
+    ],
+    "tts": "She is wearing a blue shirt and a greenskirt.",
+    "hint": [
+      "",
+      "____",
+      "is",
+      "wearing",
+      "____",
+      "blue",
+      "shirt",
+      "____",
+      "a",
+      "greenskirt",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 199
+  },
+  {
+    "kor": "저희를 위해 피아노를 연주해 주실 수 있으세요?",
+    "correct": [
+      "Can",
+      "you",
+      "play",
+      "the",
+      "piano",
+      "for",
+      "us",
+      "?"
+    ],
+    "choices": [
+      "us",
+      "They’re",
+      "Can",
+      "for",
+      "play",
+      "piano",
+      "!",
+      "they",
+      "you",
+      "do",
+      "?",
+      "became",
+      "the"
+    ],
+    "tts": "Can you play the piano for us?",
+    "hint": [
+      "",
+      "____",
+      "you",
+      "play",
+      "____",
+      "piano",
+      "____",
+      "us",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 200
+  },
+  {
+    "kor": "아빠를 찾고 있어요.",
+    "correct": [
+      "I'm",
+      "looking",
+      "for",
+      "my",
+      "dad",
+      "."
+    ],
+    "choices": [
+      "dad",
+      "my",
+      "have",
+      "do",
+      ".",
+      "for",
+      "despite",
+      "I'm",
+      "was",
+      "looking"
+    ],
+    "tts": "I'm looking for my dad.",
+    "hint": [
+      "",
+      "____",
+      "looking",
+      "for",
+      "my",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 201
+  },
+  {
+    "kor": "여보세요. 저는 에이미예요.",
+    "correct": [
+      "Hello",
+      ".",
+      "This",
+      "is",
+      "Amy",
+      "."
+    ],
+    "choices": [
+      "am",
+      "being",
+      "Amy",
+      ".",
+      "is",
+      "This",
+      "do",
+      "was",
+      "have",
+      "Hello"
+    ],
+    "tts": "Hello. This is Amy.",
+    "hint": [
+      "____",
+      "Hello",
+      ".",
+      "____",
+      "is",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 202
+  },
+  {
+    "kor": "에밀리 있나요?",
+    "correct": [
+      "Is",
+      "Emily",
+      "there",
+      "?"
+    ],
+    "choices": [
+      "there",
+      "they",
+      "she",
+      "then",
+      "do",
+      "Is",
+      "?",
+      "despite",
+      "Emily"
+    ],
+    "tts": "Is Emily there?",
+    "hint": [
+      "",
+      "Is",
+      "____",
+      "there",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 203
+  },
+  {
+    "kor": "그 때 봐.",
+    "correct": [
+      "See",
+      "you",
+      "then",
+      "."
+    ],
+    "choices": [
+      "do",
+      "you",
+      "See",
+      "if",
+      ".",
+      "were",
+      "then",
+      "?",
+      ","
+    ],
+    "tts": "See you then.",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "then",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 204
+  },
+  {
+    "kor": "3시에 스포츠 센터에서 만나자.",
+    "correct": [
+      "Let's",
+      "meet",
+      "at",
+      "the",
+      "Sports",
+      "Center",
+      "at",
+      "three",
+      "."
+    ],
+    "choices": [
+      ".",
+      "meet",
+      "Let's",
+      "at",
+      "Center",
+      "Sports",
+      "do",
+      "three",
+      "because",
+      "the",
+      "if",
+      "then"
+    ],
+    "tts": "Let's meet at the Sports Center at three.",
+    "hint": [
+      "",
+      "Let's",
+      "meet",
+      "at",
+      "the",
+      "Sports",
+      "____",
+      "____",
+      "three",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 205
+  },
+  {
+    "kor": "존과 통화할 수 있을까요?",
+    "correct": [
+      "Can",
+      "I",
+      "speak",
+      "to",
+      "John",
+      "?"
+    ],
+    "choices": [
+      "I",
+      "?",
+      "He’s",
+      ",",
+      "Can",
+      "to",
+      "speak",
+      "am",
+      "do",
+      "He",
+      "John",
+      "then"
+    ],
+    "tts": "Can I speak to John?",
+    "hint": [
+      "",
+      "Can",
+      "I",
+      "speak",
+      "to",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 206
+  },
+  {
+    "kor": "잠깐만 기다리렴.",
+    "correct": [
+      "Hold",
+      "on,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "do",
+      "am",
+      "had",
+      "therefore",
+      ".",
+      "became",
+      "on,",
+      "please",
+      "Hold"
+    ],
+    "tts": "Hold on, please.",
+    "hint": [
+      "____",
+      "Hold",
+      "____",
+      "please",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 207
+  },
+  {
+    "kor": "공원에 소풍 가자.",
+    "correct": [
+      "Let's",
+      "go",
+      "on",
+      "a",
+      "picnic",
+      "at",
+      "th",
+      "park",
+      "."
+    ],
+    "choices": [
+      "a",
+      "park",
+      "being",
+      "at",
+      "do",
+      "picnic",
+      "th",
+      "on",
+      "Let's",
+      "are",
+      "am",
+      ".",
+      "go"
+    ],
+    "tts": "Let's go on a picnic at th park.",
+    "hint": [
+      "",
+      "Let's",
+      "go",
+      "____",
+      "____",
+      "picnic",
+      "at",
+      "th",
+      "park",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 208
+  },
+  {
+    "kor": "나는 소풍을 위해 음식을 좀 만들 수 있어.",
+    "correct": [
+      "I",
+      "can",
+      "make",
+      "some",
+      "food",
+      "for",
+      "the",
+      "picnic",
+      "."
+    ],
+    "choices": [
+      "picnic",
+      "for",
+      "despite",
+      "the",
+      "because",
+      "food",
+      "I",
+      "make",
+      ".",
+      "They’re",
+      "can",
+      "some",
+      ",",
+      "He",
+      "do"
+    ],
+    "tts": "I can make some food for the picnic.",
+    "hint": [
+      "",
+      "I",
+      "can",
+      "make",
+      "some",
+      "food",
+      "____",
+      "the",
+      "picnic",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 209
+  },
+  {
+    "kor": "2시 어때?",
+    "correct": [
+      "How",
+      "about",
+      "at",
+      "two",
+      "o'clock",
+      "?"
+    ],
+    "choices": [
+      "two",
+      "How",
+      "o'clock",
+      "therefore",
+      "?",
+      "was",
+      "at",
+      "do",
+      "because",
+      "about",
+      "they"
+    ],
+    "tts": "How about at two o'clock?",
+    "hint": [
+      "",
+      "How",
+      "____",
+      "at",
+      "two",
+      "o'clock",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 210
+  },
+  {
+    "kor": "너희들을 위해 이것들을 만들었어.",
+    "correct": [
+      "I",
+      "made",
+      "these",
+      "for",
+      "you",
+      "."
+    ],
+    "choices": [
+      "He",
+      "do",
+      "I",
+      ",",
+      "was",
+      "did",
+      "you",
+      ".",
+      "made",
+      "these",
+      "for"
+    ],
+    "tts": "I made these for you.",
+    "hint": [
+      "____",
+      "I",
+      "____",
+      "____",
+      "for",
+      "you",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 211
+  },
+  {
+    "kor": "이번 주 토요일에 자전거 타자.",
+    "correct": [
+      "Let's",
+      "ride",
+      "bikes",
+      "this",
+      "Saturday",
+      "."
+    ],
+    "choices": [
+      "bikes",
+      "being",
+      ".",
+      "Saturday",
+      "this",
+      "ride",
+      "do",
+      "They’re",
+      "does",
+      "unless",
+      "Let's"
+    ],
+    "tts": "Let's ride bikes this Saturday.",
+    "hint": [
+      "",
+      "Let's",
+      "____",
+      "____",
+      "this",
+      "Saturday",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 212
+  },
+  {
+    "kor": "누리 시장이 열었구나.",
+    "correct": [
+      "Nuri",
+      "Market",
+      "is",
+      "open",
+      "."
+    ],
+    "choices": [
+      "did",
+      "!",
+      "therefore",
+      "is",
+      "open",
+      "Market",
+      "do",
+      "were",
+      "Nuri",
+      "."
+    ],
+    "tts": "Nuri Market is open.",
+    "hint": [
+      "____",
+      "Nuri",
+      "Market",
+      "is",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 213
+  },
+  {
+    "kor": "오늘 오후에 거기에 가 봐요.",
+    "correct": [
+      "Let's",
+      "go",
+      "there",
+      "this",
+      "afternoon",
+      "."
+    ],
+    "choices": [
+      "unless",
+      "Let's",
+      "afternoon",
+      "He’s",
+      "there",
+      "do",
+      "this",
+      "have",
+      ".",
+      "They’re",
+      "go"
+    ],
+    "tts": "Let's go there this afternoon.",
+    "hint": [
+      "",
+      "____",
+      "go",
+      "there",
+      "____",
+      "afternoon",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 214
+  },
+  {
+    "kor": "실례합니다.",
+    "correct": [
+      "Excuse",
+      "me",
+      "."
+    ],
+    "choices": [
+      ".",
+      "had",
+      "Excuse",
+      "were",
+      "do",
+      ",",
+      "me"
+    ],
+    "tts": "Excuse me.",
+    "hint": [
+      "____",
+      "____",
+      "me",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 215
+  },
+  {
+    "kor": "시장이 어디에 있니?",
+    "correct": [
+      "Where",
+      "is",
+      "the",
+      "market",
+      "?"
+    ],
+    "choices": [
+      "they",
+      "?",
+      "were",
+      "Where",
+      "the",
+      "do",
+      "market",
+      "unless",
+      "is",
+      "although"
+    ],
+    "tts": "Where is the market?",
+    "hint": [
+      "",
+      "____",
+      "is",
+      "the",
+      "____",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 216
+  },
+  {
+    "kor": "세 블록 직진 후 빵집에서 왼쪽으로 도세요.",
+    "correct": [
+      "Go",
+      "straight",
+      "three",
+      "blocks",
+      "and",
+      "turn",
+      "left",
+      "at",
+      "the",
+      "bakery",
+      "."
+    ],
+    "choices": [
+      "at",
+      "despite",
+      "unless",
+      "turn",
+      "Go",
+      "and",
+      "bakery",
+      "left",
+      "the",
+      ".",
+      "because",
+      "straight",
+      "do",
+      "three",
+      "blocks",
+      "therefore"
+    ],
+    "tts": "Go straight three blocks and turn left at the bakery.",
+    "hint": [
+      "",
+      "Go",
+      "straight",
+      "three",
+      "blocks",
+      "and",
+      "turn",
+      "left",
+      "____",
+      "the",
+      "bakery",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 217
+  },
+  {
+    "kor": "우리는 도서관을 찾아야 해요.",
+    "correct": [
+      "We",
+      "have",
+      "to",
+      "find",
+      "the",
+      "library",
+      "."
+    ],
+    "choices": [
+      "library",
+      "became",
+      "they",
+      "We",
+      "to",
+      ".",
+      "have",
+      "were",
+      "find",
+      "students",
+      "the",
+      "do"
+    ],
+    "tts": "We have to find the library.",
+    "hint": [
+      "",
+      "We",
+      "____",
+      "to",
+      "____",
+      "____",
+      "library",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 218
+  },
+  {
+    "kor": "우체국에서 다시 오른쪽으로 도세요.",
+    "correct": [
+      "Turn",
+      "right",
+      "again",
+      "at",
+      "the",
+      "post",
+      "office",
+      "."
+    ],
+    "choices": [
+      "the",
+      "?",
+      "because",
+      "again",
+      "Turn",
+      "right",
+      ".",
+      "office",
+      "He’s",
+      "at",
+      "students",
+      "do",
+      "post"
+    ],
+    "tts": "Turn right again at the post office.",
+    "hint": [
+      "",
+      "____",
+      "right",
+      "____",
+      "at",
+      "the",
+      "post",
+      "office",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 219
+  },
+  {
+    "kor": "시장이 거기에 있어요.",
+    "correct": [
+      "The",
+      "market",
+      "is",
+      "over",
+      "there",
+      "."
+    ],
+    "choices": [
+      "The",
+      "market",
+      "became",
+      ".",
+      "do",
+      "meanwhile",
+      "I",
+      "there",
+      "is",
+      "have",
+      "over"
+    ],
+    "tts": "The market is over there.",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "is",
+      "over",
+      "there",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 220
+  },
+  {
+    "kor": "은행 옆에 있어요.",
+    "correct": [
+      "It's",
+      "next",
+      "to",
+      "the",
+      "bank",
+      "."
+    ],
+    "choices": [
+      "to",
+      "the",
+      "?",
+      ".",
+      "were",
+      "does",
+      "bank",
+      "do",
+      "next",
+      "It's",
+      "despite"
+    ],
+    "tts": "It's next to the bank.",
+    "hint": [
+      "____",
+      "It's",
+      "next",
+      "____",
+      "the",
+      "bank",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 221
+  },
+  {
+    "kor": "너의 오른쪽에 있단다.",
+    "correct": [
+      "It's",
+      "on",
+      "your",
+      "right",
+      "."
+    ],
+    "choices": [
+      "because",
+      "right",
+      "if",
+      "on",
+      "It's",
+      "do",
+      ".",
+      "He’s",
+      "your",
+      "am"
+    ],
+    "tts": "It's on your right.",
+    "hint": [
+      "",
+      "____",
+      "on",
+      "your",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 222
+  },
+  {
+    "kor": "지난밤에 무엇을 했니?",
+    "correct": [
+      "What",
+      "did",
+      "you",
+      "do",
+      "last",
+      "night",
+      "?"
+    ],
+    "choices": [
+      "What",
+      "unless",
+      "did",
+      "became",
+      "do",
+      "I",
+      "last",
+      "night",
+      "you",
+      "?",
+      "although"
+    ],
+    "tts": "What did you do last night?",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "you",
+      "____",
+      "last",
+      "night",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 223
+  },
+  {
+    "kor": "동물들에 관한 영화를 봤어.",
+    "correct": [
+      "I",
+      "watched",
+      "a",
+      "movie",
+      "about",
+      "animals",
+      "."
+    ],
+    "choices": [
+      ".",
+      "movie",
+      "about",
+      "?",
+      "a",
+      "I",
+      "He",
+      "watched",
+      ",",
+      "animals",
+      "do"
+    ],
+    "tts": "I watched a movie about animals.",
+    "hint": [
+      "",
+      "____",
+      "watched",
+      "a",
+      "movie",
+      "____",
+      "animals",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 224
+  },
+  {
+    "kor": "먹이를 줄 수 있단다.",
+    "correct": [
+      "You",
+      "can",
+      "feed",
+      "them",
+      "."
+    ],
+    "choices": [
+      "became",
+      "has",
+      ".",
+      "do",
+      "them",
+      "You",
+      "feed",
+      "being",
+      "then",
+      "can"
+    ],
+    "tts": "You can feed them.",
+    "hint": [
+      "",
+      "You",
+      "can",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 225
+  },
+  {
+    "kor": "나는 로봇 체험실에 가고 싶어.",
+    "correct": [
+      "I",
+      "want",
+      "to",
+      "go",
+      "to",
+      "the",
+      "robot",
+      "room",
+      "."
+    ],
+    "choices": [
+      "go",
+      "I",
+      "was",
+      "He",
+      "room",
+      "robot",
+      "students",
+      "became",
+      "to",
+      "the",
+      "!",
+      "do",
+      "want",
+      "."
+    ],
+    "tts": "I want to go to the robot room.",
+    "hint": [
+      "____",
+      "I",
+      "want",
+      "to",
+      "____",
+      "to",
+      "the",
+      "robot",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 226
+  },
+  {
+    "kor": "너는 과학자가 되고 싶니?",
+    "correct": [
+      "Do",
+      "you",
+      "want",
+      "to",
+      "be",
+      "a",
+      "scientist",
+      "?"
+    ],
+    "choices": [
+      "had",
+      "want",
+      "a",
+      "to",
+      "do",
+      "you",
+      "although",
+      "Do",
+      "scientist",
+      "are",
+      "if",
+      "?",
+      "be"
+    ],
+    "tts": "Do you want to be a scientist?",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____",
+      "to",
+      "be",
+      "a",
+      "scientist",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 227
+  },
+  {
+    "kor": "너는 무엇이 되고 싶니?",
+    "correct": [
+      "What",
+      "do",
+      "you",
+      "want",
+      "to",
+      "be",
+      "?"
+    ],
+    "choices": [
+      "?",
+      "What",
+      "do",
+      "be",
+      "students",
+      "want",
+      "you",
+      "did",
+      "isn’t",
+      "to",
+      "He’s"
+    ],
+    "tts": "What do you want to be?",
+    "hint": [
+      "____",
+      "____",
+      "do",
+      "you",
+      "want",
+      "to",
+      "be",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 228
+  },
+  {
+    "kor": "나는 사진작가가 되고 싶어.",
+    "correct": [
+      "I",
+      "want",
+      "to",
+      "be",
+      "a",
+      "photographer",
+      "."
+    ],
+    "choices": [
+      "I",
+      ".",
+      "be",
+      "she",
+      "have",
+      "He",
+      "do",
+      "?",
+      "a",
+      "photographer",
+      "if",
+      "to",
+      "want"
+    ],
+    "tts": "I want to be a photographer.",
+    "hint": [
+      "",
+      "I",
+      "want",
+      "____",
+      "be",
+      "a",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 229
+  },
+  {
+    "kor": "너희들의 장래 희망에 관해 말해 보자.",
+    "correct": [
+      "Let's",
+      "talk",
+      "about",
+      "your",
+      "dream",
+      "jobs",
+      "."
+    ],
+    "choices": [
+      "although",
+      "because",
+      "talk",
+      "jobs",
+      ".",
+      "Let's",
+      "dream",
+      "do",
+      "has",
+      "your",
+      "about"
+    ],
+    "tts": "Let's talk about your dream jobs.",
+    "hint": [
+      "",
+      "Let's",
+      "talk",
+      "____",
+      "your",
+      "dream",
+      "jobs",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 230
+  },
+  {
+    "kor": "누가 첫 번째로 할까?",
+    "correct": [
+      "Who",
+      "goes",
+      "first",
+      "?"
+    ],
+    "choices": [
+      "then",
+      "first",
+      "goes",
+      "do",
+      "Who",
+      "?",
+      "therefore",
+      "does"
+    ],
+    "tts": "Who goes first?",
+    "hint": [
+      "",
+      "Who",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 231
+  },
+  {
+    "kor": "앞으로 나오렴.",
+    "correct": [
+      "Come",
+      "up",
+      "to",
+      "the",
+      "front,",
+      "please",
+      "."
+    ],
+    "choices": [
+      "please",
+      "Come",
+      "the",
+      ".",
+      "do",
+      "front,",
+      "up",
+      "therefore",
+      "does",
+      "students",
+      "!",
+      "to"
+    ],
+    "tts": "Come up to the front, please.",
+    "hint": [
+      "",
+      "Come",
+      "____",
+      "to",
+      "____",
+      "____",
+      "please",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 232
+  },
+  {
+    "kor": "저는 태국 음식집을 열고 싶어요.",
+    "correct": [
+      "I",
+      "want",
+      "to",
+      "open",
+      "Thai",
+      "Restaurant",
+      "."
+    ],
+    "choices": [
+      "He’s",
+      "He",
+      ".",
+      "open",
+      "I",
+      "she",
+      "do",
+      "want",
+      "Thai",
+      "then",
+      "to",
+      "Restaurant",
+      "!"
+    ],
+    "tts": "I want to open Thai Restaurant.",
+    "hint": [
+      "____",
+      "I",
+      "want",
+      "to",
+      "open",
+      "____",
+      "Restaurant",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 233
+  },
+  {
+    "kor": "나는 사람들을 돕는 것을 좋아해.",
+    "correct": [
+      "I",
+      "like",
+      "to",
+      "help",
+      "people",
+      "."
+    ],
+    "choices": [
+      "like",
+      "?",
+      "people",
+      ".",
+      "were",
+      "help",
+      "had",
+      "I",
+      "do",
+      "has",
+      "to",
+      "He"
+    ],
+    "tts": "I like to help people.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "to",
+      "help",
+      "people",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 234
+  },
+  {
+    "kor": "나는 매일 옷을 디자인해.",
+    "correct": [
+      "I",
+      "design",
+      "clothes",
+      "every",
+      "day",
+      "."
+    ],
+    "choices": [
+      "do",
+      "design",
+      "does",
+      "He",
+      "every",
+      "day",
+      "clothes",
+      "if",
+      ".",
+      "I",
+      "meanwhile"
+    ],
+    "tts": "I design clothes every day.",
+    "hint": [
+      "____",
+      "I",
+      "design",
+      "clothes",
+      "____",
+      "day",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 235
+  },
+  {
+    "kor": "20년 후에 내 패션쇼에 와 줘.",
+    "correct": [
+      "Please",
+      "come",
+      "to",
+      "my",
+      "fashion",
+      "show",
+      "in",
+      "twenty",
+      "years",
+      "."
+    ],
+    "choices": [
+      "my",
+      "she",
+      "Please",
+      "come",
+      "twenty",
+      "fashion",
+      "do",
+      "I",
+      "years",
+      ".",
+      "in",
+      "show",
+      "to",
+      "although",
+      "does"
+    ],
+    "tts": "Please come to my fashion show in twenty years.",
+    "hint": [
+      "",
+      "Please",
+      "come",
+      "to",
+      "my",
+      "____",
+      "show",
+      "____",
+      "twenty",
+      "years",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 236
+  },
+  {
+    "kor": "네 것이니?",
+    "correct": [
+      "Is",
+      "it",
+      "yours",
+      "?"
+    ],
+    "choices": [
+      "despite",
+      "?",
+      ".",
+      "Is",
+      "became",
+      "yours",
+      "do",
+      "it",
+      "then"
+    ],
+    "tts": "Is it yours?",
+    "hint": [
+      "",
+      "Is",
+      "it",
+      "yours",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 237
+  },
+  {
+    "kor": "너는 중국어를 할 수 있니?",
+    "correct": [
+      "Can",
+      "you",
+      "speak",
+      "Chinese",
+      "?"
+    ],
+    "choices": [
+      "meanwhile",
+      "then",
+      "?",
+      "speak",
+      "Chinese",
+      "they",
+      "do",
+      "Can",
+      "you"
+    ],
+    "tts": "Can you speak Chinese?",
+    "hint": [
+      "",
+      "Can",
+      "____",
+      "speak",
+      "____",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 238
+  },
+  {
+    "kor": "나는 이번 겨울에 중국어를 배울 거야.",
+    "correct": [
+      "I",
+      "will",
+      "learn",
+      "Chinese",
+      "this",
+      "winter",
+      "."
+    ],
+    "choices": [
+      "did",
+      "became",
+      "Chinese",
+      "He",
+      "winter",
+      "will",
+      "do",
+      "I",
+      "this",
+      ".",
+      "meanwhile",
+      "learn"
+    ],
+    "tts": "I will learn Chinese this winter.",
+    "hint": [
+      "",
+      "____",
+      "will",
+      "learn",
+      "Chinese",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 239
+  },
+  {
+    "kor": "너는 겨울 방학 동안 무엇을 할 거니?",
+    "correct": [
+      "What",
+      "will",
+      "you",
+      "do",
+      "during",
+      "winter",
+      "vacation",
+      "?"
+    ],
+    "choices": [
+      "They’re",
+      ",",
+      "will",
+      "What",
+      "they",
+      "during",
+      "winter",
+      "?",
+      "vacation",
+      "you",
+      "do"
+    ],
+    "tts": "What will you do during winter vacation?",
+    "hint": [
+      "",
+      "What",
+      "____",
+      "you",
+      "do",
+      "during",
+      "winter",
+      "vacation",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 240
+  },
+  {
+    "kor": "나는 스키 캠프에 참가할 거야.",
+    "correct": [
+      "I",
+      "will",
+      "join",
+      "a",
+      "ski",
+      "camp",
+      "."
+    ],
+    "choices": [
+      "He",
+      "ski",
+      "became",
+      ".",
+      "join",
+      "then",
+      "?",
+      "despite",
+      "a",
+      "camp",
+      "I",
+      "do",
+      "will"
+    ],
+    "tts": "I will join a ski camp.",
+    "hint": [
+      "",
+      "I",
+      "will",
+      "join",
+      "a",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 241
+  },
+  {
+    "kor": "먹어 봐.",
+    "correct": [
+      "Please",
+      "try",
+      "some",
+      "."
+    ],
+    "choices": [
+      "Please",
+      "do",
+      "had",
+      "am",
+      ".",
+      "meanwhile",
+      "try",
+      "some",
+      "students"
+    ],
+    "tts": "Please try some.",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 242
+  },
+  {
+    "kor": "너는 춤추는 것을 좋아하니?",
+    "correct": [
+      "Do",
+      "you",
+      "like",
+      "to",
+      "dance",
+      "?"
+    ],
+    "choices": [
+      "to",
+      "They’re",
+      "Do",
+      "?",
+      "do",
+      "I",
+      "like",
+      "although",
+      "you",
+      "dance",
+      "became"
+    ],
+    "tts": "Do you like to dance?",
+    "hint": [
+      "",
+      "____",
+      "you",
+      "____",
+      "____",
+      "dance",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 243
+  },
+  {
+    "kor": "내일은 새해 첫날이야.",
+    "correct": [
+      "Tomorrow",
+      "is",
+      "New",
+      "Year's",
+      "Day",
+      "."
+    ],
+    "choices": [
+      "were",
+      "Day",
+      "being",
+      "!",
+      "Year's",
+      "is",
+      ".",
+      "do",
+      "Tomorrow",
+      "are",
+      "New"
+    ],
+    "tts": "Tomorrow is New Year's Day.",
+    "hint": [
+      "",
+      "____",
+      "is",
+      "____",
+      "____",
+      "Day",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 244
+  },
+  {
+    "kor": "너는 내일 무엇을 할 거니?",
+    "correct": [
+      "What",
+      "will",
+      "you",
+      "do",
+      "tomorrow",
+      "?"
+    ],
+    "choices": [
+      "then",
+      "What",
+      "tomorrow",
+      ".",
+      ",",
+      "you",
+      "do",
+      "?",
+      "being",
+      "will"
+    ],
+    "tts": "What will you do tomorrow?",
+    "hint": [
+      "____",
+      "What",
+      "will",
+      "____",
+      "do",
+      "____",
+      "?"
+    ],
+    "level": "Level 2",
+    "id": 245
+  },
+  {
+    "kor": "나는 많은 박물관을 방문할 거야.",
+    "correct": [
+      "I",
+      "will",
+      "visit",
+      "many",
+      "museums",
+      "."
+    ],
+    "choices": [
+      ".",
+      "many",
+      "He",
+      "unless",
+      "museums",
+      "visit",
+      "then",
+      "I",
+      "will",
+      "has",
+      "students",
+      "do"
+    ],
+    "tts": "I will visit many museums.",
+    "hint": [
+      "",
+      "I",
+      "____",
+      "____",
+      "____",
+      "museums",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 246
+  },
+  {
+    "kor": "우리 집에 와.",
+    "correct": [
+      "Come",
+      "over",
+      "to",
+      "my",
+      "house",
+      "."
+    ],
+    "choices": [
+      "were",
+      "meanwhile",
+      "over",
+      "to",
+      "because",
+      "house",
+      "my",
+      "do",
+      ".",
+      "Come"
+    ],
+    "tts": "Come over to my house.",
+    "hint": [
+      "",
+      "____",
+      "over",
+      "to",
+      "my",
+      "house",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 247
+  },
+  {
+    "kor": "새해 복 많이 받아!",
+    "correct": [
+      "Happy",
+      "New",
+      "Year!"
+    ],
+    "choices": [
+      "unless",
+      "Year!",
+      "They’re",
+      "if",
+      "do",
+      "have",
+      "Happy",
+      "New"
+    ],
+    "tts": "Happy New Year!",
+    "hint": [
+      "",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 248
+  },
+  {
+    "kor": "나는 집에 있을 거야.",
+    "correct": [
+      "I",
+      "will",
+      "stay",
+      "at",
+      "home",
+      "."
+    ],
+    "choices": [
+      "stay",
+      "if",
+      "she",
+      "home",
+      "do",
+      "at",
+      "I",
+      "will",
+      ".",
+      "has",
+      "He"
+    ],
+    "tts": "I will stay at home.",
+    "hint": [
+      "",
+      "____",
+      "will",
+      "stay",
+      "at",
+      "____",
+      "____"
+    ],
+    "level": "Level 2",
+    "id": 249
+  },
+  {
+    "kor": "우리 엄마가 기타를 잘 연주하실 수 있어.",
+    "correct": [
+      "My",
+      "mom",
+      "can",
+      "play",
+      "the",
+      "guitar",
+      "very",
+      "well",
+      "."
+    ],
+    "choices": [
+      "mom",
+      "the",
+      "My",
+      "well",
+      "I",
+      "can",
+      "play",
+      "very",
+      ".",
+      "do",
+      "are",
+      "had",
+      "isn’t",
+      "guitar"
+    ],
+    "tts": "My mom can play the guitar very well.",
+    "hint": [
+      "____",
+      "My",
+      "mom",
+      "can",
+      "play",
+      "____",
+      "guitar",
+      "very",
+      "well",
+      "."
+    ],
+    "level": "Level 2",
+    "id": 250
+  },
+  {
+    "id": 251,
+    "kor": "오늘 하루 어땠니?",
+    "correct": [
+      "How",
+      "was",
+      "your",
+      "day",
+      "?"
+    ],
+    "choices": [
+      "being",
+      "do",
+      "How",
+      "despite",
+      "day",
+      ".",
+      "was",
+      "am",
+      "?",
+      "your"
+    ],
+    "tts": "How was your day?",
+    "hint": [
+      "How",
+      "____",
+      "____",
+      "day",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 252,
+    "kor": "날씨가 어때?",
+    "correct": [
+      "What's",
+      "the",
+      "weather",
+      "like",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "the",
+      "she",
+      "they",
+      "What's",
+      "?",
+      "I",
+      "then",
+      "like",
+      "weather"
+    ],
+    "tts": "What’s the weather like?",
+    "hint": [
+      "What's",
+      "____",
+      "____",
+      "like",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 253,
+    "kor": "무엇을 할 건데?",
+    "correct": [
+      "What",
+      "are",
+      "you",
+      "going",
+      "to",
+      "do",
+      "?"
+    ],
+    "choices": [
+      "?",
+      "to",
+      "do",
+      "you",
+      "are",
+      "What",
+      "going",
+      "have",
+      "being",
+      "then"
+    ],
+    "tts": "What are you going to do?",
+    "hint": [
+      "____",
+      "____",
+      "you",
+      "going",
+      "____",
+      "do",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 254,
+    "kor": "천천히 하세요.",
+    "correct": [
+      "Take",
+      "your",
+      "time,",
+      "please",
+      "."
+    ],
+    "choices": [
+      ".",
+      "they",
+      "am",
+      "do",
+      "time,",
+      "They’re",
+      "students",
+      "Take",
+      "your",
+      "please"
+    ],
+    "tts": "Take your time, please.",
+    "hint": [
+      "____",
+      "your",
+      "____",
+      "please",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 255,
+    "kor": "내 말이 그 말이야.",
+    "correct": [
+      "That",
+      "is",
+      "what",
+      "I'm",
+      "saying",
+      "."
+    ],
+    "choices": [
+      "That",
+      "they",
+      ".",
+      "do",
+      "being",
+      "They’re",
+      "what",
+      "is",
+      "I'm",
+      "am",
+      "saying"
+    ],
+    "tts": "That is what I’m saying.",
+    "hint": [
+      "That",
+      "is",
+      "____",
+      "I'm",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 256,
+    "kor": "이 지역에 호텔이 있습니까?",
+    "correct": [
+      "Is",
+      "there",
+      "a",
+      "hotel",
+      "in",
+      "this",
+      "area",
+      "?"
+    ],
+    "choices": [
+      "hotel",
+      "area",
+      "do",
+      "if",
+      "then",
+      "?",
+      "in",
+      "meanwhile",
+      "there",
+      "this",
+      "a",
+      "have",
+      "Is"
+    ],
+    "tts": "Is there a hotel in this area?",
+    "hint": [
+      "____",
+      "____",
+      "a",
+      "____",
+      "in",
+      "this",
+      "area",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 257,
+    "kor": "무슨 말을 해야할지 모르겠어.",
+    "correct": [
+      "I",
+      "don't",
+      "know",
+      "what",
+      "to",
+      "say",
+      "."
+    ],
+    "choices": [
+      "do",
+      "despite",
+      "don't",
+      "He",
+      "students",
+      "became",
+      "to",
+      "has",
+      "know",
+      "what",
+      ".",
+      "say",
+      "I"
+    ],
+    "tts": "I don’t know what to say.",
+    "hint": [
+      "I",
+      "____",
+      "____",
+      "____",
+      "to",
+      "say",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 258,
+    "kor": "막 출발하려던 참이야.",
+    "correct": [
+      "I'm",
+      "about",
+      "to",
+      "leave",
+      "."
+    ],
+    "choices": [
+      "leave",
+      ".",
+      "about",
+      "became",
+      "I'm",
+      "do",
+      "were",
+      "because",
+      "being",
+      "to"
+    ],
+    "tts": "I’m about to leave.",
+    "hint": [
+      "I'm",
+      "about",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 259,
+    "kor": "네가 여기 청소했어?",
+    "correct": [
+      "Did",
+      "you",
+      "clean",
+      "up",
+      "in",
+      "here",
+      "?"
+    ],
+    "choices": [
+      "did",
+      "Did",
+      "does",
+      "was",
+      "in",
+      "here",
+      "you",
+      "up",
+      "clean",
+      "do",
+      "being",
+      "?"
+    ],
+    "tts": "Did you clean up in here?",
+    "hint": [
+      "Did",
+      "____",
+      "clean",
+      "____",
+      "in",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 260,
+    "kor": "그 이야기 들어봤어?",
+    "correct": [
+      "Have",
+      "you",
+      "heard",
+      "of",
+      "it",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "unless",
+      "heard",
+      "Have",
+      "isn’t",
+      "of",
+      "it",
+      "He’s",
+      "?",
+      "although",
+      "you"
+    ],
+    "tts": "Have you heard of it?",
+    "hint": [
+      "Have",
+      "you",
+      "____",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 261,
+    "kor": "나를 마트로 데려다 줘.",
+    "correct": [
+      "Please",
+      "take",
+      "me",
+      "to",
+      "the",
+      "market",
+      "."
+    ],
+    "choices": [
+      "the",
+      "?",
+      "Please",
+      "to",
+      "she",
+      ".",
+      "He’s",
+      "take",
+      "do",
+      "being",
+      "me",
+      "market"
+    ],
+    "tts": "Please take me to the market.",
+    "hint": [
+      "Please",
+      "take",
+      "me",
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 262,
+    "kor": "왜 옷을 잘 차려 입었어?",
+    "correct": [
+      "Why",
+      "are",
+      "you",
+      "dressed",
+      "up",
+      "?"
+    ],
+    "choices": [
+      "if",
+      "do",
+      "they",
+      "does",
+      "therefore",
+      "dressed",
+      "up",
+      "Why",
+      "?",
+      "are",
+      "you"
+    ],
+    "tts": "Why are you dressed up?",
+    "hint": [
+      "Why",
+      "are",
+      "____",
+      "____",
+      "up",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 263,
+    "kor": "네가 좋아하는 영화배우는 누구야?",
+    "correct": [
+      "Who's",
+      "your",
+      "favorite",
+      "movie",
+      "stars",
+      "?"
+    ],
+    "choices": [
+      "Who's",
+      ",",
+      "?",
+      "although",
+      "unless",
+      "stars",
+      "your",
+      "They’re",
+      "do",
+      "favorite",
+      "movie"
+    ],
+    "tts": "Who’s your favorite movie stars?",
+    "hint": [
+      "Who's",
+      "your",
+      "favorite",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 264,
+    "kor": "커피 좀 드시겠어요?",
+    "correct": [
+      "Would",
+      "you",
+      "like",
+      "to",
+      "have",
+      "some",
+      "coffee",
+      "?"
+    ],
+    "choices": [
+      "I",
+      "They’re",
+      "?",
+      "being",
+      "Would",
+      "became",
+      "you",
+      "like",
+      "coffee",
+      "do",
+      "to",
+      "some",
+      "have"
+    ],
+    "tts": "Would you like to have some coffee?",
+    "hint": [
+      "____",
+      "you",
+      "like",
+      "____",
+      "____",
+      "some",
+      "coffee",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 265,
+    "kor": "네가 피곤한 것 같아.",
+    "correct": [
+      "You",
+      "seem",
+      "to",
+      "be",
+      "tired",
+      "."
+    ],
+    "choices": [
+      ".",
+      "they",
+      "has",
+      "do",
+      "seem",
+      "You",
+      "did",
+      "be",
+      "to",
+      "tired"
+    ],
+    "tts": "You seem to be tired.",
+    "hint": [
+      "You",
+      "seem",
+      "to",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 266,
+    "kor": "난 건강해.",
+    "correct": [
+      "I'm",
+      "in",
+      "good",
+      "shape",
+      "."
+    ],
+    "choices": [
+      "shape",
+      "isn’t",
+      "meanwhile",
+      "do",
+      "in",
+      "students",
+      ".",
+      "good",
+      "I'm"
+    ],
+    "tts": "I’m in good shape.",
+    "hint": [
+      "____",
+      "in",
+      "____",
+      "shape",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 267,
+    "kor": "내 생각에 우리 이야기를 해봐야 할 것 같아.",
+    "correct": [
+      "I",
+      "think",
+      "we",
+      "need",
+      "to",
+      "talk",
+      "about",
+      "it",
+      "."
+    ],
+    "choices": [
+      "He",
+      "we",
+      "talk",
+      "it",
+      ".",
+      "do",
+      "think",
+      "about",
+      "did",
+      "to",
+      "being",
+      "I",
+      "they",
+      "does",
+      "need"
+    ],
+    "tts": "I think we need to talk about it.",
+    "hint": [
+      "____",
+      "think",
+      "we",
+      "need",
+      "to",
+      "____",
+      "about",
+      "it",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 268,
+    "kor": "그건 하지 않는 편이 좋을 것 같아.",
+    "correct": [
+      "I'd",
+      "rather",
+      "not",
+      "do",
+      "that",
+      "."
+    ],
+    "choices": [
+      "They’re",
+      "that",
+      "do",
+      ".",
+      "rather",
+      "unless",
+      "I'd",
+      "not",
+      "He’s",
+      "students"
+    ],
+    "tts": "I’d rather not do that.",
+    "hint": [
+      "____",
+      "rather",
+      "not",
+      "____",
+      "that",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 269,
+    "kor": "내 말 끝까지 들어봐.",
+    "correct": [
+      "Hear",
+      "me",
+      "out"
+    ],
+    "choices": [
+      "me",
+      "she",
+      "do",
+      "meanwhile",
+      "although",
+      "Hear",
+      "out",
+      "despite"
+    ],
+    "tts": "Hear me out",
+    "hint": [
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 270,
+    "kor": "난 오늘 한가해.",
+    "correct": [
+      "I",
+      "am",
+      "free",
+      "today",
+      "."
+    ],
+    "choices": [
+      ".",
+      "therefore",
+      "free",
+      "am",
+      "He",
+      "today",
+      "I",
+      "?",
+      "do",
+      "became"
+    ],
+    "tts": "I am free today.",
+    "hint": [
+      "____",
+      "am",
+      "____",
+      "today",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 271,
+    "kor": "이 물건 기내 반입이 가능한가요?",
+    "correct": [
+      "Can",
+      "I",
+      "take",
+      "this",
+      "on",
+      "the",
+      "plane",
+      "?"
+    ],
+    "choices": [
+      "on",
+      "take",
+      "the",
+      "plane",
+      "Can",
+      "do",
+      "I",
+      "this",
+      "He",
+      "became",
+      "because",
+      "?",
+      "are",
+      "therefore"
+    ],
+    "tts": "Can I take this on the plane?",
+    "hint": [
+      "____",
+      "I",
+      "____",
+      "this",
+      "____",
+      "the",
+      "plane",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 272,
+    "kor": "파리행 비행기를 예약하고 싶어요.",
+    "correct": [
+      "I'd",
+      "like",
+      "to",
+      "book",
+      "a",
+      "flight",
+      "to",
+      "Paris",
+      "."
+    ],
+    "choices": [
+      "flight",
+      "does",
+      "had",
+      "despite",
+      "book",
+      "Paris",
+      ".",
+      "I'd",
+      "meanwhile",
+      "do",
+      "a",
+      "to",
+      "like"
+    ],
+    "tts": "I’d like to book a flight to Paris.",
+    "hint": [
+      "I'd",
+      "like",
+      "____",
+      "book",
+      "a",
+      "flight",
+      "to",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 273,
+    "kor": "제 방에 키를 두고 나왔어요.",
+    "correct": [
+      "I",
+      "left",
+      "my",
+      "key",
+      "in",
+      "the",
+      "room",
+      "."
+    ],
+    "choices": [
+      "room",
+      "if",
+      "my",
+      ".",
+      "does",
+      "do",
+      "being",
+      "left",
+      "I",
+      "the",
+      "in",
+      "He",
+      "!",
+      "key"
+    ],
+    "tts": "I left my key in the room.",
+    "hint": [
+      "____",
+      "left",
+      "my",
+      "____",
+      "in",
+      "the",
+      "room",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 274,
+    "kor": "호텔로 가는 요금은 얼마인가요?",
+    "correct": [
+      "What's",
+      "the",
+      "fare",
+      "to",
+      "the",
+      "hotel",
+      "?"
+    ],
+    "choices": [
+      "What's",
+      "to",
+      "did",
+      "hotel",
+      "fare",
+      "do",
+      "?",
+      "was",
+      "has",
+      "the",
+      ","
+    ],
+    "tts": "What’s the fare to the hotel?",
+    "hint": [
+      "What's",
+      "the",
+      "____",
+      "to",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 275,
+    "kor": "잔돈은 괜찮습니다.",
+    "correct": [
+      "Keep",
+      "the",
+      "change",
+      "."
+    ],
+    "choices": [
+      "did",
+      "change",
+      "the",
+      "do",
+      "I",
+      "Keep",
+      ".",
+      "have"
+    ],
+    "tts": "Keep the change.",
+    "hint": [
+      "____",
+      "____",
+      "change",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 276,
+    "kor": "실례합니다, 주문 할게요.",
+    "correct": [
+      "Excuse",
+      "me,",
+      "We're",
+      "ready",
+      "to",
+      "order",
+      "."
+    ],
+    "choices": [
+      "students",
+      "they",
+      "to",
+      "ready",
+      "We're",
+      ".",
+      "Excuse",
+      "do",
+      "order",
+      "I",
+      "me,",
+      "were"
+    ],
+    "tts": "Excuse me, We’re ready to order.",
+    "hint": [
+      "Excuse",
+      "____",
+      "We're",
+      "ready",
+      "____",
+      "order",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 277,
+    "kor": "남은 음식을 싸 갈 수 있을까요?",
+    "correct": [
+      "Can",
+      "I",
+      "get",
+      "a",
+      "to-go",
+      "box",
+      "?"
+    ],
+    "choices": [
+      "!",
+      "He",
+      "to-go",
+      "they",
+      "a",
+      "Can",
+      "He’s",
+      "do",
+      "get",
+      "?",
+      "I",
+      "box"
+    ],
+    "tts": "Can I get a to-go box?",
+    "hint": [
+      "Can",
+      "____",
+      "____",
+      "a",
+      "____",
+      "box",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 278,
+    "kor": "택시는 어디에서 탈 수 있죠?",
+    "correct": [
+      "Where",
+      "can",
+      "I",
+      "find",
+      "a",
+      "taxi",
+      "?"
+    ],
+    "choices": [
+      "I",
+      "has",
+      "does",
+      "can",
+      "taxi",
+      "Where",
+      "do",
+      "a",
+      "He",
+      "students",
+      "find",
+      "?",
+      "are"
+    ],
+    "tts": "Where can I find a taxi?",
+    "hint": [
+      "____",
+      "can",
+      "I",
+      "find",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 279,
+    "kor": "학생 할인이 되나요?",
+    "correct": [
+      "Do",
+      "you",
+      "offer",
+      "student",
+      "discounts",
+      "?"
+    ],
+    "choices": [
+      "meanwhile",
+      "has",
+      "?",
+      "do",
+      "unless",
+      "offer",
+      "Do",
+      "student",
+      "discounts",
+      "you",
+      "isn’t"
+    ],
+    "tts": "Do you offer student discounts?",
+    "hint": [
+      "Do",
+      "____",
+      "____",
+      "student",
+      "discounts",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 280,
+    "kor": "같이 사진 찍어요.",
+    "correct": [
+      "Let's",
+      "take",
+      "a",
+      "picture",
+      "together",
+      "."
+    ],
+    "choices": [
+      "meanwhile",
+      "together",
+      "a",
+      "then",
+      "Let's",
+      ".",
+      "They’re",
+      "take",
+      "picture",
+      "do",
+      "did"
+    ],
+    "tts": "Let’s take a picture together.",
+    "hint": [
+      "____",
+      "take",
+      "a",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 281,
+    "kor": "관광안내소는 어디에 있나요?",
+    "correct": [
+      "Where",
+      "is",
+      "the",
+      "information",
+      "center",
+      "?"
+    ],
+    "choices": [
+      "center",
+      "despite",
+      "Where",
+      "is",
+      "have",
+      "do",
+      "information",
+      "the",
+      "am",
+      "?",
+      "they"
+    ],
+    "tts": "Where is the information center?",
+    "hint": [
+      "Where",
+      "is",
+      "____",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 282,
+    "kor": "정말 재미있었어요.",
+    "correct": [
+      "It",
+      "was",
+      "really",
+      "fun",
+      "."
+    ],
+    "choices": [
+      "meanwhile",
+      "do",
+      "It",
+      "being",
+      "am",
+      "does",
+      "fun",
+      ".",
+      "was",
+      "really"
+    ],
+    "tts": "It was really fun.",
+    "hint": [
+      "____",
+      "was",
+      "____",
+      "fun",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 283,
+    "kor": "입장료는 얼마인가요?",
+    "correct": [
+      "How",
+      "much",
+      "is",
+      "the",
+      "admission",
+      "fee",
+      "?"
+    ],
+    "choices": [
+      "How",
+      "students",
+      "did",
+      "they",
+      "then",
+      "fee",
+      "much",
+      "?",
+      "admission",
+      "do",
+      "the",
+      "is"
+    ],
+    "tts": "How much is the admission fee?",
+    "hint": [
+      "How",
+      "much",
+      "is",
+      "the",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 284,
+    "kor": "몇 시부터 몇 시까지 하나요?",
+    "correct": [
+      "What",
+      "are",
+      "opening",
+      "hours",
+      "?"
+    ],
+    "choices": [
+      "What",
+      "despite",
+      "opening",
+      "were",
+      "do",
+      "?",
+      "hours",
+      "unless",
+      "then",
+      "are"
+    ],
+    "tts": "What are opening hours?",
+    "hint": [
+      "____",
+      "are",
+      "opening",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 285,
+    "kor": "제일 빠른 길로 가주세요.",
+    "correct": [
+      "Take",
+      "the",
+      "shortest",
+      "way,",
+      "please",
+      "."
+    ],
+    "choices": [
+      ".",
+      "unless",
+      "Take",
+      "the",
+      "way,",
+      "shortest",
+      "please",
+      "had",
+      "did",
+      "do"
+    ],
+    "tts": "Take the shortest way, please.",
+    "hint": [
+      "____",
+      "____",
+      "shortest",
+      "____",
+      "please",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 286,
+    "kor": "미리 준비해야 할 것이 있나요?",
+    "correct": [
+      "What",
+      "should",
+      "I",
+      "bring",
+      "?"
+    ],
+    "choices": [
+      "He",
+      "I",
+      "What",
+      "?",
+      "she",
+      ",",
+      "do",
+      "bring",
+      "had",
+      "should",
+      "students"
+    ],
+    "tts": "What should I bring?",
+    "hint": [
+      "What",
+      "____",
+      "I",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 287,
+    "kor": "관광 정보가 필요해요.",
+    "correct": [
+      "I",
+      "need",
+      "tourist",
+      "information",
+      "."
+    ],
+    "choices": [
+      ",",
+      "tourist",
+      "I",
+      "do",
+      ".",
+      "have",
+      "need",
+      "He",
+      "information",
+      "were"
+    ],
+    "tts": "I need tourist information.",
+    "hint": [
+      "____",
+      "____",
+      "tourist",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 288,
+    "kor": "근처에 무료 화장실이 있나요?",
+    "correct": [
+      "Is",
+      "there",
+      "a",
+      "free",
+      "restroom",
+      "around",
+      "here",
+      "?"
+    ],
+    "choices": [
+      "a",
+      "Is",
+      "therefore",
+      "do",
+      "isn’t",
+      "around",
+      "were",
+      "free",
+      "?",
+      "here",
+      "restroom",
+      "has",
+      "there"
+    ],
+    "tts": "Is there a free restroom around here?",
+    "hint": [
+      "Is",
+      "____",
+      "a",
+      "free",
+      "____",
+      "around",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 289,
+    "kor": "여기서 촬영을 해도 돼요?",
+    "correct": [
+      "Can",
+      "I",
+      "film",
+      "this",
+      "?"
+    ],
+    "choices": [
+      "this",
+      "am",
+      "I",
+      "did",
+      "do",
+      "He",
+      "film",
+      "have",
+      "Can",
+      "?",
+      "!"
+    ],
+    "tts": "Can I film this?",
+    "hint": [
+      "Can",
+      "____",
+      "____",
+      "this",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 290,
+    "kor": "화장품 매장이 어디에요?",
+    "correct": [
+      "Where",
+      "do",
+      "they",
+      "sell",
+      "cosmetics",
+      "?"
+    ],
+    "choices": [
+      "sell",
+      "?",
+      "He’s",
+      "students",
+      "cosmetics",
+      "they",
+      "she",
+      "have",
+      "Where",
+      "do"
+    ],
+    "tts": "Where do they sell cosmetics?",
+    "hint": [
+      "Where",
+      "____",
+      "they",
+      "____",
+      "cosmetics",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 291,
+    "kor": "전자제품 매장은 몇 층 이에요?",
+    "correct": [
+      "Which",
+      "floor",
+      "is",
+      "the",
+      "electronics",
+      "section",
+      "?"
+    ],
+    "choices": [
+      "became",
+      "do",
+      "electronics",
+      "is",
+      "were",
+      "Which",
+      "section",
+      "meanwhile",
+      "floor",
+      "being",
+      "the",
+      "?"
+    ],
+    "tts": "Which floor is the electronics section?",
+    "hint": [
+      "Which",
+      "____",
+      "____",
+      "the",
+      "electronics",
+      "section",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 292,
+    "kor": "만져봐도 될까요?",
+    "correct": [
+      "Can",
+      "I",
+      "touch",
+      "it",
+      "?"
+    ],
+    "choices": [
+      "isn’t",
+      "Can",
+      "unless",
+      "touch",
+      "!",
+      "I",
+      "do",
+      "has",
+      "?",
+      "He",
+      "it"
+    ],
+    "tts": "Can I touch it?",
+    "hint": [
+      "____",
+      "____",
+      "touch",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 293,
+    "kor": "이건 신상품 이에요.",
+    "correct": [
+      "They",
+      "are",
+      "new",
+      "arrivals",
+      "."
+    ],
+    "choices": [
+      ".",
+      "arrivals",
+      "new",
+      "They",
+      "are",
+      "has",
+      "He’s",
+      "do",
+      "although"
+    ],
+    "tts": "They are new arrivals.",
+    "hint": [
+      "____",
+      "are",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 294,
+    "kor": "이건 한 종류밖에 없어요.",
+    "correct": [
+      "This",
+      "is",
+      "the",
+      "only",
+      "type",
+      "."
+    ],
+    "choices": [
+      "do",
+      "she",
+      "have",
+      ".",
+      "This",
+      "is",
+      "only",
+      "type",
+      "the",
+      "because"
+    ],
+    "tts": "This is the only type.",
+    "hint": [
+      "This",
+      "____",
+      "____",
+      "____",
+      "type",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 295,
+    "kor": "다른 색도 보여주실 수 있어요?",
+    "correct": [
+      "Could",
+      "you",
+      "show",
+      "me",
+      "some",
+      "other",
+      "colors",
+      "?"
+    ],
+    "choices": [
+      "show",
+      "had",
+      "despite",
+      "colors",
+      "They’re",
+      "you",
+      "do",
+      "?",
+      ",",
+      "Could",
+      "some",
+      "other",
+      "me"
+    ],
+    "tts": "Could you show me some other colors?",
+    "hint": [
+      "Could",
+      "____",
+      "show",
+      "____",
+      "____",
+      "other",
+      "colors",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 296,
+    "kor": "다른 사이즈도 있나요?",
+    "correct": [
+      "Do",
+      "you",
+      "have",
+      "this",
+      "item",
+      "in",
+      "other",
+      "size",
+      "?"
+    ],
+    "choices": [
+      "this",
+      "you",
+      "item",
+      "size",
+      "have",
+      "being",
+      "other",
+      "?",
+      "therefore",
+      "!",
+      "in",
+      "are",
+      "do",
+      "Do"
+    ],
+    "tts": "Do you have this item in other size?",
+    "hint": [
+      "Do",
+      "____",
+      "____",
+      "this",
+      "item",
+      "in",
+      "other",
+      "size",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 297,
+    "kor": "좀 더 생각해 볼게요.",
+    "correct": [
+      "I",
+      "will",
+      "think",
+      "about",
+      "it",
+      "a",
+      "little",
+      "more",
+      "."
+    ],
+    "choices": [
+      "will",
+      "more",
+      "a",
+      "He",
+      "about",
+      "had",
+      "little",
+      "!",
+      "think",
+      "I",
+      "it",
+      "were",
+      ".",
+      "do"
+    ],
+    "tts": "I will think about it a little more.",
+    "hint": [
+      "I",
+      "will",
+      "think",
+      "about",
+      "it",
+      "____",
+      "____",
+      "more",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 298,
+    "kor": "이거 세일 가격인가요?",
+    "correct": [
+      "Is",
+      "this",
+      "the",
+      "sale",
+      "price",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "the",
+      "Is",
+      "?",
+      "because",
+      "have",
+      "if",
+      "price",
+      "this",
+      "then",
+      "sale"
+    ],
+    "tts": "Is this the sale price?",
+    "hint": [
+      "____",
+      "this",
+      "the",
+      "____",
+      "price",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 299,
+    "kor": "가격 괜찮네요.",
+    "correct": [
+      "The",
+      "price",
+      "is",
+      "all",
+      "right",
+      "."
+    ],
+    "choices": [
+      "has",
+      "price",
+      "The",
+      "right",
+      "unless",
+      "were",
+      "she",
+      "do",
+      "is",
+      "all",
+      "."
+    ],
+    "tts": "The price is all right.",
+    "hint": [
+      "The",
+      "____",
+      "____",
+      "all",
+      "right",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 300,
+    "kor": "영수증 주시겠어요?",
+    "correct": [
+      "Can",
+      "I",
+      "get",
+      "a",
+      "receipt",
+      "?"
+    ],
+    "choices": [
+      "do",
+      "I",
+      "get",
+      "had",
+      "He",
+      "a",
+      "Can",
+      "was",
+      "receipt",
+      "unless",
+      "?",
+      "has"
+    ],
+    "tts": "Can I get a receipt?",
+    "hint": [
+      "____",
+      "I",
+      "get",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 301,
+    "kor": "거스름돈이 틀린 것 같아요.",
+    "correct": [
+      "I",
+      "don't'",
+      "think",
+      "I",
+      "got",
+      "the",
+      "right",
+      "change",
+      "."
+    ],
+    "choices": [
+      "had",
+      "the",
+      "change",
+      "does",
+      "do",
+      "I",
+      "right",
+      "has",
+      "have",
+      ".",
+      "don't'",
+      "think",
+      "got",
+      "He"
+    ],
+    "tts": "I don’t’ think I got the right change.",
+    "hint": [
+      "I",
+      "don't'",
+      "think",
+      "I",
+      "____",
+      "____",
+      "right",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 302,
+    "kor": "따로 포장해 주세요.",
+    "correct": [
+      "Please",
+      "wrap",
+      "these",
+      "separately",
+      "."
+    ],
+    "choices": [
+      "although",
+      "unless",
+      ".",
+      "do",
+      "Please",
+      "wrap",
+      "separately",
+      "these"
+    ],
+    "tts": "Please wrap these separately.",
+    "hint": [
+      "____",
+      "____",
+      "these",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 303,
+    "kor": "더 작은 사이즈로 바꾸고 싶어요.",
+    "correct": [
+      "I",
+      "want",
+      "to",
+      "exchange",
+      "it",
+      "for",
+      "a",
+      "smaller",
+      "size",
+      "."
+    ],
+    "choices": [
+      "He",
+      "she",
+      "!",
+      "for",
+      ".",
+      "smaller",
+      "I",
+      "size",
+      "to",
+      "are",
+      "want",
+      "a",
+      "do",
+      "it",
+      "exchange"
+    ],
+    "tts": "I want to exchange it for a smaller size.",
+    "hint": [
+      "I",
+      "____",
+      "to",
+      "____",
+      "____",
+      "for",
+      "a",
+      "smaller",
+      "size",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 304,
+    "kor": "환불 받을 수 있나요?",
+    "correct": [
+      "Can",
+      "I",
+      "get",
+      "a",
+      "refund",
+      "?"
+    ],
+    "choices": [
+      "a",
+      "do",
+      "Can",
+      "I",
+      "get",
+      "had",
+      "?",
+      "refund",
+      "does",
+      "He",
+      "were"
+    ],
+    "tts": "Can I get a refund?",
+    "hint": [
+      "Can",
+      "____",
+      "____",
+      "a",
+      "refund",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 305,
+    "kor": "배달 해 주시나요?",
+    "correct": [
+      "Do",
+      "you",
+      "offer",
+      "delivery",
+      "service",
+      "?"
+    ],
+    "choices": [
+      "?",
+      "became",
+      "delivery",
+      "Do",
+      "because",
+      ".",
+      "unless",
+      "you",
+      "offer",
+      "do",
+      "service"
+    ],
+    "tts": "Do you offer delivery service?",
+    "hint": [
+      "Do",
+      "____",
+      "____",
+      "____",
+      "service",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 306,
+    "kor": "전 책은 사지 않았어요.",
+    "correct": [
+      "I",
+      "didn't",
+      "buy",
+      "books",
+      "."
+    ],
+    "choices": [
+      "despite",
+      "He",
+      "books",
+      "didn't",
+      "have",
+      "I",
+      ".",
+      "then",
+      "buy",
+      "do"
+    ],
+    "tts": "I didn’t buy books.",
+    "hint": [
+      "I",
+      "____",
+      "____",
+      "books",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 307,
+    "kor": "연세 드신 분께 선물하려 해요.",
+    "correct": [
+      "It's",
+      "a",
+      "present",
+      "for",
+      "someone",
+      "elderly",
+      "."
+    ],
+    "choices": [
+      "for",
+      "she",
+      ".",
+      "present",
+      "meanwhile",
+      "I",
+      "do",
+      "someone",
+      "were",
+      "It's",
+      "elderly",
+      "a"
+    ],
+    "tts": "It’s a present for someone elderly.",
+    "hint": [
+      "____",
+      "a",
+      "____",
+      "____",
+      "someone",
+      "elderly",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 308,
+    "kor": "다음에 올게요.",
+    "correct": [
+      "I'll",
+      "come",
+      "back",
+      "another",
+      "time",
+      "."
+    ],
+    "choices": [
+      ".",
+      "back",
+      "time",
+      "isn’t",
+      "I'll",
+      "does",
+      "come",
+      "do",
+      "They’re",
+      "another"
+    ],
+    "tts": "I’ll come back another time.",
+    "hint": [
+      "I'll",
+      "____",
+      "____",
+      "another",
+      "time",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 309,
+    "kor": "입어봐도 되나요?",
+    "correct": [
+      "Can",
+      "I",
+      "try",
+      "this",
+      "on",
+      "?"
+    ],
+    "choices": [
+      "Can",
+      "He",
+      "try",
+      "I",
+      "do",
+      "being",
+      "?",
+      "this",
+      "isn’t",
+      "were",
+      "on"
+    ],
+    "tts": "Can I try this on?",
+    "hint": [
+      "Can",
+      "I",
+      "____",
+      "____",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 310,
+    "kor": "첨부되었던 그 정보를 찾아주세요.",
+    "correct": [
+      "Please",
+      "find",
+      "the",
+      "information",
+      "attached",
+      "."
+    ],
+    "choices": [
+      "find",
+      "unless",
+      "Please",
+      "They’re",
+      "has",
+      "the",
+      "information",
+      ".",
+      "do",
+      "attached",
+      "therefore"
+    ],
+    "tts": "Please find the information attached.",
+    "hint": [
+      "Please",
+      "____",
+      "the",
+      "information",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 311,
+    "kor": "죄송하지만 우리의 미팅을 미뤄야 하겠습니다.",
+    "correct": [
+      "I'm",
+      "afraid",
+      "we",
+      "need",
+      "to",
+      "delay",
+      "our",
+      "meeting",
+      "."
+    ],
+    "choices": [
+      "afraid",
+      "our",
+      "meeting",
+      "I'm",
+      "to",
+      "do",
+      "He’s",
+      "need",
+      "am",
+      "although",
+      "unless",
+      "delay",
+      "we",
+      "."
+    ],
+    "tts": "I’m afraid we need to delay our meeting.",
+    "hint": [
+      "I'm",
+      "____",
+      "we",
+      "need",
+      "to",
+      "____",
+      "____",
+      "meeting",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 312,
+    "kor": "그게 당신에게 괜찮은지 알려주세요.",
+    "correct": [
+      "Let",
+      "me",
+      "know",
+      "if",
+      "that",
+      "works",
+      "for",
+      "you",
+      "."
+    ],
+    "choices": [
+      "that",
+      "Let",
+      "although",
+      "they",
+      "me",
+      "you",
+      "works",
+      "know",
+      ".",
+      "for",
+      "if",
+      ",",
+      "do",
+      "became"
+    ],
+    "tts": "Let me know if that works for you.",
+    "hint": [
+      "____",
+      "me",
+      "know",
+      "____",
+      "____",
+      "works",
+      "for",
+      "you",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 313,
+    "kor": "막바지에 변경하게 되어서 정말 죄송합니다.",
+    "correct": [
+      "I",
+      "really",
+      "apologize",
+      "for",
+      "the",
+      "last",
+      "minute",
+      "change",
+      "."
+    ],
+    "choices": [
+      "really",
+      "change",
+      ".",
+      "They’re",
+      "for",
+      "minute",
+      "I",
+      "apologize",
+      "last",
+      "had",
+      "the",
+      "He",
+      "do",
+      "they"
+    ],
+    "tts": "I really apologize for the last minute change.",
+    "hint": [
+      "I",
+      "____",
+      "____",
+      "for",
+      "the",
+      "____",
+      "minute",
+      "change",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 314,
+    "kor": "괜찮습니다. 다시 스케쥴 잡죠.",
+    "correct": [
+      "That's",
+      "fine",
+      ".",
+      "Let's",
+      "reschedule",
+      "it",
+      "."
+    ],
+    "choices": [
+      ".",
+      "it",
+      "That's",
+      "therefore",
+      "reschedule",
+      "do",
+      "were",
+      "because",
+      "I",
+      "fine",
+      "Let's"
+    ],
+    "tts": "That’s fine. Let’s reschedule it.",
+    "hint": [
+      "____",
+      "____",
+      ".",
+      "____",
+      "reschedule",
+      "it",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 315,
+    "kor": "두 분이서 이야기 나누시도록 전 가보겠습니다.",
+    "correct": [
+      "I'll",
+      "leave",
+      "it",
+      "here",
+      "for",
+      "you",
+      "guys",
+      "to",
+      "connect",
+      "."
+    ],
+    "choices": [
+      "I'll",
+      "to",
+      "does",
+      "do",
+      "connect",
+      ".",
+      "guys",
+      "it",
+      "you",
+      "for",
+      "!",
+      "here",
+      "leave"
+    ],
+    "tts": "I’ll leave it here for you guys to connect.",
+    "hint": [
+      "I'll",
+      "leave",
+      "it",
+      "____",
+      "for",
+      "____",
+      "____",
+      "to",
+      "connect",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 316,
+    "kor": "당신과 연결되어서 정말 반갑습니다.",
+    "correct": [
+      "It's",
+      "a",
+      "great",
+      "pleasure",
+      "to",
+      "connect",
+      "with",
+      "you",
+      "."
+    ],
+    "choices": [
+      "?",
+      "a",
+      "great",
+      "does",
+      "connect",
+      "with",
+      ".",
+      "It's",
+      "pleasure",
+      "meanwhile",
+      "have",
+      "you",
+      "do",
+      "to"
+    ],
+    "tts": "It’s a great pleasure to connect with you.",
+    "hint": [
+      "____",
+      "a",
+      "____",
+      "pleasure",
+      "to",
+      "connect",
+      "with",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 317,
+    "kor": "당신과 일하는 것을 기대합니다.",
+    "correct": [
+      "Look",
+      "forward",
+      "to",
+      "working",
+      "with",
+      "you",
+      "."
+    ],
+    "choices": [
+      "with",
+      "Look",
+      "do",
+      "you",
+      "forward",
+      "He’s",
+      "working",
+      "being",
+      "are",
+      "I",
+      ".",
+      "to"
+    ],
+    "tts": "Look forward to working with you.",
+    "hint": [
+      "Look",
+      "forward",
+      "to",
+      "____",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 318,
+    "kor": "다음의 주요 포인트를 유의해 주세요.",
+    "correct": [
+      "Please",
+      "keep",
+      "in",
+      "mind",
+      "the",
+      "following",
+      "key",
+      "points",
+      "."
+    ],
+    "choices": [
+      "do",
+      "following",
+      "therefore",
+      "keep",
+      "the",
+      "being",
+      "in",
+      ".",
+      "did",
+      "points",
+      "key",
+      "Please",
+      "I",
+      "mind"
+    ],
+    "tts": "Please keep in mind the following key points.",
+    "hint": [
+      "Please",
+      "keep",
+      "in",
+      "mind",
+      "____",
+      "____",
+      "____",
+      "points",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 319,
+    "kor": "더 많은 정보를 위해 저희 웹사이트를 참고해 주세요.",
+    "correct": [
+      "Please",
+      "refer",
+      "to",
+      "our",
+      "website",
+      "more",
+      "information",
+      "."
+    ],
+    "choices": [
+      "information",
+      "therefore",
+      "more",
+      "students",
+      "they",
+      "refer",
+      "do",
+      "Please",
+      ".",
+      "website",
+      "am",
+      "to",
+      "our"
+    ],
+    "tts": "Please refer to our website more information.",
+    "hint": [
+      "____",
+      "____",
+      "to",
+      "our",
+      "website",
+      "more",
+      "information",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 320,
+    "kor": "우리는 당신의 협력과 지원에 매우 만족하고 있습니다.",
+    "correct": [
+      "We",
+      "are",
+      "very",
+      "satisfied",
+      "with",
+      "your",
+      "cooperation",
+      "and",
+      "your",
+      "support",
+      "."
+    ],
+    "choices": [
+      "satisfied",
+      "We",
+      "with",
+      "are",
+      "your",
+      "had",
+      "do",
+      "despite",
+      "support",
+      "and",
+      "!",
+      "very",
+      "cooperation",
+      "."
+    ],
+    "tts": "We are very satisfied with your cooperation and your support.",
+    "hint": [
+      "____",
+      "are",
+      "very",
+      "satisfied",
+      "with",
+      "your",
+      "____",
+      "and",
+      "____",
+      "support",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 321,
+    "kor": "결과를 알게 되면 바로 말씀드리겠습니다.",
+    "correct": [
+      "As",
+      "soon",
+      "as",
+      "I",
+      "know",
+      "the",
+      "result,",
+      "I",
+      "will",
+      "let",
+      "you",
+      "know",
+      "."
+    ],
+    "choices": [
+      "therefore",
+      "He’s",
+      "as",
+      "let",
+      "being",
+      "know",
+      "He",
+      "you",
+      "As",
+      "soon",
+      ".",
+      "will",
+      "I",
+      "do",
+      "the",
+      "result,",
+      "isn’t"
+    ],
+    "tts": "As soon as I know the result, I will let you know.",
+    "hint": [
+      "As",
+      "soon",
+      "____",
+      "I",
+      "know",
+      "the",
+      "result,",
+      "I",
+      "____",
+      "let",
+      "you",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 322,
+    "kor": "당신에게 도움이 되기를 바랍니다.",
+    "correct": [
+      "I",
+      "hope",
+      "you",
+      "find",
+      "this",
+      "helpful",
+      "."
+    ],
+    "choices": [
+      "find",
+      "hope",
+      "you",
+      "this",
+      "they",
+      ".",
+      "I",
+      "she",
+      "helpful",
+      "He",
+      "do",
+      "does"
+    ],
+    "tts": "I hope you find this helpful.",
+    "hint": [
+      "____",
+      "____",
+      "you",
+      "find",
+      "this",
+      "helpful",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 323,
+    "kor": "안타깝게도 제가 화요일은 안됩니다. 금요일은 어떠세요?",
+    "correct": [
+      "I'm",
+      "afraid",
+      "I",
+      "cannot",
+      "make",
+      "it",
+      "on",
+      "Tuesday",
+      ".",
+      "How",
+      "about",
+      "Friday",
+      "?"
+    ],
+    "choices": [
+      "cannot",
+      "I'm",
+      "therefore",
+      "unless",
+      "on",
+      "He",
+      "it",
+      "?",
+      "He’s",
+      "How",
+      "Friday",
+      "make",
+      ".",
+      "Tuesday",
+      "do",
+      "I",
+      "afraid",
+      "about",
+      "does"
+    ],
+    "tts": "I’m afraid I cannot make it on Tuesday. How about Friday?",
+    "hint": [
+      "I'm",
+      "afraid",
+      "I",
+      "cannot",
+      "____",
+      "it",
+      "on",
+      "Tuesday",
+      ".",
+      "____",
+      "about",
+      "____",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 324,
+    "kor": "빨간색 글씨가 제 피드백 입니다.",
+    "correct": [
+      "The",
+      "parts",
+      "in",
+      "red",
+      "are",
+      "my",
+      "feedback",
+      "."
+    ],
+    "choices": [
+      "do",
+      "therefore",
+      "feedback",
+      "if",
+      "The",
+      "are",
+      "has",
+      "in",
+      "He’s",
+      ".",
+      "red",
+      "parts",
+      "my"
+    ],
+    "tts": "The parts in red are my feedback.",
+    "hint": [
+      "The",
+      "____",
+      "____",
+      "____",
+      "are",
+      "my",
+      "feedback",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 325,
+    "kor": "좋은 연휴를 보내셨기를 바랍니다.",
+    "correct": [
+      "I",
+      "hope",
+      "you",
+      "had",
+      "a",
+      "good",
+      "holiday",
+      "."
+    ],
+    "choices": [
+      ".",
+      "hope",
+      "were",
+      "I",
+      "had",
+      "you",
+      "do",
+      "good",
+      "holiday",
+      "He",
+      "she",
+      "a"
+    ],
+    "tts": "I hope you had a good holiday.",
+    "hint": [
+      "I",
+      "hope",
+      "____",
+      "had",
+      "a",
+      "____",
+      "____",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 326,
+    "kor": "우리의 신제품에 대해 피드백 주셔서 감사해요.",
+    "correct": [
+      "Thank",
+      "you",
+      "for",
+      "giving",
+      "us",
+      "feedback",
+      "on",
+      "our",
+      "new",
+      "product",
+      "."
+    ],
+    "choices": [
+      ".",
+      "for",
+      "new",
+      "our",
+      "feedback",
+      "despite",
+      "became",
+      "giving",
+      "on",
+      "she",
+      "us",
+      "had",
+      "Thank",
+      "do",
+      "product",
+      "you"
+    ],
+    "tts": "Thank you for giving us feedback on our new product.",
+    "hint": [
+      "Thank",
+      "____",
+      "for",
+      "giving",
+      "us",
+      "feedback",
+      "on",
+      "____",
+      "new",
+      "product",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 327,
+    "kor": "좀 더 크게 말해 주시겠어요?",
+    "correct": [
+      "Could",
+      "you",
+      "speak",
+      "louder",
+      "?"
+    ],
+    "choices": [
+      "were",
+      "they",
+      "speak",
+      "am",
+      "?",
+      "you",
+      "louder",
+      ",",
+      "do",
+      "Could"
+    ],
+    "tts": "Could you speak louder?",
+    "hint": [
+      "____",
+      "you",
+      "____",
+      "louder",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 328,
+    "kor": "질문 있어요.",
+    "correct": [
+      "I",
+      "have",
+      "a",
+      "question",
+      "."
+    ],
+    "choices": [
+      "have",
+      "I",
+      ".",
+      "meanwhile",
+      "He",
+      "a",
+      "do",
+      "question",
+      "are",
+      "therefore",
+      "they"
+    ],
+    "tts": "I have a question.",
+    "hint": [
+      "I",
+      "have",
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 329,
+    "kor": "그게 무슨 뜻인가요?",
+    "correct": [
+      "What",
+      "do",
+      "you",
+      "mean",
+      "by",
+      "that",
+      "?"
+    ],
+    "choices": [
+      "did",
+      "if",
+      "that",
+      "then",
+      "mean",
+      "you",
+      "?",
+      "What",
+      "by",
+      "am",
+      "do"
+    ],
+    "tts": "What do you mean by that?",
+    "hint": [
+      "What",
+      "do",
+      "____",
+      "mean",
+      "by",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 330,
+    "kor": "선생님 목소리가 들리지 않아요.",
+    "correct": [
+      "I",
+      "cannot",
+      "hear",
+      "you,",
+      "teacher",
+      "."
+    ],
+    "choices": [
+      "hear",
+      "He",
+      "you,",
+      "!",
+      "isn’t",
+      "do",
+      ".",
+      "was",
+      "then",
+      "cannot",
+      "teacher",
+      "I"
+    ],
+    "tts": "I cannot hear you, teacher.",
+    "hint": [
+      "I",
+      "____",
+      "hear",
+      "you,",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 331,
+    "kor": "제가 보이나요?",
+    "correct": [
+      "Can",
+      "you",
+      "see",
+      "me",
+      "?"
+    ],
+    "choices": [
+      "see",
+      "does",
+      "Can",
+      "you",
+      "despite",
+      "do",
+      "am",
+      "?",
+      "They’re",
+      "me"
+    ],
+    "tts": "Can you see me?",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "me",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 332,
+    "kor": "수업 준비 되었나요?",
+    "correct": [
+      "Are",
+      "you",
+      "ready",
+      "for",
+      "our",
+      "lesson",
+      "?"
+    ],
+    "choices": [
+      "our",
+      "were",
+      "you",
+      "students",
+      "am",
+      "lesson",
+      "?",
+      "Are",
+      "ready",
+      "do",
+      "was",
+      "for"
+    ],
+    "tts": "Are you ready for our lesson?",
+    "hint": [
+      "Are",
+      "____",
+      "____",
+      "____",
+      "our",
+      "lesson",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 333,
+    "kor": "학교 끝나고 뭐했어?",
+    "correct": [
+      "What",
+      "did",
+      "you",
+      "do",
+      "after",
+      "school",
+      "?"
+    ],
+    "choices": [
+      "despite",
+      "What",
+      "you",
+      "school",
+      "after",
+      "?",
+      "did",
+      "do",
+      "were"
+    ],
+    "tts": "What did you do after school?",
+    "hint": [
+      "What",
+      "____",
+      "____",
+      "do",
+      "____",
+      "school",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 334,
+    "kor": "책 가지고 있나요?",
+    "correct": [
+      "Do",
+      "you",
+      "have",
+      "the",
+      "book",
+      "?"
+    ],
+    "choices": [
+      "she",
+      "have",
+      "He’s",
+      "do",
+      "am",
+      "Do",
+      "book",
+      ".",
+      "you",
+      "the",
+      "?"
+    ],
+    "tts": "Do you have the book?",
+    "hint": [
+      "Do",
+      "you",
+      "____",
+      "the",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 335,
+    "kor": "답변해 볼까요?",
+    "correct": [
+      "Can",
+      "you",
+      "tell",
+      "me",
+      "the",
+      "answer",
+      "?"
+    ],
+    "choices": [
+      "although",
+      "you",
+      ",",
+      "Can",
+      "do",
+      "answer",
+      "tell",
+      "became",
+      "unless",
+      "me",
+      "the",
+      "?"
+    ],
+    "tts": "Can you tell me the answer?",
+    "hint": [
+      "Can",
+      "you",
+      "____",
+      "____",
+      "____",
+      "answer",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 336,
+    "kor": "잘 들어보세요.",
+    "correct": [
+      "Listen",
+      "carefully",
+      "."
+    ],
+    "choices": [
+      "therefore",
+      ".",
+      "do",
+      "Listen",
+      "then",
+      "were",
+      "carefully",
+      "I"
+    ],
+    "tts": "Listen carefully.",
+    "hint": [
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 337,
+    "kor": "잘 듣고 따라해 보세요.",
+    "correct": [
+      "Listen",
+      "and",
+      "repeat",
+      "."
+    ],
+    "choices": [
+      "Listen",
+      "repeat",
+      "then",
+      "and",
+      "although",
+      ".",
+      "do",
+      "despite"
+    ],
+    "tts": "Listen and repeat.",
+    "hint": [
+      "____",
+      "____",
+      "repeat",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 338,
+    "kor": "다음 수업을 위해 열심히 공부하세요.",
+    "correct": [
+      "Please",
+      "study",
+      "hard",
+      "for",
+      "the",
+      "next",
+      "lesson",
+      "."
+    ],
+    "choices": [
+      "Please",
+      "do",
+      "hard",
+      "study",
+      "isn’t",
+      "did",
+      "next",
+      ".",
+      "the",
+      "for",
+      "then",
+      "lesson"
+    ],
+    "tts": "Please study hard for the next lesson.",
+    "hint": [
+      "____",
+      "study",
+      "____",
+      "____",
+      "the",
+      "next",
+      "lesson",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 339,
+    "kor": "다음 페이지를 읽어보세요.",
+    "correct": [
+      "Please",
+      "read",
+      "the",
+      "next",
+      "page",
+      "."
+    ],
+    "choices": [
+      "Please",
+      "do",
+      "page",
+      "the",
+      ".",
+      "are",
+      "!",
+      "next",
+      "read",
+      "were",
+      ","
+    ],
+    "tts": "Please read the next page.",
+    "hint": [
+      "Please",
+      "read",
+      "____",
+      "____",
+      "page",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 340,
+    "kor": "잘했어요.",
+    "correct": [
+      "Good",
+      "job",
+      "."
+    ],
+    "choices": [
+      "they",
+      "job",
+      "do",
+      "because",
+      "am",
+      "Good",
+      ".",
+      "if"
+    ],
+    "tts": "Good job.",
+    "hint": [
+      "____",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 341,
+    "kor": "누가 칠판에 써 볼 사람?",
+    "correct": [
+      "Who",
+      "can",
+      "write",
+      "it",
+      "on",
+      "the",
+      "board",
+      "?"
+    ],
+    "choices": [
+      "it",
+      "can",
+      "board",
+      "has",
+      "therefore",
+      "They’re",
+      "on",
+      "the",
+      "isn’t",
+      "?",
+      "do",
+      "write",
+      "Who"
+    ],
+    "tts": "Who can write it on the board?",
+    "hint": [
+      "Who",
+      "can",
+      "write",
+      "it",
+      "____",
+      "the",
+      "____",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 342,
+    "kor": "알아들었나요?",
+    "correct": [
+      "Did",
+      "you",
+      "get",
+      "it",
+      "?"
+    ],
+    "choices": [
+      ".",
+      "does",
+      "you",
+      "do",
+      "get",
+      "Did",
+      "they",
+      "?",
+      "it",
+      "unless"
+    ],
+    "tts": "Did you get it?",
+    "hint": [
+      "____",
+      "____",
+      "____",
+      "it",
+      "?"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 343,
+    "kor": "힌트를 줄게요.",
+    "correct": [
+      "I'll",
+      "give",
+      "you",
+      "a",
+      "clue",
+      "."
+    ],
+    "choices": [
+      "I'll",
+      "became",
+      "a",
+      "do",
+      "are",
+      "you",
+      "am",
+      "give",
+      "?",
+      "clue",
+      "."
+    ],
+    "tts": "I’ll give you a clue.",
+    "hint": [
+      "____",
+      "____",
+      "you",
+      "____",
+      "clue",
+      "."
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 344,
+    "kor": "이것이 영어로 뭔지 아는 사람?",
+    "correct": [
+      "Does",
+      "anyone",
+      "know",
+      "what",
+      "this",
+      "is",
+      "in",
+      "English",
+      "?"
+    ],
+    "choices": [
+      "Does",
+      "what",
+      "this",
+      "I",
+      "?",
+      "does",
+      "know",
+      "had",
+      "is",
+      "English",
+      "anyone",
+      "do",
+      "He’s",
+      "in"
+    ],
+    "tts": "Does anyone know what this is in English?",
+    "hint": [
+      "Does",
+      "anyone",
+      "know",
+      "____",
+      "this",
+      "is",
+      "____",
+      "English",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 345,
+    "kor": "말할 수 있겠어요?",
+    "correct": [
+      "Can",
+      "you",
+      "say",
+      "it",
+      "?"
+    ],
+    "choices": [
+      "although",
+      "do",
+      "despite",
+      "you",
+      "Can",
+      "it",
+      "say",
+      "?",
+      "had",
+      "then"
+    ],
+    "tts": "Can you say it?",
+    "hint": [
+      "____",
+      "you",
+      "____",
+      "it",
+      "____"
+    ],
+    "level": "Level 3"
+  },
+  {
+    "id": 346,
+    "kor": "예를 들어 드릴게요.",
+    "correct": [
+      "I'll",
+      "give",
+      "you",
+      "an",
+      "example",
+      "."
+    ],
+    "choices": [
+      "has",
+      "therefore",
+      "give",
+      "you",
+      "I'll",
+      "They’re",
+      "do",
+      "am",
+      "example",
+      "an",
+      "."
+    ],
+    "tts": "I’ll give you an example.",
+    "hint": [
+      "____",
+      "give",
+      "____",
+      "an",
+      "example",
+      "____"
+    ],
+    "level": "Level 3"
+  }
+]
