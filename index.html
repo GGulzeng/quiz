@@ -31,7 +31,7 @@
      border-radius: 4px; cursor: pointer; }
     .assembled { min-height: 80px; font-size: 3rem; margin-bottom: 1rem; border: 1px dashed #aaa; padding: 0.5rem; border-radius: 4px; background: #fff; }
     .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); justify-content: center; align-items: center; z-index: 10; }
-    .modal-content { background: white; padding: 2rem; border-radius: 8px; text-align: center; min-width: 300px; }
+    .modal-content { background: white; padding: 4rem; border-radius: 12px; text-align: center; min-width: 600px; font-size: 3.4rem; }
     #countdown { font-size: 1.2rem; margin-top: 1rem; color: #d00; }
   
 .choice:hover {
@@ -123,7 +123,11 @@
 
     function checkAnswer() {
       const q = levelQuizzes[current];
-      const isCorrect = assembledWords.join(" ").trim() === q.correct.join(" ").trim();
+      
+      const userAnswer = assembledWords.join(" ").trim().replace(/[.!?]$/, "");
+      const correctAnswer = q.correct.join(" ").trim().replace(/[.!?]$/, "");
+      const isCorrect = userAnswer === correctAnswer;
+    
       if (isCorrect) {
         showAnswer();
       } else {
