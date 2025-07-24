@@ -155,6 +155,7 @@
       } else {
         document.getElementById('hint-text').innerText = q.hint.join(" ");
         document.getElementById('modal-wrong').style.display = 'flex';
+      document.getElementById('wrongSound').play();
       }
     }
 
@@ -203,5 +204,6 @@
       }, 1000);
     }
   </script>
+<audio id="wrongSound" src="오답.mp3" preload="auto"></audio>
 </body>
 </html>
