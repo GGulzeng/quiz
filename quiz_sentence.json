@@ -4435,7 +4435,8 @@
       "I",
       "get",
       "home",
-      "at",
+      "at",,
+      "4"
       "."
     ],
     "choices": [
@@ -4448,6 +4449,7 @@
       "unless",
       "He",
       "home",
+      "4",
       "has",
       "meanwhile"
     ],
@@ -4474,7 +4476,7 @@
       "my",
       "house",
       "at",
-      ":30",
+      "4:30",
       "."
     ],
     "choices": [
@@ -4490,7 +4492,7 @@
       "my",
       "are",
       "I",
-      ":30",
+      "4:30",
       "at"
     ],
     "tts": "You can come to my house at 4:30.",
@@ -4646,14 +4648,14 @@
       "dance",
       "class",
       "at",
-      ":30",
+      "7:30",
       "."
     ],
     "choices": [
       "He",
       "isn’t",
       "They’re",
-      ":30",
+      "7:30",
       "have",
       "do",
       "does",
@@ -4687,6 +4689,7 @@
       "and",
       "shoes",
       "at",
+      "4",
       "."
     ],
     "choices": [
@@ -4699,11 +4702,13 @@
       "shoes",
       "?",
       ".",
+      "4",
       "I",
       "He",
       "T-shirt",
       "and",
       "at"
+      
     ],
     "tts": "I wash my T-shirt and shoes at 4.",
     "hint": [
@@ -4986,6 +4991,7 @@
       "come",
       "here",
       "at",
+      "8",
       "and",
       "check",
       "on",
@@ -5005,6 +5011,7 @@
       "does",
       "do",
       "and",
+      "8",
       "check",
       "fish",
       "He",
@@ -5120,6 +5127,7 @@
       "dive",
       "show",
       "at",
+      "2",
       "."
     ],
     "choices": [
@@ -5133,6 +5141,7 @@
       "at",
       "became",
       "I",
+      "2",
       "They’re",
       "He"
     ],
