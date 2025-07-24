@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>영어 문장 퀴즈</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #f4f4f4; }
+    h1 { color: #333; }
+    .level-buttons { margin-bottom: 1.5rem; }
+    .level-buttons button,
+    button {
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      border-radius: 8px;
+      border: none;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      margin-right: 1rem;
+    }
+    .quiz-box { background: white; padding: 1rem; margin-bottom: 2rem; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    .kor-question { font-size: 1.2rem; margin-bottom: 1rem; }
+    .choices { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem; }
+    .choice { background: #e0e0e0; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; }
+    .assembled { min-height: 40px; margin-bottom: 1rem; border: 1px dashed #aaa; padding: 0.5rem; border-radius: 4px; background: #fff; }
+    .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); justify-content: center; align-items: center; z-index: 10; }
+    .modal-content { background: white; padding: 2rem; border-radius: 8px; text-align: center; min-width: 300px; }
+    #countdown { font-size: 1.2rem; margin-top: 1rem; color: #d00; }
+  </style>
+</head>
+<body>
+  <h1>영어 문장 퀴즈</h1>
+  <div class="level-buttons">
+    <button onclick="startQuiz('Level 1')">Level 1</button>
+    <button onclick="startQuiz('Level 2')">Level 2</button>
+    <button onclick="startQuiz('Level 3')">Level 3</button>
+  </div>
+
+  <div id="quiz-container" class="quiz-box"></div>
+
+  <div class="modal" id="modal-correct">
+    <div class="modal-content">
+      <h2 id="result-text"></h2>
+      <p id="result-kor"></p>
+      <button onclick="playTTS()">🔊 다시 듣기</button>
+      <button onclick="nextQuestion()">다음 문제</button>
+      <div id="countdown">15</div>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-wrong">
+    <div class="modal-content">
+      <h2>❌ 틀렸습니다.</h2>
+      <p><b>힌트:</b> <span id="hint-text"></span></p>
+      <button onclick="closeWrongModal()">다시 풀기</button>
+    </div>
+  </div>
+
+  <audio id="ttsPlayer" src="" preload="auto"></audio>
+
+  <script>
+    let quizzes = [];
+    let levelQuizzes = [];
+    let current = 0;
+    let assembledWords = [];
+    let countdownInterval;
+
+    fetch("quiz_sentence.json")
+      .then(res => res.json())
+      .then(data => {
+        quizzes = data;
+        console.log("퀴즈 로딩 완료:", quizzes.length);
+      });
+
+    function startQuiz(level) {
+      if (!quizzes.length) {
+        alert("퀴즈 데이터가 아직 로드되지 않았습니다."); return;
+      }
+      console.log("선택된 레벨:", level);
+      levelQuizzes = quizzes.filter(q => q.level === level).sort(() => Math.random() - 0.5);
+      current = 0;
+      renderQuiz();
+    }
+
+    function renderQuiz() {
+      const q = levelQuizzes[current];
+      const container = document.getElementById('quiz-container');
+      container.innerHTML = `
+        <div class="kor-question"><b>Q${q.id}. ${q.kor}</b></div>
+        <div class="assembled" id="assembled"></div>
+        <div class="choices">
+          ${q.choices.map(word => `<div class="choice" onclick="addWord(this)">${word}</div>`).join('')}
+        </div>
+        <button onclick="checkAnswer()">제출</button>
+        <button onclick="resetAssembled()">초기화</button>
+        <button onclick="showAnswer()">정답보기</button>
+      `;
+      assembledWords = [];
+    }
+
+    function addWord(el) {
+      assembledWords.push(el.innerText);
+      document.getElementById('assembled').innerText = assembledWords.join(" ");
+    }
+
+    function resetAssembled() {
+      assembledWords = [];
+      document.getElementById('assembled').innerText = "";
+    }
+
+    function checkAnswer() {
+      const q = levelQuizzes[current];
+      const isCorrect = assembledWords.join(" ").trim() === q.correct.join(" ").trim();
+      if (isCorrect) {
+        showAnswer();
+      } else {
+        document.getElementById('hint-text').innerText = q.hint.join(" ");
+        document.getElementById('modal-wrong').style.display = 'flex';
+      }
+    }
+
+    function showAnswer() {
+      const q = levelQuizzes[current];
+      document.getElementById('result-text').innerText = q.correct.join(" ");
+      document.getElementById('result-kor').innerText = q.kor;
+      document.getElementById('modal-correct').style.display = 'flex';
+      playTTS();
+      startCountdown();
+    }
+
+    function playTTS() {
+      const q = levelQuizzes[current];
+      const audio = document.getElementById("ttsPlayer");
+      audio.src = "tts_mp3/sentence_" + q.id + ".mp3";
+      audio.play();
+    }
+
+    function nextQuestion() {
+      clearInterval(countdownInterval);
+      document.getElementById('modal-correct').style.display = 'none';
+      document.getElementById('modal-wrong').style.display = 'none';
+      current++;
+      if (current < levelQuizzes.length) {
+        renderQuiz();
+      } else {
+        alert("퀴즈가 끝났어요!");
+      }
+    }
+
+    function closeWrongModal() {
+      document.getElementById('modal-wrong').style.display = 'none';
+    }
+
+    function startCountdown() {
+      let timeLeft = 15;
+      document.getElementById('countdown').innerText = timeLeft;
+      countdownInterval = setInterval(() => {
+        timeLeft--;
+        document.getElementById('countdown').innerText = timeLeft;
+        if (timeLeft <= 0) {
+          clearInterval(countdownInterval);
+          nextQuestion();
+        }
+      }, 1000);
+    }
+  </script>
+</body>
+</html>
