@@ -20,8 +20,8 @@
     ],
     "tts": "How are you?",
     "hint": [
-      "How",
       "____",
+      "are",
       "you",
       "?"
     ],
@@ -49,7 +49,7 @@
     "hint": [
       "I'm",
       "great",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 2
@@ -74,7 +74,7 @@
     "hint": [
       "Not",
       "bad",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 3
@@ -100,8 +100,8 @@
     ],
     "tts": "Not so good.",
     "hint": [
-      "Not",
       "____",
+      "so",
       "good",
       "."
     ],
@@ -128,7 +128,7 @@
     "tts": "Good evening.",
     "hint": [
       "Good",
-      "evening",
+      "____",
       "."
     ],
     "level": "Level 1",
@@ -154,8 +154,8 @@
     ],
     "tts": "Coco is sick.",
     "hint": [
-      "Coco",
       "____",
+      "is",
       "sick",
       "."
     ],
@@ -181,7 +181,7 @@
     ],
     "tts": "Me, too.",
     "hint": [
-      "Me,",
+      "____",
       "too",
       "."
     ],
@@ -213,11 +213,11 @@
     "tts": "We have a new friend.",
     "hint": [
       "We",
+      "have",
+      "a",
+      "new",
       "____",
-      "____",
-      "____",
-      "friend",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 8
@@ -245,8 +245,8 @@
     ],
     "tts": "I'm your English teacher.",
     "hint": [
-      "I'm",
       "____",
+      "your",
       "____",
       "teacher",
       "."
@@ -278,10 +278,10 @@
     ],
     "tts": "This is my friend, Jina.",
     "hint": [
-      "This",
       "____",
+      "is",
       "____",
-      "____",
+      "friend,",
       "Jina",
       "."
     ],
@@ -339,10 +339,10 @@
     ],
     "tts": "This is my grandmother.",
     "hint": [
-      "This",
       "____",
+      "is",
+      "my",
       "____",
-      "grandmother",
       "."
     ],
     "level": "Level 1",
@@ -369,8 +369,8 @@
     ],
     "tts": "What's your name?",
     "hint": [
-      "What's",
       "____",
+      "your",
       "name",
       "?"
     ],
@@ -402,8 +402,8 @@
     "hint": [
       "My",
       "____",
+      "is",
       "____",
-      "Lisa",
       "."
     ],
     "level": "Level 1",
@@ -428,7 +428,7 @@
     ],
     "tts": "I'm doctor.",
     "hint": [
-      "I'm",
+      "____",
       "doctor",
       "."
     ],
@@ -454,7 +454,7 @@
     ],
     "tts": "You're Billy.",
     "hint": [
-      "You're",
+      "____",
       "Billy",
       "."
     ],
@@ -486,9 +486,9 @@
     "hint": [
       "I",
       "____",
-      "____",
+      "your",
       "name",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 17
@@ -516,11 +516,11 @@
     ],
     "tts": "Let's meet at twelve.",
     "hint": [
-      "Let's",
       "____",
-      "____",
+      "meet",
+      "at",
       "twelve",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 18
@@ -547,8 +547,8 @@
     "tts": "See you later.",
     "hint": [
       "See",
+      "you",
       "____",
-      "later",
       "."
     ],
     "level": "Level 1",
@@ -575,9 +575,9 @@
     "tts": "You are smart.",
     "hint": [
       "You",
-      "____",
+      "are",
       "smart",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 20
@@ -602,7 +602,7 @@
     "tts": "Good night.",
     "hint": [
       "Good",
-      "night",
+      "____",
       "."
     ],
     "level": "Level 1",
@@ -658,9 +658,9 @@
     "tts": "Are you angry?",
     "hint": [
       "Are",
-      "____",
+      "you",
       "angry",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 23
@@ -685,8 +685,8 @@
     ],
     "tts": "Are you hungry?",
     "hint": [
-      "Are",
       "____",
+      "you",
       "hungry",
       "?"
     ],
@@ -714,7 +714,7 @@
     "hint": [
       "I'm",
       "hungry",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 25
@@ -743,9 +743,9 @@
     "tts": "Let's have some snacks.",
     "hint": [
       "Let's",
+      "have",
       "____",
       "____",
-      "snacks",
       "."
     ],
     "level": "Level 1",
@@ -772,7 +772,7 @@
     "hint": [
       "It's",
       "delicious",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 27
@@ -799,9 +799,9 @@
     "tts": "Are you thirsty?",
     "hint": [
       "Are",
-      "____",
+      "you",
       "thirsty",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 28
@@ -828,8 +828,8 @@
     "tts": "Some water, please.",
     "hint": [
       "Some",
+      "water,",
       "____",
-      "please",
       "."
     ],
     "level": "Level 1",
@@ -864,11 +864,11 @@
     "hint": [
       "Do",
       "____",
+      "want",
+      "some",
+      "fruit",
       "____",
-      "____",
-      "____",
-      "salad",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 30
@@ -893,7 +893,7 @@
     "tts": "Yes, please.",
     "hint": [
       "Yes,",
-      "please",
+      "____",
       "."
     ],
     "level": "Level 1",
@@ -923,10 +923,10 @@
     ],
     "tts": "No, thanks. I'm full.",
     "hint": [
-      "No,",
       "____",
       "____",
-      "____",
+      ".",
+      "I'm",
       "full",
       "."
     ],
@@ -953,7 +953,7 @@
     "hint": [
       "Help",
       "yourself",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 33
@@ -982,9 +982,9 @@
     "tts": "I see many stars.",
     "hint": [
       "I",
+      "see",
       "____",
       "____",
-      "stars",
       "."
     ],
     "level": "Level 1",
@@ -1015,9 +1015,9 @@
     "hint": [
       "It's",
       "____",
-      "____",
+      "smart",
       "mirror",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 35
@@ -1043,8 +1043,8 @@
     ],
     "tts": "Who is he?",
     "hint": [
-      "Who",
       "____",
+      "is",
       "he",
       "?"
     ],
@@ -1075,9 +1075,9 @@
     "tts": "He is my uncle.",
     "hint": [
       "He",
+      "is",
       "____",
       "____",
-      "uncle",
       "."
     ],
     "level": "Level 1",
@@ -1106,9 +1106,9 @@
     "tts": "He is a firefighter.",
     "hint": [
       "He",
+      "is",
       "____",
       "____",
-      "firefighter",
       "."
     ],
     "level": "Level 1",
@@ -1136,8 +1136,8 @@
     "tts": "Who is she?",
     "hint": [
       "Who",
+      "is",
       "____",
-      "she",
       "?"
     ],
     "level": "Level 1",
@@ -1167,10 +1167,10 @@
     "tts": "She is my sister.",
     "hint": [
       "She",
-      "____",
+      "is",
       "____",
       "sister",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 40
@@ -1196,8 +1196,8 @@
     ],
     "tts": "She is dancer.",
     "hint": [
-      "She",
       "____",
+      "is",
       "dancer",
       "."
     ],
@@ -1226,11 +1226,11 @@
     ],
     "tts": "What day is it?",
     "hint": [
-      "What",
       "____",
-      "____",
+      "day",
+      "is",
       "it",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 42
@@ -1255,7 +1255,7 @@
     "tts": "It's Tuesday.",
     "hint": [
       "It's",
-      "Tuesday",
+      "____",
       "."
     ],
     "level": "Level 1",
@@ -1284,10 +1284,10 @@
     ],
     "tts": "Today is Mom's birthday.",
     "hint": [
-      "Today",
       "____",
+      "is",
+      "Mom's",
       "____",
-      "birthday",
       "."
     ],
     "level": "Level 1",
@@ -1315,9 +1315,9 @@
     "tts": "Today is Wednesday.",
     "hint": [
       "Today",
-      "____",
+      "is",
       "Wednesday",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 45
@@ -1347,10 +1347,10 @@
     ],
     "tts": "What time is it now?",
     "hint": [
-      "What",
       "____",
+      "time",
       "____",
-      "____",
+      "it",
       "now",
       "?"
     ],
@@ -1379,9 +1379,9 @@
     "tts": "It’s three o’clock.",
     "hint": [
       "It's",
-      "____",
+      "three",
       "o'clock",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 47
@@ -1407,8 +1407,8 @@
     ],
     "tts": "It’s ten thirty.",
     "hint": [
-      "It's",
       "____",
+      "ten",
       "thirty",
       "."
     ],
@@ -1433,7 +1433,7 @@
     "tts": "we’re late!",
     "hint": [
       "we're",
-      "late!"
+      "____"
     ],
     "level": "Level 1",
     "id": 49
@@ -1493,11 +1493,11 @@
     ],
     "tts": "It's time for homework.",
     "hint": [
-      "It's",
       "____",
-      "____",
+      "time",
+      "for",
       "homework",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 51
@@ -1526,10 +1526,10 @@
     "tts": "It's time for lunch.",
     "hint": [
       "It's",
+      "time",
+      "for",
       "____",
-      "____",
-      "lunch",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 52
@@ -1557,11 +1557,11 @@
     ],
     "tts": "It’s time for the play!",
     "hint": [
-      "It's",
       "____",
-      "____",
+      "time",
+      "for",
       "the",
-      "play!"
+      "____"
     ],
     "level": "Level 1",
     "id": 53
@@ -1590,10 +1590,10 @@
     "tts": "It's time for bed.",
     "hint": [
       "It's",
+      "time",
+      "for",
       "____",
-      "____",
-      "bed",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 54
@@ -1623,9 +1623,9 @@
     "hint": [
       "We",
       "____",
-      "____",
+      "cooking",
       "class",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 55
@@ -1656,11 +1656,11 @@
     "tts": "We can make rice cake.",
     "hint": [
       "We",
+      "can",
       "____",
-      "____",
-      "____",
+      "rice",
       "cake",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 56
@@ -1688,11 +1688,11 @@
     ],
     "tts": "Where is my shoe?",
     "hint": [
-      "Where",
       "____",
-      "____",
+      "is",
+      "my",
       "shoe",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 57
@@ -1720,9 +1720,9 @@
     ],
     "tts": "It's on the desk.",
     "hint": [
-      "It's",
       "____",
       "____",
+      "the",
       "desk",
       "."
     ],
@@ -1750,8 +1750,8 @@
     ],
     "tts": "It's not here.",
     "hint": [
-      "It's",
       "____",
+      "not",
       "here",
       "."
     ],
@@ -1782,10 +1782,10 @@
     "tts": "It's in the box.",
     "hint": [
       "It's",
-      "____",
+      "in",
       "____",
       "box",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 60
@@ -1813,9 +1813,9 @@
     "tts": "I don't know.",
     "hint": [
       "I",
-      "____",
+      "don't",
       "know",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 61
@@ -1872,10 +1872,10 @@
     "tts": "Is this your cap?",
     "hint": [
       "Is",
-      "____",
+      "this",
       "____",
       "cap",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 63
@@ -1899,7 +1899,7 @@
     ],
     "tts": "It's my sweater!",
     "hint": [
-      "It's",
+      "____",
       "my",
       "sweater!"
     ],
@@ -1929,11 +1929,11 @@
     ],
     "tts": "It's under the chair.",
     "hint": [
-      "It's",
       "____",
-      "____",
+      "under",
+      "the",
       "chair",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 65
@@ -1964,9 +1964,9 @@
     ],
     "tts": "I can’t find my glue.",
     "hint": [
-      "I",
       "____",
-      "____",
+      "can't",
+      "find",
       "____",
       "glue",
       "."
@@ -2023,7 +2023,7 @@
     "tts": "Let's go inside!",
     "hint": [
       "Let's",
-      "go",
+      "____",
       "inside!"
     ],
     "level": "Level 1",
@@ -2049,7 +2049,7 @@
     "tts": "It's fun.",
     "hint": [
       "It's",
-      "fun",
+      "____",
       "."
     ],
     "level": "Level 1",
@@ -2079,8 +2079,8 @@
     ],
     "tts": "Can I try it?",
     "hint": [
-      "Can",
       "____",
+      "I",
       "____",
       "it",
       "?"
@@ -2141,7 +2141,7 @@
     "hint": [
       "Go",
       "ahead",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 72
@@ -2171,8 +2171,8 @@
     "hint": [
       "Can",
       "____",
+      "help",
       "____",
-      "me",
       "?"
     ],
     "level": "Level 1",
@@ -2198,7 +2198,7 @@
     "tts": "I'm busy.",
     "hint": [
       "I'm",
-      "busy",
+      "____",
       "."
     ],
     "level": "Level 1",
@@ -2225,7 +2225,7 @@
     "hint": [
       "Don't",
       "worry",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 75
@@ -2248,7 +2248,7 @@
     "tts": "Sounds great!",
     "hint": [
       "Sounds",
-      "great!"
+      "____"
     ],
     "level": "Level 1",
     "id": 76
@@ -2277,9 +2277,9 @@
     "hint": [
       "Can",
       "____",
-      "____",
+      "play",
       "badminton",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 77
@@ -2341,8 +2341,8 @@
     ],
     "tts": "Can I come in?",
     "hint": [
-      "Can",
       "____",
+      "I",
       "____",
       "in",
       "?"
@@ -2369,7 +2369,7 @@
     ],
     "tts": "Come in.",
     "hint": [
-      "Come",
+      "____",
       "in",
       "."
     ],
@@ -2403,9 +2403,9 @@
     "hint": [
       "Take",
       "____",
+      "your",
+      "socks,",
       "____",
-      "____",
-      "please",
       "."
     ],
     "level": "Level 1",
@@ -2435,11 +2435,11 @@
     ],
     "tts": "Put on your gown, please.",
     "hint": [
-      "Put",
       "____",
+      "on",
+      "your",
+      "gown,",
       "____",
-      "____",
-      "please",
       "."
     ],
     "level": "Level 1",
@@ -2468,11 +2468,11 @@
     ],
     "tts": "Put on the scarf.",
     "hint": [
-      "Put",
       "____",
-      "____",
+      "on",
+      "the",
       "scarf",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 83
@@ -2500,10 +2500,10 @@
     ],
     "tts": "Bring a basket, please.",
     "hint": [
-      "Bring",
       "____",
+      "a",
+      "basket,",
       "____",
-      "please",
       "."
     ],
     "level": "Level 1",
@@ -2531,8 +2531,8 @@
     "tts": "Line up, please.",
     "hint": [
       "Line",
+      "up,",
       "____",
-      "please",
       "."
     ],
     "level": "Level 1",
@@ -2559,8 +2559,8 @@
     "tts": "Be quiet, please.",
     "hint": [
       "Be",
+      "quiet,",
       "____",
-      "please",
       "."
     ],
     "level": "Level 1",
@@ -2587,8 +2587,8 @@
     ],
     "tts": "Look at the bird!",
     "hint": [
-      "Look",
       "____",
+      "at",
       "the",
       "bird!"
     ],
@@ -2616,8 +2616,8 @@
     ],
     "tts": "Don't touch, please.",
     "hint": [
-      "Don't",
       "____",
+      "touch,",
       "please",
       "."
     ],
@@ -2647,9 +2647,9 @@
     ],
     "tts": "Pick up the trash.",
     "hint": [
-      "Pick",
       "____",
       "____",
+      "the",
       "trash",
       "."
     ],
@@ -2681,10 +2681,10 @@
     ],
     "tts": "Please sit and wait here.",
     "hint": [
-      "Please",
       "____",
+      "sit",
       "____",
-      "____",
+      "wait",
       "here",
       "."
     ],
@@ -2717,10 +2717,10 @@
     "tts": "I want this jump rope.",
     "hint": [
       "I",
+      "want",
       "____",
+      "jump",
       "____",
-      "____",
-      "rope",
       "."
     ],
     "level": "Level 1",
@@ -2749,10 +2749,10 @@
     ],
     "tts": "How much is it?",
     "hint": [
-      "How",
       "____",
+      "much",
+      "is",
       "____",
-      "it",
       "?"
     ],
     "level": "Level 1",
@@ -2781,8 +2781,8 @@
     ],
     "tts": "It's seven hundred won.",
     "hint": [
-      "It's",
       "____",
+      "seven",
       "____",
       "won",
       "."
@@ -2811,7 +2811,7 @@
     "hint": [
       "It's",
       "cheap",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 94
@@ -2840,10 +2840,10 @@
     "tts": "It’s two thousand won.",
     "hint": [
       "It's",
+      "two",
+      "thousand",
       "____",
-      "____",
-      "won",
-      "."
+      "____"
     ],
     "level": "Level 1",
     "id": 95
@@ -2872,10 +2872,10 @@
     "tts": "What are you doing?",
     "hint": [
       "What",
+      "are",
+      "you",
       "____",
-      "____",
-      "doing",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 96
@@ -2903,8 +2903,8 @@
     ],
     "tts": "I'm washing my hands.",
     "hint": [
-      "I'm",
       "____",
+      "washing",
       "____",
       "hands",
       "."
@@ -2963,7 +2963,7 @@
     ],
     "tts": "I'm watching TV",
     "hint": [
-      "I'm",
+      "____",
       "watching",
       "TV"
     ],
@@ -2994,10 +2994,10 @@
     "tts": "What are you drawing?",
     "hint": [
       "What",
+      "are",
+      "you",
       "____",
-      "____",
-      "drawing",
-      "?"
+      "____"
     ],
     "level": "Level 1",
     "id": 100
@@ -3025,8 +3025,8 @@
     ],
     "tts": "These are my friends.",
     "hint": [
-      "These",
       "____",
+      "are",
       "____",
       "friends",
       "."
@@ -3055,9 +3055,9 @@
     "tts": "I'm new here.",
     "hint": [
       "I'm",
-      "____",
+      "new",
       "here",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 102
@@ -3086,9 +3086,9 @@
     "tts": "Where are you from?",
     "hint": [
       "Where",
+      "are",
       "____",
       "____",
-      "from",
       "?"
     ],
     "level": "Level 2",
@@ -3117,10 +3117,10 @@
     "tts": "I'm from U.S.",
     "hint": [
       "I'm",
+      "from",
+      "U",
       "____",
-      "____",
-      ".S",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 104
@@ -3151,10 +3151,10 @@
     "tts": "Welcome to the World Food Festival!",
     "hint": [
       "Welcome",
+      "to",
+      "the",
       "____",
       "____",
-      "____",
-      "Food",
       "Festival!"
     ],
     "level": "Level 2",
@@ -3177,7 +3177,7 @@
     ],
     "tts": "Good job!",
     "hint": [
-      "Good",
+      "____",
       "job!"
     ],
     "level": "Level 2",
@@ -3206,10 +3206,10 @@
     "tts": "Now, it's my turn.",
     "hint": [
       "Now,",
-      "____",
+      "it's",
       "____",
       "turn",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 107
@@ -3235,9 +3235,9 @@
     "tts": "He is coming.",
     "hint": [
       "He",
-      "____",
+      "is",
       "coming",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 108
@@ -3267,8 +3267,8 @@
     "hint": [
       "Whose",
       "____",
+      "is",
       "____",
-      "that",
       "?"
     ],
     "level": "Level 2",
@@ -3296,8 +3296,8 @@
     "tts": "It's your sister's.",
     "hint": [
       "It's",
+      "your",
       "____",
-      "sister's",
       "."
     ],
     "level": "Level 2",
@@ -3328,12 +3328,12 @@
     ],
     "tts": "It's my mom's apple jam.",
     "hint": [
-      "It's",
       "____",
-      "____",
-      "____",
+      "my",
+      "mom's",
+      "apple",
       "jam",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 111
@@ -3392,11 +3392,11 @@
     ],
     "tts": "Whose textbook is this?",
     "hint": [
-      "Whose",
       "____",
-      "____",
+      "textbook",
+      "is",
       "this",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 113
@@ -3420,7 +3420,7 @@
     ],
     "tts": "It's mine.",
     "hint": [
-      "It's",
+      "____",
       "mine",
       "."
     ],
@@ -3449,9 +3449,9 @@
     "tts": "Are you ready?",
     "hint": [
       "Are",
-      "____",
+      "you",
       "ready",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 115
@@ -3478,8 +3478,8 @@
     "tts": "It's very fast.",
     "hint": [
       "It's",
+      "very",
       "____",
-      "fast",
       "."
     ],
     "level": "Level 2",
@@ -3510,9 +3510,9 @@
     ],
     "tts": "I'm looking for my brush.",
     "hint": [
-      "I'm",
       "____",
-      "____",
+      "looking",
+      "for",
       "____",
       "brush",
       "."
@@ -3547,12 +3547,12 @@
     "tts": "Write your name on your notebook.",
     "hint": [
       "Write",
-      "____",
-      "____",
+      "your",
+      "name",
       "____",
       "____",
       "notebook",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 118
@@ -3579,9 +3579,9 @@
     "tts": "Are you sure?",
     "hint": [
       "Are",
-      "____",
+      "you",
       "sure",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 119
@@ -3610,10 +3610,10 @@
     "tts": "Here is the menu.",
     "hint": [
       "Here",
-      "____",
+      "is",
       "____",
       "menu",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 120
@@ -3642,9 +3642,9 @@
     "tts": "Here are potato sandwiches.",
     "hint": [
       "Here",
+      "are",
       "____",
       "____",
-      "sandwiches",
       "."
     ],
     "level": "Level 2",
@@ -3681,12 +3681,12 @@
     "hint": [
       "Today",
       "____",
-      "____",
-      "____",
-      "____",
+      "make",
+      "a",
+      "snack",
       "____",
       "eggs",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 122
@@ -3712,8 +3712,8 @@
     ],
     "tts": "You're making canapes.",
     "hint": [
-      "You're",
       "____",
+      "making",
       "canapes",
       "."
     ],
@@ -3741,8 +3741,8 @@
     ],
     "tts": "Please try some.",
     "hint": [
-      "Please",
       "____",
+      "try",
       "some",
       "."
     ],
@@ -3768,7 +3768,7 @@
     ],
     "tts": "It's sweet.",
     "hint": [
-      "It's",
+      "____",
       "sweet",
       "."
     ],
@@ -3795,7 +3795,7 @@
     "tts": "It's salty.",
     "hint": [
       "It's",
-      "salty",
+      "____",
       "."
     ],
     "level": "Level 2",
@@ -3820,7 +3820,7 @@
     "tts": "It's sour.",
     "hint": [
       "It's",
-      "sour",
+      "____",
       "."
     ],
     "level": "Level 2",
@@ -3846,7 +3846,7 @@
     "tts": "It's spicy.",
     "hint": [
       "It's",
-      "spicy",
+      "____",
       "."
     ],
     "level": "Level 2",
@@ -3879,7 +3879,7 @@
     "hint": [
       "Do",
       "____",
-      "____",
+      "want",
       "____",
       "more",
       "?"
@@ -3916,12 +3916,12 @@
     "tts": "It's time for P.E. class.",
     "hint": [
       "It's",
+      "time",
+      "for",
+      "P",
       "____",
       "____",
       "____",
-      "____",
-      "____",
-      "class",
       "."
     ],
     "level": "Level 2",
@@ -3950,11 +3950,11 @@
     ],
     "tts": "I don't like science.",
     "hint": [
-      "I",
       "____",
-      "____",
+      "don't",
+      "like",
       "science",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 131
@@ -3982,8 +3982,8 @@
     ],
     "tts": "What's your favorite subject?",
     "hint": [
-      "What's",
       "____",
+      "your",
       "____",
       "subject",
       "?"
@@ -4016,10 +4016,10 @@
     ],
     "tts": "My favorite subject is art.",
     "hint": [
-      "My",
       "____",
       "____",
-      "____",
+      "subject",
+      "is",
       "art",
       "."
     ],
@@ -4049,8 +4049,8 @@
     ],
     "tts": "Who's your favorite musician?",
     "hint": [
-      "Who's",
       "____",
+      "your",
       "____",
       "musician",
       "?"
@@ -4083,12 +4083,12 @@
     ],
     "tts": "My favorite musician is Beethoven.",
     "hint": [
-      "My",
       "____",
-      "____",
-      "____",
+      "favorite",
+      "musician",
+      "is",
       "Beethoven",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 135
@@ -4117,10 +4117,10 @@
     "tts": "It's my favorite song.",
     "hint": [
       "It's",
-      "____",
+      "my",
       "____",
       "song",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 136
@@ -4148,11 +4148,11 @@
     ],
     "tts": "Look at these flowers.",
     "hint": [
-      "Look",
       "____",
-      "____",
+      "at",
+      "these",
       "flowers",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 137
@@ -4179,8 +4179,8 @@
     "tts": "They are beautiful.",
     "hint": [
       "They",
+      "are",
       "____",
-      "beautiful",
       "."
     ],
     "level": "Level 2",
@@ -4211,12 +4211,12 @@
     ],
     "tts": "How old is your dog?",
     "hint": [
-      "How",
       "____",
-      "____",
-      "____",
+      "old",
+      "is",
+      "your",
       "dog",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 139
@@ -4248,7 +4248,7 @@
     "hint": [
       "Come",
       "____",
-      "____",
+      "see",
       "____",
       "dog",
       "."
@@ -4282,13 +4282,13 @@
     ],
     "tts": "What time do you get home?",
     "hint": [
-      "What",
       "____",
+      "time",
+      "do",
       "____",
-      "____",
-      "____",
+      "get",
       "home",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 141
@@ -4319,12 +4319,12 @@
     ],
     "tts": "I get home at 4.",
     "hint": [
-      "I",
       "____",
-      "____",
-      "____",
+      "get",
+      "home",
+      "at",
       "4",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 142
@@ -4362,13 +4362,13 @@
     "hint": [
       "You",
       "____",
+      "come",
       "____",
       "____",
-      "____",
-      "____",
-      "____",
+      "house",
+      "at",
       "4:30",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 143
@@ -4426,9 +4426,9 @@
     "hint": [
       "I",
       "____",
-      "____",
+      "math",
       "homework",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 145
@@ -4463,10 +4463,10 @@
       "What",
       "____",
       "____",
+      "you",
+      "do",
+      "your",
       "____",
-      "____",
-      "____",
-      "homework",
       "?"
     ],
     "level": "Level 2",
@@ -4492,7 +4492,7 @@
     "tts": "Same here.",
     "hint": [
       "Same",
-      "here",
+      "____",
       "."
     ],
     "level": "Level 2",
@@ -4527,11 +4527,11 @@
     "hint": [
       "I",
       "____",
+      "dance",
+      "class",
+      "at",
       "____",
-      "____",
-      "____",
-      "7:30",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 148
@@ -4567,12 +4567,12 @@
     ],
     "tts": "I wash my T-shirt and shoes at 4.",
     "hint": [
-      "I",
+      "____",
+      "wash",
       "____",
       "____",
-      "____",
-      "____",
-      "____",
+      "and",
+      "shoes",
       "____",
       "4",
       "."
@@ -4602,8 +4602,8 @@
     "tts": "Where are you?",
     "hint": [
       "Where",
+      "are",
       "____",
-      "you",
       "?"
     ],
     "level": "Level 2",
@@ -4636,11 +4636,11 @@
     ],
     "tts": "I'm in the International Space Station.",
     "hint": [
-      "I'm",
+      "____",
+      "in",
       "____",
       "____",
-      "____",
-      "____",
+      "Space",
       "Station",
       "."
     ],
@@ -4673,11 +4673,11 @@
     ],
     "tts": "What time do you have lunch?",
     "hint": [
-      "What",
       "____",
       "____",
+      "do",
       "____",
-      "____",
+      "have",
       "lunch",
       "?"
     ],
@@ -4705,8 +4705,8 @@
     "tts": "Is it delicious?",
     "hint": [
       "Is",
+      "it",
       "____",
-      "delicious",
       "?"
     ],
     "level": "Level 2",
@@ -4740,13 +4740,13 @@
     "tts": "What do you do in the afternoon?",
     "hint": [
       "What",
+      "do",
       "____",
+      "do",
       "____",
-      "____",
-      "____",
-      "____",
+      "the",
       "afternoon",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 154
@@ -4783,11 +4783,11 @@
     "hint": [
       "I",
       "____",
+      "about",
+      "space",
+      "and",
       "____",
       "____",
-      "____",
-      "____",
-      "books",
       "."
     ],
     "level": "Level 2",
@@ -4823,9 +4823,9 @@
       "Please",
       "____",
       "____",
+      "about",
+      "your",
       "____",
-      "____",
-      "day",
       "."
     ],
     "level": "Level 2",
@@ -4867,16 +4867,16 @@
     ],
     "tts": "I come here at 8 and check on the fish.",
     "hint": [
-      "I",
       "____",
+      "come",
       "____",
+      "at",
+      "8",
       "____",
+      "check",
+      "on",
+      "the",
       "____",
-      "____",
-      "____",
-      "____",
-      "____",
-      "fish",
       "."
     ],
     "level": "Level 2",
@@ -4908,11 +4908,11 @@
     "tts": "What do you do after that?",
     "hint": [
       "What",
+      "do",
+      "____",
+      "do",
       "____",
       "____",
-      "____",
-      "____",
-      "that",
       "?"
     ],
     "level": "Level 2",
@@ -4950,14 +4950,14 @@
     "tts": "I feed the animals and clean the fishtanks.",
     "hint": [
       "I",
+      "feed",
+      "____",
+      "animals",
+      "and",
+      "clean",
       "____",
       "____",
-      "____",
-      "____",
-      "____",
-      "____",
-      "fishtanks",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 159
@@ -4992,13 +4992,13 @@
     "tts": "I have a dive show at 2.",
     "hint": [
       "I",
+      "have",
+      "a",
       "____",
-      "____",
-      "____",
-      "____",
+      "show",
       "____",
       "2",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 160
@@ -5059,7 +5059,7 @@
     "tts": "Can I borrow your pen?",
     "hint": [
       "Can",
-      "____",
+      "I",
       "____",
       "____",
       "pen",
@@ -5087,7 +5087,7 @@
     ],
     "tts": "Of course.",
     "hint": [
-      "Of",
+      "____",
       "course",
       "."
     ],
@@ -5120,11 +5120,11 @@
     "tts": "Can I take a picture?",
     "hint": [
       "Can",
+      "I",
       "____",
-      "____",
-      "____",
+      "a",
       "picture",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 164
@@ -5155,7 +5155,7 @@
     "tts": "Let's take a picture together.",
     "hint": [
       "Let's",
-      "____",
+      "take",
       "____",
       "____",
       "together",
@@ -5193,12 +5193,12 @@
     "tts": "Can I go to the restroom?",
     "hint": [
       "Can",
-      "____",
-      "____",
+      "I",
+      "go",
       "____",
       "____",
       "restroom",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 166
@@ -5223,7 +5223,7 @@
     "tts": "No problem.",
     "hint": [
       "No",
-      "problem",
+      "____",
       "."
     ],
     "level": "Level 2",
@@ -5252,8 +5252,8 @@
     ],
     "tts": "Can you help me?",
     "hint": [
-      "Can",
       "____",
+      "you",
       "____",
       "me",
       "?"
@@ -5287,10 +5287,10 @@
     ],
     "tts": "I can see it well.",
     "hint": [
-      "I",
       "____",
       "____",
-      "____",
+      "see",
+      "it",
       "well",
       "."
     ],
@@ -5317,8 +5317,8 @@
     ],
     "tts": "You look great.",
     "hint": [
-      "You",
       "____",
+      "look",
       "great",
       "."
     ],
@@ -5353,9 +5353,9 @@
     "tts": "What did you do during your vacation?",
     "hint": [
       "What",
+      "did",
       "____",
-      "____",
-      "____",
+      "do",
       "____",
       "____",
       "vacation",
@@ -5396,15 +5396,15 @@
     ],
     "tts": "I went to the beach with my family.",
     "hint": [
-      "I",
       "____",
       "____",
-      "____",
-      "____",
-      "____",
+      "to",
+      "the",
+      "beach",
+      "with",
       "____",
       "family",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 172
@@ -5427,7 +5427,7 @@
     "tts": "Sounds fun!",
     "hint": [
       "Sounds",
-      "fun!"
+      "____"
     ],
     "level": "Level 2",
     "id": 173
@@ -5453,8 +5453,8 @@
     ],
     "tts": "How about you?",
     "hint": [
-      "How",
       "____",
+      "about",
       "you",
       "?"
     ],
@@ -5487,8 +5487,8 @@
     "hint": [
       "I",
       "____",
+      "my",
       "____",
-      "mom",
       "."
     ],
     "level": "Level 2",
@@ -5551,11 +5551,11 @@
     "tts": "I visited my grandparents in Thailand.",
     "hint": [
       "I",
+      "visited",
+      "____",
+      "grandparents",
       "____",
       "____",
-      "____",
-      "____",
-      "Thailand",
       "."
     ],
     "level": "Level 2",
@@ -5596,12 +5596,12 @@
       "I",
       "____",
       "____",
+      "the",
+      "beach",
+      "with",
+      "my",
       "____",
-      "____",
-      "____",
-      "____",
-      "grandma",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 178
@@ -5630,10 +5630,10 @@
     "tts": "This is for you.",
     "hint": [
       "This",
+      "is",
+      "for",
       "____",
-      "____",
-      "you",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 179
@@ -5660,8 +5660,8 @@
     "tts": "You look tired.",
     "hint": [
       "You",
+      "look",
       "____",
-      "tired",
       "."
     ],
     "level": "Level 2",
@@ -5695,10 +5695,10 @@
     "hint": [
       "What",
       "____",
+      "you",
+      "do",
       "____",
       "____",
-      "____",
-      "weekend",
       "?"
     ],
     "level": "Level 2",
@@ -5735,8 +5735,8 @@
     "tts": "I cleaned my house with my family yesterday.",
     "hint": [
       "I",
-      "____",
-      "____",
+      "cleaned",
+      "my",
       "____",
       "____",
       "____",
@@ -5769,8 +5769,8 @@
     ],
     "tts": "Oh, I see.",
     "hint": [
-      "Oh,",
       "____",
+      "I",
       "see",
       "."
     ],
@@ -5831,9 +5831,9 @@
     "tts": "Can I sit here?",
     "hint": [
       "Can",
+      "I",
       "____",
       "____",
-      "here",
       "?"
     ],
     "level": "Level 2",
@@ -5889,11 +5889,11 @@
     ],
     "tts": "How was your weekend?",
     "hint": [
-      "How",
       "____",
-      "____",
+      "was",
+      "your",
       "weekend",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 187
@@ -5916,7 +5916,7 @@
     ],
     "tts": "It's me.",
     "hint": [
-      "It's",
+      "____",
       "me",
       "."
     ],
@@ -5946,8 +5946,8 @@
     ],
     "tts": "Let's look for Carol.",
     "hint": [
-      "Let's",
       "____",
+      "look",
       "____",
       "Carol",
       "."
@@ -5979,10 +5979,10 @@
     "tts": "She is from Canada.",
     "hint": [
       "She",
+      "is",
+      "from",
       "____",
-      "____",
-      "Canada",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 190
@@ -6012,10 +6012,10 @@
     "tts": "What does he look like?",
     "hint": [
       "What",
+      "does",
+      "he",
       "____",
       "____",
-      "____",
-      "like",
       "?"
     ],
     "level": "Level 2",
@@ -6053,15 +6053,15 @@
     "tts": "She is tall and she has long curly hair.",
     "hint": [
       "She",
+      "is",
+      "tall",
       "____",
       "____",
+      "has",
+      "long",
+      "curly",
       "____",
-      "____",
-      "____",
-      "____",
-      "____",
-      "hair",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 192
@@ -6092,9 +6092,9 @@
     "hint": [
       "We",
       "____",
+      "in",
+      "Korea",
       "____",
-      "____",
-      "now",
       "."
     ],
     "level": "Level 2",
@@ -6132,13 +6132,13 @@
     ],
     "tts": "My friend and her son are waiting for us.",
     "hint": [
-      "My",
       "____",
       "____",
+      "and",
+      "her",
       "____",
-      "____",
-      "____",
-      "____",
+      "are",
+      "waiting",
       "____",
       "us",
       "."
@@ -6168,9 +6168,9 @@
     "tts": "What's his name?",
     "hint": [
       "What's",
-      "____",
+      "his",
       "name",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 195
@@ -6206,15 +6206,15 @@
     ],
     "tts": "He has short straight hair and big eyes.",
     "hint": [
-      "He",
       "____",
+      "has",
+      "short",
       "____",
-      "____",
-      "____",
-      "____",
+      "hair",
+      "and",
       "____",
       "eyes",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 196
@@ -6244,11 +6244,11 @@
     "tts": "Did you have fun today?",
     "hint": [
       "Did",
+      "you",
+      "have",
+      "fun",
       "____",
-      "____",
-      "____",
-      "today",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 197
@@ -6277,9 +6277,9 @@
     "tts": "What is she wearing?",
     "hint": [
       "What",
+      "is",
       "____",
       "____",
-      "wearing",
       "?"
     ],
     "level": "Level 2",
@@ -6317,15 +6317,15 @@
     "tts": "She is wearing a blue shirt and a greenskirt.",
     "hint": [
       "She",
+      "is",
       "____",
+      "a",
+      "blue",
+      "shirt",
       "____",
+      "a",
       "____",
-      "____",
-      "____",
-      "____",
-      "____",
-      "greenskirt",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 199
@@ -6360,13 +6360,13 @@
     "tts": "Can you play the piano for us?",
     "hint": [
       "Can",
+      "you",
+      "play",
+      "the",
+      "piano",
       "____",
       "____",
-      "____",
-      "____",
-      "____",
-      "us",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 200
@@ -6397,7 +6397,7 @@
     "hint": [
       "I'm",
       "____",
-      "____",
+      "for",
       "____",
       "dad",
       "."
@@ -6430,11 +6430,11 @@
     "tts": "Hello. This is Amy.",
     "hint": [
       "Hello",
+      ".",
+      "This",
+      "is",
       "____",
-      "____",
-      "____",
-      "Amy",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 202
@@ -6490,8 +6490,8 @@
     "tts": "See you then.",
     "hint": [
       "See",
+      "you",
       "____",
-      "then",
       "."
     ],
     "level": "Level 2",
@@ -6527,13 +6527,13 @@
     "tts": "Let's meet at the Sports Center at three.",
     "hint": [
       "Let's",
+      "meet",
+      "at",
       "____",
       "____",
       "____",
+      "at",
       "____",
-      "____",
-      "____",
-      "three",
       "."
     ],
     "level": "Level 2",
@@ -6565,11 +6565,11 @@
     ],
     "tts": "Can I speak to John?",
     "hint": [
-      "Can",
       "____",
+      "I",
+      "speak",
+      "to",
       "____",
-      "____",
-      "John",
       "?"
     ],
     "level": "Level 2",
@@ -6597,9 +6597,9 @@
     "tts": "Hold on, please.",
     "hint": [
       "Hold",
-      "____",
+      "on,",
       "please",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 207
@@ -6635,14 +6635,14 @@
     "tts": "Let's go on a picnic at th park.",
     "hint": [
       "Let's",
+      "go",
+      "on",
       "____",
-      "____",
-      "____",
-      "____",
+      "picnic",
       "____",
       "____",
       "park",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 208
@@ -6681,12 +6681,12 @@
     "hint": [
       "I",
       "____",
+      "make",
+      "some",
       "____",
       "____",
+      "the",
       "____",
-      "____",
-      "____",
-      "picnic",
       "."
     ],
     "level": "Level 2",
@@ -6719,7 +6719,7 @@
     "hint": [
       "How",
       "____",
-      "____",
+      "at",
       "____",
       "o'clock",
       "?"
@@ -6753,11 +6753,11 @@
     "tts": "I made these for you.",
     "hint": [
       "I",
+      "made",
+      "these",
+      "for",
       "____",
-      "____",
-      "____",
-      "you",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 211
@@ -6788,10 +6788,10 @@
     "tts": "Let's ride bikes this Saturday.",
     "hint": [
       "Let's",
+      "ride",
+      "bikes",
       "____",
       "____",
-      "____",
-      "Saturday",
       "."
     ],
     "level": "Level 2",
@@ -6821,10 +6821,10 @@
     "tts": "Nuri Market is open.",
     "hint": [
       "Nuri",
+      "Market",
+      "is",
       "____",
-      "____",
-      "open",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 213
@@ -6855,10 +6855,10 @@
     "tts": "Let's go there this afternoon.",
     "hint": [
       "Let's",
+      "go",
+      "there",
       "____",
       "____",
-      "____",
-      "afternoon",
       "."
     ],
     "level": "Level 2",
@@ -6882,7 +6882,7 @@
     ],
     "tts": "Excuse me.",
     "hint": [
-      "Excuse",
+      "____",
       "me",
       "."
     ],
@@ -6914,9 +6914,9 @@
     "hint": [
       "Where",
       "____",
-      "____",
+      "the",
       "market",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 216
@@ -6957,15 +6957,15 @@
     "tts": "Go straight three blocks and turn left at the bakery.",
     "hint": [
       "Go",
+      "straight",
+      "three",
+      "blocks",
+      "____",
+      "turn",
+      "____",
+      "at",
       "____",
       "____",
-      "____",
-      "____",
-      "____",
-      "____",
-      "____",
-      "____",
-      "bakery",
       "."
     ],
     "level": "Level 2",
@@ -6998,10 +6998,10 @@
     ],
     "tts": "We have to find the library.",
     "hint": [
-      "We",
       "____",
       "____",
-      "____",
+      "to",
+      "find",
       "____",
       "library",
       "."
@@ -7039,10 +7039,10 @@
     "tts": "Turn right again at the post office.",
     "hint": [
       "Turn",
+      "right",
       "____",
       "____",
-      "____",
-      "____",
+      "the",
       "____",
       "office",
       "."
@@ -7076,11 +7076,11 @@
     "tts": "The market is over there.",
     "hint": [
       "The",
+      "market",
       "____",
-      "____",
-      "____",
+      "over",
       "there",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 220
@@ -7111,11 +7111,11 @@
     "tts": "It's next to the bank.",
     "hint": [
       "It's",
+      "next",
       "____",
-      "____",
-      "____",
+      "the",
       "bank",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 221
@@ -7144,10 +7144,10 @@
     "tts": "It's on your right.",
     "hint": [
       "It's",
-      "____",
+      "on",
       "____",
       "right",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 222
@@ -7179,12 +7179,12 @@
     "tts": "What did you do last night?",
     "hint": [
       "What",
+      "did",
       "____",
-      "____",
-      "____",
+      "do",
       "____",
       "night",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 223
@@ -7215,13 +7215,13 @@
     ],
     "tts": "I watched a movie about animals.",
     "hint": [
-      "I",
       "____",
       "____",
-      "____",
-      "____",
+      "a",
+      "movie",
+      "about",
       "animals",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 224
@@ -7249,8 +7249,8 @@
     ],
     "tts": "You can feed them.",
     "hint": [
-      "You",
       "____",
+      "can",
       "____",
       "them",
       "."
@@ -7291,13 +7291,13 @@
     "hint": [
       "I",
       "____",
-      "____",
-      "____",
-      "____",
+      "to",
+      "go",
+      "to",
       "____",
       "____",
       "room",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 226
@@ -7331,14 +7331,14 @@
     ],
     "tts": "Do you want to be a scientist?",
     "hint": [
-      "Do",
       "____",
       "____",
-      "____",
-      "____",
-      "____",
+      "want",
+      "to",
+      "be",
+      "a",
       "scientist",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 227
@@ -7373,7 +7373,7 @@
       "____",
       "____",
       "____",
-      "____",
+      "to",
       "be",
       "?"
     ],
@@ -7408,12 +7408,12 @@
     ],
     "tts": "I want to be a photographer.",
     "hint": [
-      "I",
       "____",
+      "want",
+      "to",
       "____",
+      "a",
       "____",
-      "____",
-      "photographer",
       "."
     ],
     "level": "Level 2",
@@ -7447,11 +7447,11 @@
     "hint": [
       "Let's",
       "____",
-      "____",
-      "____",
+      "about",
+      "your",
       "____",
       "jobs",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 230
@@ -7477,8 +7477,8 @@
     "tts": "Who goes first?",
     "hint": [
       "Who",
+      "goes",
       "____",
-      "first",
       "?"
     ],
     "level": "Level 2",
@@ -7513,10 +7513,10 @@
     "hint": [
       "Come",
       "____",
+      "to",
+      "the",
       "____",
       "____",
-      "____",
-      "please",
       "."
     ],
     "level": "Level 2",
@@ -7551,12 +7551,12 @@
     "tts": "I want to open Thai Restaurant.",
     "hint": [
       "I",
+      "want",
       "____",
       "____",
-      "____",
-      "____",
+      "Thai",
       "Restaurant",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 233
@@ -7589,9 +7589,9 @@
     "hint": [
       "I",
       "____",
+      "to",
+      "help",
       "____",
-      "____",
-      "people",
       "."
     ],
     "level": "Level 2",
@@ -7624,9 +7624,9 @@
     "hint": [
       "I",
       "____",
+      "clothes",
+      "every",
       "____",
-      "____",
-      "day",
       "."
     ],
     "level": "Level 2",
@@ -7665,14 +7665,14 @@
     ],
     "tts": "Please come to my fashion show in twenty years.",
     "hint": [
-      "Please",
       "____",
+      "come",
       "____",
+      "my",
       "____",
+      "show",
       "____",
-      "____",
-      "____",
-      "____",
+      "twenty",
       "years",
       "."
     ],
@@ -7701,9 +7701,9 @@
     "tts": "Is it yours?",
     "hint": [
       "Is",
-      "____",
+      "it",
       "yours",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 237
@@ -7731,10 +7731,10 @@
     "tts": "Can you speak Chinese?",
     "hint": [
       "Can",
-      "____",
+      "you",
       "____",
       "Chinese",
-      "?"
+      "____"
     ],
     "level": "Level 2",
     "id": 238
@@ -7770,7 +7770,7 @@
       "____",
       "____",
       "____",
-      "____",
+      "this",
       "winter",
       "."
     ],
@@ -7805,9 +7805,9 @@
     "tts": "What will you do during winter vacation?",
     "hint": [
       "What",
+      "will",
       "____",
-      "____",
-      "____",
+      "do",
       "____",
       "____",
       "vacation",
@@ -7847,10 +7847,10 @@
       "I",
       "____",
       "____",
-      "____",
-      "____",
+      "a",
+      "ski",
       "camp",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 241
@@ -7877,8 +7877,8 @@
     "tts": "Please try some.",
     "hint": [
       "Please",
+      "try",
       "____",
-      "some",
       "."
     ],
     "level": "Level 2",
@@ -7909,9 +7909,9 @@
     ],
     "tts": "Do you like to dance?",
     "hint": [
-      "Do",
       "____",
-      "____",
+      "you",
+      "like",
       "____",
       "dance",
       "?"
@@ -7947,7 +7947,7 @@
       "Tomorrow",
       "____",
       "____",
-      "____",
+      "Year's",
       "Day",
       "."
     ],
@@ -7980,9 +7980,9 @@
     "hint": [
       "What",
       "____",
+      "you",
+      "do",
       "____",
-      "____",
-      "tomorrow",
       "?"
     ],
     "level": "Level 2",
@@ -8014,10 +8014,10 @@
     ],
     "tts": "I will visit many museums.",
     "hint": [
-      "I",
       "____",
+      "will",
       "____",
-      "____",
+      "many",
       "museums",
       "."
     ],
@@ -8049,11 +8049,11 @@
     "tts": "Come over to my house.",
     "hint": [
       "Come",
+      "over",
       "____",
-      "____",
-      "____",
+      "my",
       "house",
-      "."
+      "____"
     ],
     "level": "Level 2",
     "id": 247
@@ -8079,7 +8079,7 @@
     "hint": [
       "Happy",
       "New",
-      "Year!"
+      "____"
     ],
     "level": "Level 2",
     "id": 248
@@ -8109,10 +8109,10 @@
     ],
     "tts": "I will stay at home.",
     "hint": [
-      "I",
       "____",
       "____",
-      "____",
+      "stay",
+      "at",
       "home",
       "."
     ],
@@ -8150,13 +8150,13 @@
     ],
     "tts": "My mom can play the guitar very well.",
     "hint": [
-      "My",
+      "____",
+      "mom",
+      "can",
       "____",
       "____",
       "____",
-      "____",
-      "____",
-      "____",
+      "very",
       "well",
       "."
     ],
@@ -8187,11 +8187,11 @@
     ],
     "tts": "How was your day?",
     "hint": [
-      "How",
       "____",
+      "was",
       "____",
       "day",
-      "____"
+      "?"
     ],
     "level": "Level 3"
   },
@@ -8219,9 +8219,9 @@
     ],
     "tts": "What’s the weather like?",
     "hint": [
-      "What's",
       "____",
-      "____",
+      "the",
+      "weather",
       "like",
       "____"
     ],
@@ -8253,12 +8253,12 @@
     ],
     "tts": "What are you going to do?",
     "hint": [
-      "____",
+      "What",
       "____",
       "you",
       "going",
       "____",
-      "do",
+      "____",
       "?"
     ],
     "level": "Level 3"
@@ -8291,7 +8291,7 @@
       "your",
       "____",
       "please",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -8323,7 +8323,7 @@
     "hint": [
       "That",
       "is",
-      "____",
+      "what",
       "I'm",
       "____",
       "____"
@@ -8361,11 +8361,11 @@
     "tts": "Is there a hotel in this area?",
     "hint": [
       "____",
-      "____",
+      "there",
       "a",
+      "hotel",
       "____",
-      "in",
-      "this",
+      "____",
       "area",
       "?"
     ],
@@ -8402,10 +8402,10 @@
     "hint": [
       "I",
       "____",
+      "know",
+      "what",
       "____",
       "____",
-      "to",
-      "say",
       "."
     ],
     "level": "Level 3"
@@ -8437,7 +8437,7 @@
       "I'm",
       "about",
       "____",
-      "____",
+      "leave",
       "____"
     ],
     "level": "Level 3"
@@ -8470,13 +8470,13 @@
     ],
     "tts": "Did you clean up in here?",
     "hint": [
-      "Did",
       "____",
+      "you",
       "clean",
-      "____",
+      "up",
       "in",
       "____",
-      "?"
+      "____"
     ],
     "level": "Level 3"
   },
@@ -8506,11 +8506,11 @@
     ],
     "tts": "Have you heard of it?",
     "hint": [
-      "Have",
+      "____",
       "you",
+      "heard",
       "____",
-      "____",
-      "____",
+      "it",
       "?"
     ],
     "level": "Level 3"
@@ -8544,11 +8544,11 @@
     "tts": "Please take me to the market.",
     "hint": [
       "Please",
-      "take",
+      "____",
       "me",
       "____",
       "____",
-      "____",
+      "market",
       "."
     ],
     "level": "Level 3"
@@ -8579,12 +8579,12 @@
     ],
     "tts": "Why are you dressed up?",
     "hint": [
-      "Why",
-      "are",
       "____",
+      "are",
+      "you",
       "____",
       "up",
-      "____"
+      "?"
     ],
     "level": "Level 3"
   },
@@ -8616,10 +8616,10 @@
     "hint": [
       "Who's",
       "your",
-      "favorite",
       "____",
       "____",
-      "____"
+      "stars",
+      "?"
     ],
     "level": "Level 3"
   },
@@ -8653,13 +8653,13 @@
     ],
     "tts": "Would you like to have some coffee?",
     "hint": [
+      "Would",
       "____",
-      "you",
       "like",
-      "____",
+      "to",
       "____",
       "some",
-      "coffee",
+      "____",
       "?"
     ],
     "level": "Level 3"
@@ -8691,10 +8691,10 @@
     "hint": [
       "You",
       "seem",
-      "to",
       "____",
+      "be",
       "____",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -8721,11 +8721,11 @@
     ],
     "tts": "I’m in good shape.",
     "hint": [
+      "I'm",
       "____",
-      "in",
+      "good",
       "____",
-      "shape",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -8763,11 +8763,11 @@
     "tts": "I think we need to talk about it.",
     "hint": [
       "____",
-      "think",
-      "we",
+      "____",
+      "____",
       "need",
       "to",
-      "____",
+      "talk",
       "about",
       "it",
       "____"
@@ -8802,7 +8802,7 @@
       "____",
       "rather",
       "not",
-      "____",
+      "do",
       "that",
       "____"
     ],
@@ -8828,9 +8828,9 @@
     ],
     "tts": "Hear me out",
     "hint": [
+      "Hear",
       "____",
-      "____",
-      "____"
+      "out"
     ],
     "level": "Level 3"
   },
@@ -8858,11 +8858,11 @@
     ],
     "tts": "I am free today.",
     "hint": [
+      "I",
       "____",
-      "am",
+      "free",
       "____",
-      "today",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -8897,14 +8897,14 @@
     ],
     "tts": "Can I take this on the plane?",
     "hint": [
+      "Can",
       "____",
-      "I",
-      "____",
+      "take",
       "this",
+      "on",
       "____",
-      "the",
       "plane",
-      "?"
+      "____"
     ],
     "level": "Level 3"
   },
@@ -8939,15 +8939,15 @@
     ],
     "tts": "I’d like to book a flight to Paris.",
     "hint": [
-      "I'd",
+      "____",
       "like",
-      "____",
-      "book",
-      "a",
-      "flight",
       "to",
+      "book",
       "____",
-      "____"
+      "____",
+      "____",
+      "Paris",
+      "."
     ],
     "level": "Level 3"
   },
@@ -8985,8 +8985,8 @@
       "____",
       "left",
       "my",
+      "key",
       "____",
-      "in",
       "the",
       "room",
       "____"
@@ -9022,11 +9022,11 @@
     "hint": [
       "What's",
       "the",
+      "fare",
       "____",
-      "to",
       "____",
-      "____",
-      "?"
+      "hotel",
+      "____"
     ],
     "level": "Level 3"
   },
@@ -9051,8 +9051,8 @@
     ],
     "tts": "Keep the change.",
     "hint": [
-      "____",
-      "____",
+      "Keep",
+      "the",
       "change",
       "____"
     ],
@@ -9124,13 +9124,13 @@
     ],
     "tts": "Can I get a to-go box?",
     "hint": [
-      "Can",
       "____",
-      "____",
+      "I",
+      "get",
       "a",
+      "to-go",
       "____",
-      "box",
-      "?"
+      "____"
     ],
     "level": "Level 3"
   },
@@ -9164,11 +9164,11 @@
     "tts": "Where can I find a taxi?",
     "hint": [
       "____",
-      "can",
+      "____",
       "I",
       "find",
       "____",
-      "____",
+      "taxi",
       "?"
     ],
     "level": "Level 3"
@@ -9201,7 +9201,7 @@
     "hint": [
       "Do",
       "____",
-      "____",
+      "offer",
       "student",
       "discounts",
       "____"
@@ -9237,9 +9237,9 @@
       "____",
       "take",
       "a",
-      "____",
-      "____",
-      "."
+      "picture",
+      "together",
+      "____"
     ],
     "level": "Level 3"
   },
@@ -9271,7 +9271,7 @@
     "hint": [
       "Where",
       "is",
-      "____",
+      "the",
       "____",
       "____",
       "?"
@@ -9304,7 +9304,7 @@
     "hint": [
       "____",
       "was",
-      "____",
+      "really",
       "fun",
       "____"
     ],
@@ -9339,11 +9339,11 @@
     "tts": "How much is the admission fee?",
     "hint": [
       "How",
-      "much",
+      "____",
       "is",
       "the",
       "____",
-      "____",
+      "fee",
       "____"
     ],
     "level": "Level 3"
@@ -9374,9 +9374,9 @@
     "hint": [
       "____",
       "are",
-      "opening",
       "____",
-      "____"
+      "hours",
+      "?"
     ],
     "level": "Level 3"
   },
@@ -9405,11 +9405,11 @@
     ],
     "tts": "Take the shortest way, please.",
     "hint": [
-      "____",
+      "Take",
       "____",
       "shortest",
+      "way,",
       "____",
-      "please",
       "."
     ],
     "level": "Level 3"
@@ -9443,7 +9443,7 @@
       "____",
       "I",
       "____",
-      "____"
+      "?"
     ],
     "level": "Level 3"
   },
@@ -9471,11 +9471,11 @@
     ],
     "tts": "I need tourist information.",
     "hint": [
-      "____",
+      "I",
       "____",
       "tourist",
-      "____",
-      "."
+      "information",
+      "____"
     ],
     "level": "Level 3"
   },
@@ -9510,13 +9510,13 @@
     "tts": "Is there a free restroom around here?",
     "hint": [
       "Is",
-      "____",
+      "there",
       "a",
-      "free",
       "____",
-      "around",
+      "restroom",
       "____",
-      "?"
+      "here",
+      "____"
     ],
     "level": "Level 3"
   },
@@ -9546,10 +9546,10 @@
     "tts": "Can I film this?",
     "hint": [
       "Can",
+      "I",
       "____",
       "____",
-      "this",
-      "____"
+      "?"
     ],
     "level": "Level 3"
   },
@@ -9578,10 +9578,10 @@
     ],
     "tts": "Where do they sell cosmetics?",
     "hint": [
-      "Where",
       "____",
+      "do",
       "they",
-      "____",
+      "sell",
       "cosmetics",
       "____"
     ],
@@ -9615,13 +9615,13 @@
     ],
     "tts": "Which floor is the electronics section?",
     "hint": [
-      "Which",
       "____",
-      "____",
+      "floor",
+      "is",
       "the",
-      "electronics",
-      "section",
-      "____"
+      "____",
+      "____",
+      "?"
     ],
     "level": "Level 3"
   },
@@ -9650,11 +9650,11 @@
     ],
     "tts": "Can I touch it?",
     "hint": [
-      "____",
-      "____",
+      "Can",
+      "I",
       "touch",
       "____",
-      "?"
+      "____"
     ],
     "level": "Level 3"
   },
@@ -9681,11 +9681,11 @@
     ],
     "tts": "They are new arrivals.",
     "hint": [
-      "____",
+      "They",
       "are",
       "____",
-      "____",
-      "."
+      "arrivals",
+      "____"
     ],
     "level": "Level 3"
   },
@@ -9715,10 +9715,10 @@
     "tts": "This is the only type.",
     "hint": [
       "This",
+      "is",
+      "the",
       "____",
       "____",
-      "____",
-      "type",
       "."
     ],
     "level": "Level 3"
@@ -9754,13 +9754,13 @@
     "tts": "Could you show me some other colors?",
     "hint": [
       "Could",
-      "____",
+      "you",
       "show",
       "____",
-      "____",
+      "some",
       "other",
-      "colors",
-      "?"
+      "____",
+      "____"
     ],
     "level": "Level 3"
   },
@@ -9796,13 +9796,13 @@
     ],
     "tts": "Do you have this item in other size?",
     "hint": [
-      "Do",
       "____",
+      "you",
       "____",
       "this",
       "item",
       "in",
-      "other",
+      "____",
       "size",
       "____"
     ],
@@ -9841,14 +9841,14 @@
     "tts": "I will think about it a little more.",
     "hint": [
       "I",
-      "will",
-      "think",
+      "____",
+      "____",
       "about",
       "it",
+      "a",
       "____",
       "____",
-      "more",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -9878,12 +9878,12 @@
     ],
     "tts": "Is this the sale price?",
     "hint": [
+      "Is",
       "____",
-      "this",
       "the",
+      "sale",
       "____",
-      "price",
-      "____"
+      "?"
     ],
     "level": "Level 3"
   },
@@ -9914,11 +9914,11 @@
     "tts": "The price is all right.",
     "hint": [
       "The",
-      "____",
+      "price",
       "____",
       "all",
-      "right",
-      "____"
+      "____",
+      "."
     ],
     "level": "Level 3"
   },
@@ -9949,7 +9949,7 @@
     ],
     "tts": "Can I get a receipt?",
     "hint": [
-      "____",
+      "Can",
       "I",
       "get",
       "____",
@@ -9992,11 +9992,11 @@
     "hint": [
       "I",
       "don't'",
-      "think",
-      "I",
       "____",
       "____",
-      "right",
+      "got",
+      "the",
+      "____",
       "____",
       "."
     ],
@@ -10025,7 +10025,7 @@
     "tts": "Please wrap these separately.",
     "hint": [
       "____",
-      "____",
+      "wrap",
       "these",
       "____",
       "."
@@ -10066,15 +10066,15 @@
     ],
     "tts": "I want to exchange it for a smaller size.",
     "hint": [
-      "I",
+      "____",
       "____",
       "to",
-      "____",
+      "exchange",
       "____",
       "for",
       "a",
       "smaller",
-      "size",
+      "____",
       "."
     ],
     "level": "Level 3"
@@ -10105,12 +10105,12 @@
     ],
     "tts": "Can I get a refund?",
     "hint": [
-      "Can",
       "____",
-      "____",
+      "I",
+      "get",
       "a",
-      "refund",
-      "____"
+      "____",
+      "?"
     ],
     "level": "Level 3"
   },
@@ -10140,9 +10140,9 @@
     ],
     "tts": "Do you offer delivery service?",
     "hint": [
-      "Do",
       "____",
-      "____",
+      "you",
+      "offer",
       "____",
       "service",
       "?"
@@ -10173,11 +10173,11 @@
     ],
     "tts": "I didn’t buy books.",
     "hint": [
-      "I",
       "____",
+      "didn't",
+      "buy",
       "____",
-      "books",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -10209,12 +10209,12 @@
     ],
     "tts": "It’s a present for someone elderly.",
     "hint": [
+      "It's",
       "____",
-      "a",
-      "____",
+      "present",
       "____",
       "someone",
-      "elderly",
+      "____",
       "."
     ],
     "level": "Level 3"
@@ -10245,7 +10245,7 @@
     "tts": "I’ll come back another time.",
     "hint": [
       "I'll",
-      "____",
+      "come",
       "____",
       "another",
       "time",
@@ -10280,9 +10280,9 @@
     "tts": "Can I try this on?",
     "hint": [
       "Can",
-      "I",
       "____",
-      "____",
+      "try",
+      "this",
       "____",
       "?"
     ],
@@ -10315,10 +10315,10 @@
     "tts": "Please find the information attached.",
     "hint": [
       "Please",
+      "find",
       "____",
-      "the",
       "information",
-      "____",
+      "attached",
       "____"
     ],
     "level": "Level 3"
@@ -10355,11 +10355,11 @@
     ],
     "tts": "I’m afraid we need to delay our meeting.",
     "hint": [
-      "I'm",
       "____",
+      "afraid",
       "we",
       "need",
-      "to",
+      "____",
       "____",
       "____",
       "meeting",
@@ -10399,9 +10399,9 @@
     ],
     "tts": "Let me know if that works for you.",
     "hint": [
+      "Let",
       "____",
-      "me",
-      "know",
+      "____",
       "____",
       "____",
       "works",
@@ -10444,13 +10444,13 @@
     "tts": "I really apologize for the last minute change.",
     "hint": [
       "I",
+      "really",
+      "apologize",
       "____",
-      "____",
-      "for",
       "the",
       "____",
-      "minute",
-      "change",
+      "____",
+      "____",
       "."
     ],
     "level": "Level 3"
@@ -10482,12 +10482,12 @@
     ],
     "tts": "That’s fine. Let’s reschedule it.",
     "hint": [
+      "That's",
+      "fine",
+      "____",
+      "Let's",
       "____",
       "____",
-      ".",
-      "____",
-      "reschedule",
-      "it",
       "."
     ],
     "level": "Level 3"
@@ -10524,15 +10524,15 @@
     ],
     "tts": "I’ll leave it here for you guys to connect.",
     "hint": [
-      "I'll",
+      "____",
       "leave",
       "it",
       "____",
-      "for",
       "____",
-      "____",
+      "you",
+      "guys",
       "to",
-      "connect",
+      "____",
       "."
     ],
     "level": "Level 3"
@@ -10570,13 +10570,13 @@
     "tts": "It’s a great pleasure to connect with you.",
     "hint": [
       "____",
-      "a",
       "____",
-      "pleasure",
-      "to",
+      "great",
+      "____",
+      "____",
       "connect",
       "with",
-      "____",
+      "you",
       "."
     ],
     "level": "Level 3"
@@ -10610,11 +10610,11 @@
     "tts": "Look forward to working with you.",
     "hint": [
       "Look",
-      "forward",
-      "to",
       "____",
       "____",
+      "working",
       "____",
+      "you",
       "."
     ],
     "level": "Level 3"
@@ -10654,11 +10654,11 @@
       "Please",
       "keep",
       "in",
-      "mind",
       "____",
       "____",
       "____",
-      "points",
+      "key",
+      "____",
       "."
     ],
     "level": "Level 3"
@@ -10693,14 +10693,14 @@
     ],
     "tts": "Please refer to our website more information.",
     "hint": [
-      "____",
-      "____",
+      "Please",
+      "refer",
       "to",
       "our",
-      "website",
-      "more",
-      "information",
-      "____"
+      "____",
+      "____",
+      "____",
+      "."
     ],
     "level": "Level 3"
   },
@@ -10738,17 +10738,17 @@
     ],
     "tts": "We are very satisfied with your cooperation and your support.",
     "hint": [
-      "____",
+      "We",
       "are",
-      "very",
+      "____",
       "satisfied",
       "with",
       "your",
+      "cooperation",
       "____",
-      "and",
+      "your",
       "____",
-      "support",
-      "."
+      "____"
     ],
     "level": "Level 3"
   },
@@ -10792,18 +10792,18 @@
     "tts": "As soon as I know the result, I will let you know.",
     "hint": [
       "As",
-      "soon",
       "____",
+      "as",
       "I",
-      "know",
+      "____",
       "the",
-      "result,",
-      "I",
       "____",
+      "I",
+      "will",
       "let",
       "you",
-      "____",
-      "."
+      "know",
+      "____"
     ],
     "level": "Level 3"
   },
@@ -10836,12 +10836,12 @@
     "tts": "I hope you find this helpful.",
     "hint": [
       "____",
+      "hope",
       "____",
-      "you",
       "find",
-      "this",
+      "____",
       "helpful",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -10888,17 +10888,17 @@
     "hint": [
       "I'm",
       "afraid",
-      "I",
-      "cannot",
       "____",
-      "it",
+      "____",
+      "make",
+      "____",
       "on",
       "Tuesday",
       ".",
-      "____",
+      "How",
       "about",
-      "____",
-      "?"
+      "Friday",
+      "____"
     ],
     "level": "Level 3"
   },
@@ -10934,10 +10934,10 @@
     "hint": [
       "The",
       "____",
+      "in",
+      "red",
       "____",
       "____",
-      "are",
-      "my",
       "feedback",
       "."
     ],
@@ -10972,13 +10972,13 @@
     ],
     "tts": "I hope you had a good holiday.",
     "hint": [
-      "I",
+      "____",
       "hope",
       "____",
-      "had",
+      "____",
       "a",
-      "____",
-      "____",
+      "good",
+      "holiday",
       "."
     ],
     "level": "Level 3"
@@ -11024,12 +11024,12 @@
       "for",
       "giving",
       "us",
-      "feedback",
-      "on",
+      "____",
+      "____",
       "____",
       "new",
       "product",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -11057,9 +11057,9 @@
     ],
     "tts": "Could you speak louder?",
     "hint": [
+      "Could",
       "____",
-      "you",
-      "____",
+      "speak",
       "louder",
       "____"
     ],
@@ -11091,10 +11091,10 @@
     "tts": "I have a question.",
     "hint": [
       "I",
-      "have",
       "____",
+      "a",
       "____",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -11126,12 +11126,12 @@
     "tts": "What do you mean by that?",
     "hint": [
       "What",
-      "do",
       "____",
-      "mean",
+      "____",
+      "____",
       "by",
-      "____",
-      "____"
+      "that",
+      "?"
     ],
     "level": "Level 3"
   },
@@ -11164,10 +11164,10 @@
     "hint": [
       "I",
       "____",
-      "hear",
-      "you,",
       "____",
-      "____"
+      "you,",
+      "teacher",
+      "."
     ],
     "level": "Level 3"
   },
@@ -11195,7 +11195,7 @@
     ],
     "tts": "Can you see me?",
     "hint": [
-      "____",
+      "Can",
       "____",
       "____",
       "me",
@@ -11231,8 +11231,8 @@
     ],
     "tts": "Are you ready for our lesson?",
     "hint": [
-      "Are",
       "____",
+      "you",
       "____",
       "____",
       "our",
@@ -11267,12 +11267,12 @@
     "tts": "What did you do after school?",
     "hint": [
       "What",
-      "____",
+      "did",
       "____",
       "do",
       "____",
       "school",
-      "?"
+      "____"
     ],
     "level": "Level 3"
   },
@@ -11303,11 +11303,11 @@
     "tts": "Do you have the book?",
     "hint": [
       "Do",
-      "you",
       "____",
-      "the",
+      "have",
       "____",
-      "____"
+      "book",
+      "?"
     ],
     "level": "Level 3"
   },
@@ -11339,13 +11339,13 @@
     ],
     "tts": "Can you tell me the answer?",
     "hint": [
-      "Can",
+      "____",
       "you",
+      "tell",
+      "me",
+      "the",
       "____",
-      "____",
-      "____",
-      "answer",
-      "?"
+      "____"
     ],
     "level": "Level 3"
   },
@@ -11370,8 +11370,8 @@
     "tts": "Listen carefully.",
     "hint": [
       "____",
-      "____",
-      "____"
+      "carefully",
+      "."
     ],
     "level": "Level 3"
   },
@@ -11396,10 +11396,10 @@
     ],
     "tts": "Listen and repeat.",
     "hint": [
+      "Listen",
+      "and",
       "____",
-      "____",
-      "repeat",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -11432,11 +11432,11 @@
     ],
     "tts": "Please study hard for the next lesson.",
     "hint": [
+      "Please",
       "____",
-      "study",
       "____",
+      "for",
       "____",
-      "the",
       "next",
       "lesson",
       "."
@@ -11469,10 +11469,10 @@
     ],
     "tts": "Please read the next page.",
     "hint": [
-      "Please",
+      "____",
       "read",
-      "____",
-      "____",
+      "the",
+      "next",
       "page",
       "____"
     ],
@@ -11498,9 +11498,9 @@
     ],
     "tts": "Good job.",
     "hint": [
+      "Good",
       "____",
-      "____",
-      "____"
+      "."
     ],
     "level": "Level 3"
   },
@@ -11534,14 +11534,14 @@
     ],
     "tts": "Who can write it on the board?",
     "hint": [
-      "Who",
+      "____",
       "can",
-      "write",
-      "it",
       "____",
+      "____",
+      "on",
       "the",
-      "____",
-      "____"
+      "board",
+      "?"
     ],
     "level": "Level 3"
   },
@@ -11569,10 +11569,10 @@
     ],
     "tts": "Did you get it?",
     "hint": [
+      "Did",
+      "you",
       "____",
       "____",
-      "____",
-      "it",
       "?"
     ],
     "level": "Level 3"
@@ -11603,12 +11603,12 @@
     ],
     "tts": "I’ll give you a clue.",
     "hint": [
-      "____",
-      "____",
+      "I'll",
+      "give",
       "you",
+      "a",
       "____",
-      "clue",
-      "."
+      "____"
     ],
     "level": "Level 3"
   },
@@ -11644,14 +11644,14 @@
     ],
     "tts": "Does anyone know what this is in English?",
     "hint": [
-      "Does",
-      "anyone",
-      "know",
       "____",
+      "anyone",
+      "____",
+      "what",
       "this",
       "is",
+      "in",
       "____",
-      "English",
       "____"
     ],
     "level": "Level 3"
@@ -11682,9 +11682,9 @@
     "hint": [
       "____",
       "you",
+      "say",
       "____",
-      "it",
-      "____"
+      "?"
     ],
     "level": "Level 3"
   },
@@ -11719,7 +11719,7 @@
       "____",
       "an",
       "example",
-      "____"
+      "."
     ],
     "level": "Level 3"
   }
