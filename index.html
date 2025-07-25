@@ -186,6 +186,7 @@
         renderQuiz();
       } else {
         document.getElementById("modal-finish").style.display = "flex";
+        setTimeout(() => restartQuiz(), 10000);
       }
     }
 
@@ -194,7 +195,7 @@
     }
 
     function startCountdown() {
-      let timeLeft = 15;
+      let timeLeft = 10;
       document.getElementById('countdown').innerText = timeLeft;
       countdownInterval = setInterval(() => {
         timeLeft--;
@@ -213,7 +214,6 @@ function restartQuiz() {
 }
 </script>
 <audio id="wrongSound" preload="auto" src="오답.mp3"></audio>
-
 <div class="modal" id="modal-finish">
 <div class="modal-content">
 <h2>🎉 수고하셨습니다!</h2>
