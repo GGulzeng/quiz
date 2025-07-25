@@ -183,7 +183,7 @@
       document.getElementById('modal-correct').style.display = 'none';
       document.getElementById('modal-wrong').style.display = 'none';
       current++;
-      if (current < levelQuizzes.length) {
+      if (current < 5) {
         renderQuiz();
       } else {
         document.getElementById("modal-finish").style.display = "flex";
@@ -216,7 +216,6 @@ function restartQuiz() {
 }
 </script>
 <audio id="wrongSound" preload="auto" src="오답.mp3"></audio>
-
 <div class="modal" id="modal-finish">
 <div class="modal-content">
 <h2>🎉 수고하셨습니다!</h2>
