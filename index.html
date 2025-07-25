@@ -182,10 +182,10 @@
       document.getElementById('modal-correct').style.display = 'none';
       document.getElementById('modal-wrong').style.display = 'none';
       current++;
-      if (current < levelQuizzes.length) {
+      if (current < 5) {
         renderQuiz();
       } else {
-        alert("퀴즈가 끝났어요!");
+        document.getElementById("modal-finish").style.display = "flex";
       }
     }
 
@@ -206,7 +206,20 @@
       }, 1000);
     }
 
+
+function restartQuiz() {
+  document.getElementById("modal-finish").style.display = "none";
+  startQuiz(levelQuizzes[0].level);
+}
 </script>
 <audio id="wrongSound" preload="auto" src="오답.mp3"></audio>
+
+<div class="modal" id="modal-finish">
+<div class="modal-content">
+<h2>🎉 수고하셨습니다!</h2>
+<p>오늘도 열심히 했어요! 복습하면서 더 실력을 쌓아보세요.</p>
+<button onclick="restartQuiz()">다시 풀기</button>
+</div>
+</div>
 </body>
 </html>
