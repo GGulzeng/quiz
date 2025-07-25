@@ -183,10 +183,11 @@
       document.getElementById('modal-correct').style.display = 'none';
       document.getElementById('modal-wrong').style.display = 'none';
       current++;
-      if (current < 5) {
+      if (current < levelQuizzes.length) {
         renderQuiz();
       } else {
         document.getElementById("modal-finish").style.display = "flex";
+        document.getElementById("cheerSound").play();
         setTimeout(() => restartQuiz(), 10000);
       }
     }
@@ -215,6 +216,7 @@ function restartQuiz() {
 }
 </script>
 <audio id="wrongSound" preload="auto" src="오답.mp3"></audio>
+
 <div class="modal" id="modal-finish">
 <div class="modal-content">
 <h2>🎉 수고하셨습니다!</h2>
@@ -222,5 +224,5 @@ function restartQuiz() {
 <button onclick="restartQuiz()">다시 풀기</button>
 </div>
 </div>
-</body>
+<audio id="cheerSound" preload="auto" src="초등학생 환호소리.mp3"></audio></body>
 </html>
